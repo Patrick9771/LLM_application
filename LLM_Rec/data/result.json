@@ -1,0 +1,724 @@
+[
+  {
+    "user": {
+      "uid": "12",
+      "gender": "男",
+      "age_group": "25-34",
+      "occupation": "programmer",
+      "interests": [
+        "Drama",
+        "Comedy",
+        "Action",
+        "Crime",
+        "Adventure"
+      ],
+      "stats": {
+        "total_ratings": 23,
+        "avg_rating": 3.83,
+        "high_rating_ratio": "61%"
+      },
+      "recent_movies": [
+        "Dog Day Afternoon (1975)",
+        "Chinatown (1974)",
+        "Christmas Story, A (1983)"
+      ],
+      "description": "12号用户（男, 25-34, programmer）是个电影爱好者（平均评分3.8分，61%的电影评分为4星及以上），最近观看的电影包括《Dog Day Afternoon (1975), Chinatown (1974), Christmas Story, A (1983)》。偏好题材包括：Drama、Comedy、Action、Crime、Adventure"
+    },
+    "rec": "Based on the user's preference for crime, drama, and action films, along with their recent viewing history of classics like *Dog Day Afternoon* and *Chinatown*, here are three tailored recommendations from the candidate list:\n\n1. **Heat (1995)**  \n   - **Why?** A gripping crime drama with intense action sequences, featuring Al Pacino and Robert De Niro. Perfect for fans of *Dog Day Afternoon*'s tension and *Chinatown*'s layered storytelling.  \n\n2. **Casino (1995)**  \n   - **Why?** A Scorsese masterpiece blending crime and drama, with stellar performances. Matches the user's interest in gritty, character-driven narratives like *Chinatown*.  \n\n3. **The Usual Suspects (1995)**  \n   - **Why?** A twisty crime thriller with a stellar ensemble cast. Appeals to the user's love of intricate plots and crime themes, similar to their recent favorites.  \n\nEach film aligns with the user's high-rated preferences and offers a mix of suspense, drama, and action.",
+    "recommendations": [
+      "Heat (1995)",
+      "Why?",
+      "Casino (1995)",
+      "Why?",
+      "The Usual Suspects (1995)",
+      "Why?"
+    ],
+    "subjective_result": "[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"Matches user's interest in crime, drama, and action with strong storytelling and performances.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"Aligns with the preference for crime and drama, offering a character-driven narrative similar to Chinatown.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"Appeals to the user's love of intricate crime plots and ensemble casts.\",\n    \"Relevance\": 4,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  }\n]",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"Matches user's interest in crime, drama, and action with strong storytelling and performances.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"Aligns with the preference for crime and drama, offering a character-driven narrative similar to Chinatown.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"Appeals to the user's love of intricate crime plots and ensemble casts.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 5\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime drama with intense action sequences, featuring Al Pacino and Robert De Niro. Perfect for fans of *Dog Day Afternoon*'s tension and *Chinatown*'s layered storytelling.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A Scorsese masterpiece blending crime and drama, with stellar performances. Matches the user's interest in gritty, character-driven narratives like *Chinatown*.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A twisty crime thriller with a stellar ensemble cast. Appeals to the user's love of intricate plots and crime themes, similar to their recent favorites.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "13",
+      "gender": "男",
+      "age_group": "45-49",
+      "occupation": "academic/educator",
+      "interests": [
+        "Adventure",
+        "Action",
+        "Sci-Fi",
+        "Drama",
+        "Thriller"
+      ],
+      "stats": {
+        "total_ratings": 108,
+        "avg_rating": 3.39,
+        "high_rating_ratio": "37%"
+      },
+      "recent_movies": [
+        "Medicine Man (1992)",
+        "Superman II (1980)",
+        "Jumanji (1995)"
+      ],
+      "description": "13号用户（男, 45-49, academic/educator）是个电影爱好者（平均评分3.4分，37%的电影评分为4星及以上），最近观看的电影包括《Medicine Man (1992), Superman II (1980), Jumanji (1995)》。偏好题材包括：Adventure、Action、Sci-Fi、Drama、Thriller"
+    },
+    "rec": "Based on the user's preference for Adventure, Action, Sci-Fi, Drama, and Thriller genres, and considering his recent viewing history, here are three recommendations from the candidate list:\n\n1. **GoldenEye (1995)**  \n   - **Why?** This James Bond film combines action, adventure, and thriller elements, featuring high-stakes espionage and spectacular set pieces. Its blend of drama and sci-fi tech aligns well with the user's tastes.  \n\n2. **Heat (1995)**  \n   - **Why?** A gripping crime thriller with intense action sequences and deep character drama. The cat-and-mouse dynamic between Pacino and De Niro offers a perfect mix of tension and emotional depth.  \n\n3. **Twelve Monkeys (1995)**  \n   - **Why?** A sci-fi thriller with a dystopian twist, blending time travel, mystery, and psychological drama. Its thought-provoking plot and Brad Pitt's standout performance make it a compelling choice.  \n\nEach film aligns with the user's genre preferences while offering unique storytelling and excitement.",
+    "recommendations": [
+      "GoldenEye (1995)",
+      "Why?",
+      "Heat (1995)",
+      "Why?",
+      "Twelve Monkeys (1995)",
+      "Why?"
+    ],
+    "subjective_result": "[\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"This James Bond film combines action, adventure, and thriller elements, featuring high-stakes espionage and spectacular set pieces. Its blend of drama and sci-fi tech aligns well with the user's tastes.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action sequences and deep character drama. The cat-and-mouse dynamic between Pacino and De Niro offers a perfect mix of tension and emotional depth.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A sci-fi thriller with a dystopian twist, blending time travel, mystery, and psychological drama. Its thought-provoking plot and Brad Pitt's standout performance make it a compelling choice.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  }\n]",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"This James Bond film combines action, adventure, and thriller elements, featuring high-stakes espionage and spectacular set pieces. Its blend of drama and sci-fi tech aligns well with the user's tastes.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action sequences and deep character drama. The cat-and-mouse dynamic between Pacino and De Niro offers a perfect mix of tension and emotional depth.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A sci-fi thriller with a dystopian twist, blending time travel, mystery, and psychological drama. Its thought-provoking plot and Brad Pitt's standout performance make it a compelling choice.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"This James Bond film combines action, adventure, and thriller elements, featuring high-stakes espionage and spectacular set pieces. Its blend of drama and sci-fi tech aligns well with the user's tastes.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action sequences and deep character drama. The cat-and-mouse dynamic between Pacino and De Niro offers a perfect mix of tension and emotional depth.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A sci-fi thriller with a dystopian twist, blending time travel, mystery, and psychological drama. Its thought-provoking plot and Brad Pitt's standout performance make it a compelling choice.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "14",
+      "gender": "男",
+      "age_group": "35-44",
+      "occupation": "other",
+      "interests": [
+        "Drama",
+        "Comedy",
+        "Romance",
+        "Action",
+        "Thriller"
+      ],
+      "stats": {
+        "total_ratings": 25,
+        "avg_rating": 3.32,
+        "high_rating_ratio": "52%"
+      },
+      "recent_movies": [
+        "400 Blows, The (Les Quatre cents coups) (1959)",
+        "Amadeus (1984)",
+        "Deer Hunter, The (1978)"
+      ],
+      "description": "14号用户（男, 35-44, other）是个电影爱好者（平均评分3.3分，52%的电影评分为4星及以上），最近观看的电影包括《400 Blows, The (Les Quatre cents coups) (1959), Amadeus (1984), Deer Hunter, The (1978)》。偏好题材包括：Drama、Comedy、Romance、Action、Thriller"
+    },
+    "rec": "Based on the user's preference for Drama, Comedy, Romance, Action, and Thriller, and considering their recent viewing of classic and critically acclaimed films like *The 400 Blows*, *Amadeus*, and *The Deer Hunter*, here are three recommendations from the candidate list:\n\n1. **Casino (1995)**  \n   - **Why?** A gripping drama with intense action and thriller elements, directed by Martin Scorsese. Its rich storytelling and strong performances align with the user's appreciation for classic, high-quality films.  \n\n2. **The Usual Suspects (1995)**  \n   - **Why?** A masterful thriller with a twisty plot and stellar ensemble cast. Its blend of suspense and drama matches the user's taste for thought-provoking, well-crafted cinema.  \n\n3. **Leaving Las Vegas (1995)**  \n   - **Why?** A poignant drama with romance and raw emotional depth, featuring standout performances. Its melancholic yet beautiful narrative resonates with the user's preference for impactful storytelling.  \n\nEach film offers a unique blend of the user's preferred genres while maintaining a high standard of filmmaking.",
+    "recommendations": [
+      "Casino (1995)",
+      "Why?",
+      "The Usual Suspects (1995)",
+      "Why?",
+      "Leaving Las Vegas (1995)",
+      "Why?"
+    ],
+    "subjective_result": "[\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A gripping drama with intense action and thriller elements, directed by Martin Scorsese. Its rich storytelling and strong performances align with the user's appreciation for classic, high-quality films.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with a twisty plot and stellar ensemble cast. Its blend of suspense and drama matches the user's taste for thought-provoking, well-crafted cinema.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Leaving Las Vegas (1995)\",\n    \"Explanation\": \"A poignant drama with romance and raw emotional depth, featuring standout performances. Its melancholic yet beautiful narrative resonates with the user's preference for impactful storytelling.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  }\n]",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A gripping drama with intense action and thriller elements, directed by Martin Scorsese. Its rich storytelling and strong performances align with the user's appreciation for classic, high-quality films.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with a twisty plot and stellar ensemble cast. Its blend of suspense and drama matches the user's taste for thought-provoking, well-crafted cinema.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Leaving Las Vegas (1995)\",\n    \"Explanation\": \"A poignant drama with romance and raw emotional depth, featuring standout performances. Its melancholic yet beautiful narrative resonates with the user's preference for impactful storytelling.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A gripping drama with intense action and thriller elements, directed by Martin Scorsese. Its rich storytelling and strong performances align with the user's appreciation for classic, high-quality films.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with a twisty plot and stellar ensemble cast. Its blend of suspense and drama matches the user's taste for thought-provoking, well-crafted cinema.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Leaving Las Vegas (1995)\",\n    \"Explanation\": \"A poignant drama with romance and raw emotional depth, featuring standout performances. Its melancholic yet beautiful narrative resonates with the user's preference for impactful storytelling.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "15",
+      "gender": "男",
+      "age_group": "25-34",
+      "occupation": "executive/managerial",
+      "interests": [
+        "Drama",
+        "Thriller",
+        "Comedy",
+        "Action",
+        "Crime"
+      ],
+      "stats": {
+        "total_ratings": 201,
+        "avg_rating": 3.32,
+        "high_rating_ratio": "49%"
+      },
+      "recent_movies": [
+        "Frequency (2000)",
+        "Perfect Storm, The (2000)",
+        "Indiana Jones and the Temple of Doom (1984)"
+      ],
+      "description": "15号用户（男, 25-34, executive/managerial）是个电影爱好者（平均评分3.3分，49%的电影评分为4星及以上），最近观看的电影包括《Frequency (2000), Perfect Storm, The (2000), Indiana Jones and the Temple of Doom (1984)》。偏好题材包括：Drama、Thriller、Comedy、Action、Crime"
+    },
+    "rec": "Here are three movie recommendations tailored to 15号用户's preferences (Drama, Thriller, Action, Crime) based on his recent watches and candidate films:\n\n1. **Heat (1995)**  \n   - **Why?** A gripping crime thriller with intense action and dramatic depth, featuring Al Pacino and Robert De Niro. Perfect for fans of crime dramas and high-stakes heists.  \n\n2. **The Usual Suspects (1995)**  \n   - **Why?** A masterful thriller with twists and a brilliant ensemble cast. Its crime-driven plot and psychological tension align well with his interest in thrillers and dramas.  \n\n3. **GoldenEye (1995)**  \n   - **Why?** A high-octane action film with espionage and drama. Ideal for an executive who enjoys adrenaline-pumping sequences and strategic plots like *Indiana Jones*.  \n\nEach film balances his preferred genres while offering fresh excitement.",
+    "recommendations": [
+      "Heat (1995)",
+      "Why?",
+      "The Usual Suspects (1995)",
+      "Why?",
+      "GoldenEye (1995)",
+      "Why?"
+    ],
+    "subjective_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action and dramatic depth, featuring Al Pacino and Robert De Niro. Perfect for fans of crime dramas and high-stakes heists.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with twists and a brilliant ensemble cast. Its crime-driven plot and psychological tension align well with his interest in thrillers and dramas.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"A high-octane action film with espionage and drama. Ideal for an executive who enjoys adrenaline-pumping sequences and strategic plots like Indiana Jones.\",\n    \"Relevance\": 4,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  }\n]\n```",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action and dramatic depth, featuring Al Pacino and Robert De Niro. Perfect for fans of crime dramas and high-stakes heists.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with twists and a brilliant ensemble cast. Its crime-driven plot and psychological tension align well with his interest in thrillers and dramas.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"A high-octane action film with espionage and drama. Ideal for an executive who enjoys adrenaline-pumping sequences and strategic plots like Indiana Jones.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action and dramatic depth, featuring Al Pacino and Robert De Niro. Perfect for fans of crime dramas and high-stakes heists.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with twists and a brilliant ensemble cast. Its crime-driven plot and psychological tension align well with his interest in thrillers and dramas.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"A high-octane action film with espionage and drama. Ideal for an executive who enjoys adrenaline-pumping sequences and strategic plots like Indiana Jones.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "16",
+      "gender": "女",
+      "age_group": "35-44",
+      "occupation": "other",
+      "interests": [
+        "Comedy",
+        "Romance",
+        "Animation",
+        "Action",
+        "Sci-Fi"
+      ],
+      "stats": {
+        "total_ratings": 35,
+        "avg_rating": 3.03,
+        "high_rating_ratio": "37%"
+      },
+      "recent_movies": [
+        "Who Framed Roger Rabbit? (1988)",
+        "Wild Wild West (1999)",
+        "Runaway Bride (1999)"
+      ],
+      "description": "16号用户（女, 35-44, other）是个电影爱好者（平均评分3.0分，37%的电影评分为4星及以上），最近观看的电影包括《Who Framed Roger Rabbit? (1988), Wild Wild West (1999), Runaway Bride (1999)》。偏好题材包括：Comedy、Romance、Animation、Action、Sci-Fi"
+    },
+    "rec": "Based on the user's preferences for Comedy, Romance, Animation, Action, and Sci-Fi, here are three tailored recommendations from the candidate list:\n\n1. **Toy Story (1995)**  \n   - **Why?** A perfect blend of Animation and Comedy with heartwarming themes, matching the user's love for family-friendly animated films and lighthearted storytelling.  \n\n2. **Clueless (1995)**  \n   - **Why?** A witty Romantic Comedy with a modern twist, aligning with the user's enjoyment of light, humorous, and relatable romantic narratives.  \n\n3. **GoldenEye (1995)**  \n   - **Why?** Combines Action and Sci-Fi elements with thrilling sequences, fitting the user's interest in dynamic, high-stakes adventures and espionage.  \n\nEach film balances the user's genres and recent viewing trends.",
+    "recommendations": [
+      "Toy Story (1995)",
+      "Why?",
+      "Clueless (1995)",
+      "Why?",
+      "GoldenEye (1995)",
+      "Why?"
+    ],
+    "subjective_result": "[\n  {\n    \"Movie\": \"Toy Story (1995)\",\n    \"Explanation\": \"A perfect blend of Animation and Comedy with heartwarming themes, matching the user's love for family-friendly animated films and lighthearted storytelling.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"Clueless (1995)\",\n    \"Explanation\": \"A witty Romantic Comedy with a modern twist, aligning with the user's enjoyment of light, humorous, and relatable romantic narratives.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 3\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"Combines Action and Sci-Fi elements with thrilling sequences, fitting the user's interest in dynamic, high-stakes adventures and espionage.\",\n    \"Relevance\": 4,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 3\n  }\n]",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Toy Story (1995)\",\n    \"Explanation\": \"A perfect blend of Animation and Comedy with heartwarming themes, matching the user's love for family-friendly animated films and lighthearted storytelling.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Clueless (1995)\",\n    \"Explanation\": \"A witty Romantic Comedy with a modern twist, aligning with the user's enjoyment of light, humorous, and relatable romantic narratives.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"Combines Action and Sci-Fi elements with thrilling sequences, fitting the user's interest in dynamic, high-stakes adventures and espionage.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Toy Story (1995)\",\n    \"Explanation\": \"A perfect blend of Animation and Comedy with heartwarming themes, matching the user's love for family-friendly animated films and lighthearted storytelling.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Clueless (1995)\",\n    \"Explanation\": \"A witty Romantic Comedy with a modern twist, aligning with the user's enjoyment of light, humorous, and relatable romantic narratives.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"Combines Action and Sci-Fi elements with thrilling sequences, fitting the user's interest in dynamic, high-stakes adventures and espionage.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "17",
+      "gender": "男",
+      "age_group": "50-55",
+      "occupation": "academic/educator",
+      "interests": [
+        "Sci-Fi",
+        "Drama",
+        "Action",
+        "Thriller",
+        "Adventure"
+      ],
+      "stats": {
+        "total_ratings": 211,
+        "avg_rating": 4.08,
+        "high_rating_ratio": "79%"
+      },
+      "recent_movies": [
+        "L.A. Confidential (1997)",
+        "Hoodlum (1997)",
+        "Mulholland Falls (1996)"
+      ],
+      "description": "17号用户（男, 50-55, academic/educator）是个电影爱好者（平均评分4.1分，79%的电影评分为4星及以上），最近观看的电影包括《L.A. Confidential (1997), Hoodlum (1997), Mulholland Falls (1996)》。偏好题材包括：Sci-Fi、Drama、Action、Thriller、Adventure"
+    },
+    "rec": "Based on the user's preference for crime dramas, neo-noir, and thrillers, here are three highly rated films from the candidate list that align with their tastes:\n\n1. **Heat (1995)**  \n   - **Why?** A gripping crime thriller with intense performances by Al Pacino and Robert De Niro, featuring a legendary heist sequence. Its themes of loyalty and obsession mirror the user's enjoyed films like *L.A. Confidential*.  \n\n2. **The Usual Suspects (1995)**  \n   - **Why?** A masterful neo-noir mystery with a twist ending, blending suspense and psychological depth. Its intricate plot and gritty tone match the user's high ratings for thrillers.  \n\n3. **Casino (1995)**  \n   - **Why?** A lavish, violent epic about Vegas mobsters, directed by Scorsese. Shares the dark, dramatic flair of *Hoodlum* and *Mulholland Falls*, with layered character studies.  \n\nEach film offers the tension, drama, and stylistic depth the user appreciates.",
+    "recommendations": [
+      "Heat (1995)",
+      "Why?",
+      "The Usual Suspects (1995)",
+      "Why?",
+      "Casino (1995)",
+      "Why?"
+    ],
+    "subjective_result": "[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"Matches user's preference for crime dramas and intense psychological themes.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"Neo-noir mystery with deep plot aligns with user's taste in thrillers.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"Mob drama with dramatic depth similar to Hoodlum and Mulholland Falls.\",\n    \"Relevance\": 4,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  }\n]",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"Matches user's preference for crime dramas and intense psychological themes.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"Neo-noir mystery with deep plot aligns with user's taste in thrillers.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"Mob drama with dramatic depth similar to Hoodlum and Mulholland Falls.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense performances by Al Pacino and Robert De Niro, featuring a legendary heist sequence. Its themes of loyalty and obsession mirror the user's enjoyed films like *L.A. Confidential*.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful neo-noir mystery with a twist ending, blending suspense and psychological depth. Its intricate plot and gritty tone match the user's high ratings for thrillers.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A lavish, violent epic about Vegas mobsters, directed by Scorsese. Shares the dark, dramatic flair of *Hoodlum* and *Mulholland Falls*, with layered character studies.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  }\n]"
+  },
+  {
+    "user": {
+      "uid": "18",
+      "gender": "女",
+      "age_group": "18-24",
+      "occupation": "clerical/admin",
+      "interests": [
+        "Drama",
+        "Action",
+        "Children's",
+        "Comedy",
+        "Adventure"
+      ],
+      "stats": {
+        "total_ratings": 305,
+        "avg_rating": 3.65,
+        "high_rating_ratio": "64%"
+      },
+      "recent_movies": [
+        "Wings of the Dove, The (1997)",
+        "Legends of the Fall (1994)",
+        "Firm, The (1993)"
+      ],
+      "description": "18号用户（女, 18-24, clerical/admin）是个电影爱好者（平均评分3.6分，64%的电影评分为4星及以上），最近观看的电影包括《Wings of the Dove, The (1997), Legends of the Fall (1994), Firm, The (1993)》。偏好题材包括：Drama、Action、Children's、Comedy、Adventure"
+    },
+    "rec": "Based on the user's preferences for Drama, Action, Children's, Comedy, and Adventure, and her recent viewing history of romantic dramas, here are three tailored recommendations:\n\n1. **Sense and Sensibility (1995)**  \n   - **Why?** A classic romantic drama with strong female leads, similar to *The Wings of the Dove*. It blends emotional depth with period elegance, fitting her taste for sophisticated storytelling.  \n\n2. **GoldenEye (1995)**  \n   - **Why?** A high-energy action film with a mix of adventure and wit. Its thrilling pace and charismatic lead align with her enjoyment of *The Firm* and *Legends of the Fall*'s intensity.  \n\n3. **Babe (1995)**  \n   - **Why?** A heartwarming children’s adventure with universal appeal. Its charm and light comedy balance her darker drama preferences, offering a delightful change of pace.  \n\nEach film aligns with her genres while offering variety.",
+    "recommendations": [
+      "Sense and Sensibility (1995)",
+      "Why?",
+      "GoldenEye (1995)",
+      "Why?",
+      "Babe (1995)",
+      "Why?"
+    ],
+    "subjective_result": "[\n  {\n    \"Movie\": \"Sense and Sensibility (1995)\",\n    \"Explanation\": \"Matches my taste in romantic dramas with strong female leads, similar to The Wings of the Dove.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"Appeals to my liking for action and adventure films with intensity like in The Firm.\",\n    \"Relevance\": 4,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"Babe (1995)\",\n    \"Explanation\": \"Offers a charming and light-hearted break from darker dramas I watch.\",\n    \"Relevance\": 3,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 3\n  }\n]",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Sense and Sensibility (1995)\",\n    \"Explanation\": \"Matches my taste in romantic dramas with strong female leads, similar to The Wings of the Dove.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"Appeals to my liking for action and adventure films with intensity like in The Firm.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"Babe (1995)\",\n    \"Explanation\": \"Offers a charming and light-hearted break from darker dramas I watch.\",\n    \"Content-Matching\": 3,\n    \"Logic-Clarity\": 5\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Sense and Sensibility (1995)\",\n    \"Explanation\": \"A classic romantic drama with strong female leads, similar to *The Wings of the Dove*. Blends emotional depth with period elegance.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"A high-energy action film with adventure and wit. Thrilling pace aligns with enjoyment of *The Firm* and *Legends of the Fall*'s intensity.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 4\n  },\n  {\n    \"Movie\": \"Babe (1995)\",\n    \"Explanation\": \"A heartwarming children’s adventure with universal appeal. Charm and light comedy balance darker drama preferences.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "19",
+      "gender": "男",
+      "age_group": "Under 18",
+      "occupation": "K-12 student",
+      "interests": [
+        "Action",
+        "Comedy",
+        "Horror",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "stats": {
+        "total_ratings": 255,
+        "avg_rating": 3.57,
+        "high_rating_ratio": "56%"
+      },
+      "recent_movies": [
+        "Sting, The (1973)",
+        "Shawshank Redemption, The (1994)",
+        "Beverly Hills Ninja (1997)"
+      ],
+      "description": "19号用户（男, Under 18, K-12 student）是个电影爱好者（平均评分3.6分，56%的电影评分为4星及以上），最近观看的电影包括《Sting, The (1973), Shawshank Redemption, The (1994), Beverly Hills Ninja (1997)》。偏好题材包括：Action、Comedy、Horror、Thriller、Sci-Fi"
+    },
+    "rec": "Here are three movie recommendations tailored to 19号用户's preferences (Action, Comedy, Horror, Thriller, Sci-Fi):\n\n1. **GoldenEye (1995)**  \n   - **Why?** A classic James Bond film with high-octane action, thrilling espionage, and Pierce Brosnan's charismatic performance. Perfect for fans of *The Shawshank Redemption* who enjoy suspense and adventure.  \n\n2. **From Dusk Till Dawn (1996)**  \n   - **Why?** Blends horror, action, and dark comedy—directed by Robert Rodriguez and written by Quentin Tarantino. Its sudden genre shift (crime thriller to vampire horror) aligns with the user's love for thrills and surprises.  \n\n3. **Twelve Monkeys (1995)**  \n   - **Why?** A mind-bending sci-fi thriller starring Bruce Willis, with time travel and dystopian themes. Appeals to fans of *The Shawshank Redemption*'s layered storytelling and *Beverly Hills Ninja*'s quirky energy.  \n\nEach pick balances his rated genres while offering fresh excitement!",
+    "recommendations": [
+      "GoldenEye (1995)",
+      "Why?",
+      "From Dusk Till Dawn (1996)",
+      "Why?",
+      "Twelve Monkeys (1995)",
+      "Why?"
+    ],
+    "subjective_result": "```json\n[\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"A classic James Bond film with high-octane action, thrilling espionage, and Pierce Brosnan's charismatic performance. Perfect for fans of *The Shawshank Redemption* who enjoy suspense and adventure.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"From Dusk Till Dawn (1996)\",\n    \"Explanation\": \"Blends horror, action, and dark comedy—directed by Robert Rodriguez and written by Quentin Tarantino. Its sudden genre shift (crime thriller to vampire horror) aligns with the user's love for thrills and surprises.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A mind-bending sci-fi thriller starring Bruce Willis, with time travel and dystopian themes. Appeals to fans of *The Shawshank Redemption*'s layered storytelling and *Beverly Hills Ninja*'s quirky energy.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  }\n]\n```",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"A classic James Bond film with high-octane action, thrilling espionage, and Pierce Brosnan's charismatic performance. Perfect for fans of *The Shawshank Redemption* who enjoy suspense and adventure.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"From Dusk Till Dawn (1996)\",\n    \"Explanation\": \"Blends horror, action, and dark comedy—directed by Robert Rodriguez and written by Quentin Tarantino. Its sudden genre shift (crime thriller to vampire horror) aligns with the user's love for thrills and surprises.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A mind-bending sci-fi thriller starring Bruce Willis, with time travel and dystopian themes. Appeals to fans of *The Shawshank Redemption*'s layered storytelling and *Beverly Hills Ninja*'s quirky energy.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"A classic James Bond film with high-octane action, thrilling espionage, and Pierce Brosnan's charismatic performance. Perfect for fans of *The Shawshank Redemption* who enjoy suspense and adventure.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"From Dusk Till Dawn (1996)\",\n    \"Explanation\": \"Blends horror, action, and dark comedy—directed by Robert Rodriguez and written by Quentin Tarantino. Its sudden genre shift (crime thriller to vampire horror) aligns with the user's love for thrills and surprises.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A mind-bending sci-fi thriller starring Bruce Willis, with time travel and dystopian themes. Appeals to fans of *The Shawshank Redemption*'s layered storytelling and *Beverly Hills Ninja*'s quirky energy.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "20",
+      "gender": "男",
+      "age_group": "25-34",
+      "occupation": "sales/marketing",
+      "interests": [
+        "Action",
+        "Thriller",
+        "Sci-Fi",
+        "Drama",
+        "Crime"
+      ],
+      "stats": {
+        "total_ratings": 24,
+        "avg_rating": 4.08,
+        "high_rating_ratio": "79%"
+      },
+      "recent_movies": [
+        "Star Trek: The Motion Picture (1979)",
+        "Terminator, The (1984)",
+        "Fifth Element, The (1997)"
+      ],
+      "description": "20号用户（男, 25-34, sales/marketing）是个电影爱好者（平均评分4.1分，79%的电影评分为4星及以上），最近观看的电影包括《Star Trek: The Motion Picture (1979), Terminator, The (1984), Fifth Element, The (1997)》。偏好题材包括：Action、Thriller、Sci-Fi、Drama、Crime"
+    },
+    "rec": "Based on the user's preference for Action, Thriller, Sci-Fi, Drama, and Crime, here are three highly recommended films from the candidate list that align with their tastes:\n\n1. **Heat (1995)**  \n   - **Why?** A gripping crime drama with intense action sequences and stellar performances by Al Pacino and Robert De Niro. The cat-and-mouse dynamic between cop and criminal fits the user's love for Crime and Thriller.  \n\n2. **Twelve Monkeys (1995)**  \n   - **Why?** A mind-bending Sci-Fi thriller with a dystopian plot and psychological depth. Its blend of action and drama matches the user's high-rated preferences.  \n\n3. **The Usual Suspects (1995)**  \n   - **Why?** A masterful Crime/Thriller with a legendary twist. The intricate plot and dramatic tension align perfectly with the user's favored genres.  \n\nEach film offers a mix of action, suspense, and intellectual engagement, ensuring high appeal.",
+    "recommendations": [
+      "Heat (1995)",
+      "Why?",
+      "Twelve Monkeys (1995)",
+      "Why?",
+      "The Usual Suspects (1995)",
+      "Why?"
+    ],
+    "subjective_result": "[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime drama with intense action sequences and stellar performances by Al Pacino and Robert De Niro. The cat-and-mouse dynamic between cop and criminal fits the user's love for Crime and Thriller.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A mind-bending Sci-Fi thriller with a dystopian plot and psychological depth. Its blend of action and drama matches the user's high-rated preferences.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful Crime/Thriller with a legendary twist. The intricate plot and dramatic tension align perfectly with the user's favored genres.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  }\n]",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime drama with intense action sequences and stellar performances by Al Pacino and Robert De Niro. The cat-and-mouse dynamic between cop and criminal fits the user's love for Crime and Thriller.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A mind-bending Sci-Fi thriller with a dystopian plot and psychological depth. Its blend of action and drama matches the user's high-rated preferences.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful Crime/Thriller with a legendary twist. The intricate plot and dramatic tension align perfectly with the user's favored genres.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime drama with intense action sequences and stellar performances by Al Pacino and Robert De Niro. The cat-and-mouse dynamic between cop and criminal fits the user's love for Crime and Thriller.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A mind-bending Sci-Fi thriller with a dystopian plot and psychological depth. Its blend of action and drama matches the user's high-rated preferences.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful Crime/Thriller with a legendary twist. The intricate plot and dramatic tension align perfectly with the user's favored genres.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "21",
+      "gender": "男",
+      "age_group": "18-24",
+      "occupation": "self-employed",
+      "interests": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Children's",
+        "Action"
+      ],
+      "stats": {
+        "total_ratings": 22,
+        "avg_rating": 2.91,
+        "high_rating_ratio": "27%"
+      },
+      "recent_movies": [
+        "Little Nemo: Adventures in Slumberland (1992)",
+        "Prince of Egypt, The (1998)",
+        "Pinocchio (1940)"
+      ],
+      "description": "21号用户（男, 18-24, self-employed）是个电影爱好者（平均评分2.9分，27%的电影评分为4星及以上），最近观看的电影包括《Little Nemo: Adventures in Slumberland (1992), Prince of Egypt, The (1998), Pinocchio (1940)》。偏好题材包括：Animation、Adventure、Comedy、Children's、Action"
+    },
+    "rec": "Based on the user's preference for Animation, Adventure, Comedy, Children's, and Action genres, here are three tailored recommendations:\n\n1. **Toy Story (1995)**  \n   - **Why?** A classic animated adventure-comedy with heartwarming humor and action-packed sequences, perfect for fans of children’s animation and lighthearted storytelling.  \n\n2. **Jumanji (1995)**  \n   - **Why?** A thrilling adventure-comedy blending fantasy and action, ideal for someone who enjoys animated whimsy and live-action excitement.  \n\n3. **Balto (1995)**  \n   - **Why?** An underrated animated adventure with humor and heart, fitting the user’s taste for family-friendly animation and heroic action.  \n\nEach film aligns with the user’s recent watches and genre preferences.",
+    "recommendations": [
+      "Toy Story (1995)",
+      "Why?",
+      "Jumanji (1995)",
+      "Why?",
+      "Balto (1995)",
+      "Why?"
+    ],
+    "subjective_result": "[\n  {\n    \"Movie\": \"Toy Story (1995)\",\n    \"Explanation\": \"A classic animated adventure-comedy with heartwarming humor and action-packed sequences, perfect for fans of children’s animation and lighthearted storytelling.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Jumanji (1995)\",\n    \"Explanation\": \"A thrilling adventure-comedy blending fantasy and action, ideal for someone who enjoys animated whimsy and live-action excitement.\",\n    \"Relevance\": 4,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"Balto (1995)\",\n    \"Explanation\": \"An underrated animated adventure with humor and heart, fitting the user’s taste for family-friendly animation and heroic action.\",\n    \"Relevance\": 4,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 3\n  }\n]",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Toy Story (1995)\",\n    \"Explanation\": \"A classic animated adventure-comedy with heartwarming humor and action-packed sequences, perfect for fans of children’s animation and lighthearted storytelling.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Jumanji (1995)\",\n    \"Explanation\": \"A thrilling adventure-comedy blending fantasy and action, ideal for someone who enjoys animated whimsy and live-action excitement.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"Balto (1995)\",\n    \"Explanation\": \"An underrated animated adventure with humor and heart, fitting the user’s taste for family-friendly animation and heroic action.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Toy Story (1995)\",\n    \"Explanation\": \"A classic animated adventure-comedy with heartwarming humor and action-packed sequences, perfect for fans of children’s animation and lighthearted storytelling.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Jumanji (1995)\",\n    \"Explanation\": \"A thrilling adventure-comedy blending fantasy and action, ideal for someone who enjoys animated whimsy and live-action excitement.\",\n    \"Hallucination-Risk\": 2,\n    \"Explanatory Validity\": 4\n  },\n  {\n    \"Movie\": \"Balto (1995)\",\n    \"Explanation\": \"An underrated animated adventure with humor and heart, fitting the user’s taste for family-friendly animation and heroic action.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "22",
+      "gender": "男",
+      "age_group": "18-24",
+      "occupation": "scientist",
+      "interests": [
+        "Comedy",
+        "Action",
+        "Thriller",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "stats": {
+        "total_ratings": 297,
+        "avg_rating": 3.07,
+        "high_rating_ratio": "40%"
+      },
+      "recent_movies": [
+        "Some Like It Hot (1959)",
+        "North by Northwest (1959)",
+        "Way of the Gun, The (2000)"
+      ],
+      "description": "22号用户（男, 18-24, scientist）是个电影爱好者（平均评分3.1分，40%的电影评分为4星及以上），最近观看的电影包括《Some Like It Hot (1959), North by Northwest (1959), Way of the Gun, The (2000)》。偏好题材包括：Comedy、Action、Thriller、Drama、Sci-Fi"
+    },
+    "rec": "Based on the user's preference for Comedy, Action, Thriller, Drama, and Sci-Fi, and considering their recent enjoyment of classic and action-packed films like *Some Like It Hot* and *North by Northwest*, here are three tailored recommendations:\n\n1. **Heat (1995)**  \n   - **Why?** A gripping crime thriller with intense action and dramatic depth, featuring Al Pacino and Robert De Niro. Perfect for fans of *Way of the Gun* and *North by Northwest*.\n\n2. **Twelve Monkeys (1995)**  \n   - **Why?** A mind-bending sci-fi thriller with dark humor and dystopian drama. Appeals to the user's interest in Sci-Fi and Thriller genres.\n\n3. **GoldenEye (1995)**  \n   - **Why?** A high-octane action film with witty humor, blending the user's love for Action and Comedy. Classic Bond charm meets modern thrills.  \n\nEach film balances the user's preferred genres while offering fresh experiences.",
+    "recommendations": [
+      "Heat (1995)",
+      "Why?",
+      "Twelve Monkeys (1995)",
+      "Why?",
+      "GoldenEye (1995)",
+      "Why?"
+    ],
+    "subjective_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action and dramatic depth, featuring Al Pacino and Robert De Niro. Perfect for fans of *Way of the Gun* and *North by Northwest*.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A mind-bending sci-fi thriller with dark humor and dystopian drama. Appeals to the user's interest in Sci-Fi and Thriller genres.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"A high-octane action film with witty humor, blending the user's love for Action and Comedy. Classic Bond charm meets modern thrills.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  }\n]\n```",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action and dramatic depth, featuring Al Pacino and Robert De Niro. Perfect for fans of *Way of the Gun* and *North by Northwest*.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A mind-bending sci-fi thriller with dark humor and dystopian drama. Appeals to the user's interest in Sci-Fi and Thriller genres.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"A high-octane action film with witty humor, blending the user's love for Action and Comedy. Classic Bond charm meets modern thrills.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action and dramatic depth, featuring Al Pacino and Robert De Niro. Perfect for fans of *Way of the Gun* and *North by Northwest*.\",\n    \"Hallucination-Risk\": 2,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A mind-bending sci-fi thriller with dark humor and dystopian drama. Appeals to the user's interest in Sci-Fi and Thriller genres.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"A high-octane action film with witty humor, blending the user's love for Action and Comedy. Classic Bond charm meets modern thrills.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "23",
+      "gender": "男",
+      "age_group": "35-44",
+      "occupation": "other",
+      "interests": [
+        "Sci-Fi",
+        "Action",
+        "Thriller",
+        "Comedy",
+        "Drama"
+      ],
+      "stats": {
+        "total_ratings": 304,
+        "avg_rating": 3.32,
+        "high_rating_ratio": "42%"
+      },
+      "recent_movies": [
+        "Superman IV: The Quest for Peace (1987)",
+        "Maximum Overdrive (1986)",
+        "House II: The Second Story (1987)"
+      ],
+      "description": "23号用户（男, 35-44, other）是个电影爱好者（平均评分3.3分，42%的电影评分为4星及以上），最近观看的电影包括《Superman IV: The Quest for Peace (1987), Maximum Overdrive (1986), House II: The Second Story (1987)》。偏好题材包括：Sci-Fi、Action、Thriller、Comedy、Drama"
+    },
+    "rec": "Based on the user's preferences for Sci-Fi, Action, Thriller, Comedy, and Drama, here are three recommendations from the candidate list:\n\n1. **GoldenEye (1995)**  \n   - **Why?** This James Bond film combines action, thrills, and a touch of sci-fi with its high-tech plot. The user's enjoyment of *Superman IV* and *Maximum Overdrive* suggests they’d appreciate this classic 90s action flick.  \n\n2. **Heat (1995)**  \n   - **Why?** A gripping crime thriller with intense action sequences and dramatic depth. The user’s interest in *Thriller* and *Drama* aligns well with this iconic heist film.  \n\n3. **Twelve Monkeys (1995)**  \n   - **Why?** A sci-fi thriller with a twisty plot and dark humor. The user’s liking for *Sci-Fi* and *Thriller* makes this a perfect match.  \n\nEach film balances the user’s preferred genres while offering standout performances and memorable moments.",
+    "recommendations": [
+      "GoldenEye (1995)",
+      "Why?",
+      "Heat (1995)",
+      "Why?",
+      "Twelve Monkeys (1995)",
+      "Why?"
+    ],
+    "subjective_result": "```json\n[\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"This James Bond film combines action, thrills, and a touch of sci-fi with its high-tech plot. The user's enjoyment of Superman IV and Maximum Overdrive suggests they’d appreciate this classic 90s action flick.\",\n    \"Relevance\": 4,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action sequences and dramatic depth. The user’s interest in Thriller and Drama aligns well with this iconic heist film.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A sci-fi thriller with a twisty plot and dark humor. The user’s liking for Sci-Fi and Thriller makes this a perfect match.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 5\n  }\n]\n```",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"This James Bond film combines action, thrills, and a touch of sci-fi with its high-tech plot. The user's enjoyment of Superman IV and Maximum Overdrive suggests they’d appreciate this classic 90s action flick.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action sequences and dramatic depth. The user’s interest in Thriller and Drama aligns well with this iconic heist film.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A sci-fi thriller with a twisty plot and dark humor. The user’s liking for Sci-Fi and Thriller makes this a perfect match.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"This James Bond film combines action, thrills, and a touch of sci-fi with its high-tech plot. The user's enjoyment of Superman IV and Maximum Overdrive suggests they’d appreciate this classic 90s action flick.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action sequences and dramatic depth. The user’s interest in Thriller and Drama aligns well with this iconic heist film.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A sci-fi thriller with a twisty plot and dark humor. The user’s liking for Sci-Fi and Thriller makes this a perfect match.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "24",
+      "gender": "女",
+      "age_group": "25-34",
+      "occupation": "executive/managerial",
+      "interests": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Action",
+        "Adventure"
+      ],
+      "stats": {
+        "total_ratings": 136,
+        "avg_rating": 3.95,
+        "high_rating_ratio": "81%"
+      },
+      "recent_movies": [
+        "Rocky Horror Picture Show, The (1975)",
+        "Out of Africa (1985)",
+        "Frances (1982)"
+      ],
+      "description": "24号用户（女, 25-34, executive/managerial）是个电影爱好者（平均评分3.9分，81%的电影评分为4星及以上），最近观看的电影包括《Rocky Horror Picture Show, The (1975), Out of Africa (1985), Frances (1982)》。偏好题材包括：Comedy、Drama、Romance、Action、Adventure"
+    },
+    "rec": "Based on the user's preferences for Comedy, Drama, Romance, Action, and Adventure, and her recent enjoyment of films like *The Rocky Horror Picture Show*, *Out of Africa*, and *Frances*, here are three tailored recommendations:\n\n1. **Sense and Sensibility (1995)**  \n   - **Why?** A perfect blend of romance and drama, this Jane Austen adaptation offers wit, emotional depth, and stellar performances, aligning with her love for period dramas like *Out of Africa*.\n\n2. **Clueless (1995)**  \n   - **Why?** A sharp, modern comedy with romance and satire, reminiscent of her enjoyment of *The Rocky Horror Picture Show*'s playful tone and quirky charm.\n\n3. **GoldenEye (1995)**  \n   - **Why?** Combines action and adventure with a touch of romance, fitting her executive profile and high-rated action preferences, while offering a fresh take on the Bond franchise.  \n\nEach film balances her favored genres while matching her high rating tendencies.",
+    "recommendations": [
+      "Sense and Sensibility (1995)",
+      "Why?",
+      "Clueless (1995)",
+      "Why?",
+      "GoldenEye (1995)",
+      "Why?"
+    ],
+    "subjective_result": "```json\n[\n  {\n    \"Movie\": \"Sense and Sensibility (1995)\",\n    \"Explanation\": \"A perfect blend of romance and drama, this Jane Austen adaptation offers wit, emotional depth, and stellar performances, aligning with her love for period dramas like *Out of Africa*.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Clueless (1995)\",\n    \"Explanation\": \"A sharp, modern comedy with romance and satire, reminiscent of her enjoyment of *The Rocky Horror Picture Show*'s playful tone and quirky charm.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"Combines action and adventure with a touch of romance, fitting her executive profile and high-rated action preferences, while offering a fresh take on the Bond franchise.\",\n    \"Relevance\": 4,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  }\n]\n```",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Sense and Sensibility (1995)\",\n    \"Explanation\": \"A perfect blend of romance and drama, this Jane Austen adaptation offers wit, emotional depth, and stellar performances, aligning with her love for period dramas like *Out of Africa*.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Clueless (1995)\",\n    \"Explanation\": \"A sharp, modern comedy with romance and satire, reminiscent of her enjoyment of *The Rocky Horror Picture Show*'s playful tone and quirky charm.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"Combines action and adventure with a touch of romance, fitting her executive profile and high-rated action preferences, while offering a fresh take on the Bond franchise.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Sense and Sensibility (1995)\",\n    \"Explanation\": \"A perfect blend of romance and drama, this Jane Austen adaptation offers wit, emotional depth, and stellar performances, aligning with her love for period dramas like *Out of Africa*.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Clueless (1995)\",\n    \"Explanation\": \"A sharp, modern comedy with romance and satire, reminiscent of her enjoyment of *The Rocky Horror Picture Show*'s playful tone and quirky charm.\",\n    \"Hallucination-Risk\": 2,\n    \"Explanatory Validity\": 4\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"Combines action and adventure with a touch of romance, fitting her executive profile and high-rated action preferences, while offering a fresh take on the Bond franchise.\",\n    \"Hallucination-Risk\": 3,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "25",
+      "gender": "男",
+      "age_group": "18-24",
+      "occupation": "college/grad student",
+      "interests": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "stats": {
+        "total_ratings": 85,
+        "avg_rating": 3.74,
+        "high_rating_ratio": "61%"
+      },
+      "recent_movies": [
+        "What Lies Beneath (2000)",
+        "Titan A.E. (2000)",
+        "Man on the Moon (1999)"
+      ],
+      "description": "25号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.7分，61%的电影评分为4星及以上），最近观看的电影包括《What Lies Beneath (2000), Titan A.E. (2000), Man on the Moon (1999)》。偏好题材包括：Action、Sci-Fi、Adventure、Comedy、Drama"
+    },
+    "rec": "Based on the user's preferences for Action, Sci-Fi, Adventure, Comedy, and Drama, here are three tailored recommendations from the candidate list:\n\n1. **Twelve Monkeys (1995)**  \n   - **Why?** A gripping sci-fi thriller with time travel, dystopian themes, and psychological drama, blending action and cerebral storytelling—perfect for fans of thought-provoking sci-fi like *Titan A.E.*.  \n\n2. **GoldenEye (1995)**  \n   - **Why?** High-octane action and espionage with a charismatic lead (Pierce Brosnan as Bond). Combines adventure and humor, aligning with the user’s love for *Action* and *Comedy*.  \n\n3. **Strange Days (1995)**  \n   - **Why?** A cyberpunk noir with intense action and sci-fi elements, exploring dark futuristic themes. Appeals to fans of *What Lies Beneath*’s suspense and *Sci-Fi* intrigue.  \n\nEach film balances the user’s favored genres while offering fresh, engaging narratives.",
+    "recommendations": [
+      "Twelve Monkeys (1995)",
+      "Why?",
+      "GoldenEye (1995)",
+      "Why?",
+      "Strange Days (1995)",
+      "Why?"
+    ],
+    "subjective_result": "```json\n[\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A gripping sci-fi thriller with time travel, dystopian themes, and psychological drama, blending action and cerebral storytelling—perfect for fans of thought-provoking sci-fi like Titan A.E.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"High-octane action and espionage with a charismatic lead (Pierce Brosnan as Bond). Combines adventure and humor, aligning with the user’s love for Action and Comedy.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"Strange Days (1995)\",\n    \"Explanation\": \"A cyberpunk noir with intense action and sci-fi elements, exploring dark futuristic themes. Appeals to fans of What Lies Beneath’s suspense and Sci-Fi intrigue.\",\n    \"Relevance\": 4,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  }\n]\n```",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A gripping sci-fi thriller with time travel, dystopian themes, and psychological drama, blending action and cerebral storytelling—perfect for fans of thought-provoking sci-fi like Titan A.E.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"High-octane action and espionage with a charismatic lead (Pierce Brosnan as Bond). Combines adventure and humor, aligning with the user’s love for Action and Comedy.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"Strange Days (1995)\",\n    \"Explanation\": \"A cyberpunk noir with intense action and sci-fi elements, exploring dark futuristic themes. Appeals to fans of What Lies Beneath’s suspense and Sci-Fi intrigue.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Twelve Monkeys (1995)\",\n    \"Explanation\": \"A gripping sci-fi thriller with time travel, dystopian themes, and psychological drama, blending action and cerebral storytelling—perfect for fans of thought-provoking sci-fi like Titan A.E.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"GoldenEye (1995)\",\n    \"Explanation\": \"High-octane action and espionage with a charismatic lead (Pierce Brosnan as Bond). Combines adventure and humor, aligning with the user’s love for Action and Comedy.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Strange Days (1995)\",\n    \"Explanation\": \"A cyberpunk noir with intense action and sci-fi elements, exploring dark futuristic themes. Appeals to fans of What Lies Beneath’s suspense and Sci-Fi intrigue.\",\n    \"Hallucination-Risk\": 2,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "26",
+      "gender": "男",
+      "age_group": "25-34",
+      "occupation": "executive/managerial",
+      "interests": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Action",
+        "Thriller"
+      ],
+      "stats": {
+        "total_ratings": 400,
+        "avg_rating": 2.96,
+        "high_rating_ratio": "26%"
+      },
+      "recent_movies": [
+        "Austin Powers: The Spy Who Shagged Me (1999)",
+        "As Good As It Gets (1997)",
+        "About Last Night... (1986)"
+      ],
+      "description": "26号用户（男, 25-34, executive/managerial）是个电影爱好者（平均评分3.0分，26%的电影评分为4星及以上），最近观看的电影包括《Austin Powers: The Spy Who Shagged Me (1999), As Good As It Gets (1997), About Last Night... (1986)》。偏好题材包括：Comedy、Drama、Romance、Action、Thriller"
+    },
+    "rec": "Based on the user's profile (male, 25-34, executive/managerial) and preferences for Comedy, Drama, Romance, Action, and Thriller, here are three tailored recommendations from the candidate list:\n\n1. **Get Shorty (1995)**  \n   - **Why?** A witty blend of crime, comedy, and Hollywood satire with John Travolta as a charismatic mobster. Matches the user's taste for action and humor, similar to *Austin Powers*' clever tone.  \n\n2. **Heat (1995)**  \n   - **Why?** A gripping crime thriller with intense action and dramatic depth, starring Al Pacino and Robert De Niro. Appeals to the user's managerial mindset with its strategic cat-and-mouse plot.  \n\n3. **The American President (1995)**  \n   - **Why?** A romantic drama with political wit, combining romance and sharp dialogue. Aligns with the user's enjoyment of *As Good As It Gets* and workplace-themed narratives.  \n\nEach film balances humor, tension, or romance while fitting the user's eclectic tastes.",
+    "recommendations": [
+      "Get Shorty (1995)",
+      "Why?",
+      "Heat (1995)",
+      "Why?",
+      "The American President (1995)",
+      "Why?"
+    ],
+    "subjective_result": "```json\n[\n  {\n    \"Movie\": \"Get Shorty (1995)\",\n    \"Explanation\": \"A witty blend of crime, comedy, and Hollywood satire with John Travolta as a charismatic mobster. Matches the user's taste for action and humor, similar to Austin Powers' clever tone.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action and dramatic depth, starring Al Pacino and Robert De Niro. Appeals to the user's managerial mindset with its strategic cat-and-mouse plot.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"The American President (1995)\",\n    \"Explanation\": \"A romantic drama with political wit, combining romance and sharp dialogue. Aligns with the user's enjoyment of As Good As It Gets and workplace-themed narratives.\",\n    \"Relevance\": 4,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 3\n  }\n]\n```",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Get Shorty (1995)\",\n    \"Explanation\": \"A witty blend of crime, comedy, and Hollywood satire with John Travolta as a charismatic mobster. Matches the user's taste for action and humor, similar to Austin Powers' clever tone.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action and dramatic depth, starring Al Pacino and Robert De Niro. Appeals to the user's managerial mindset with its strategic cat-and-mouse plot.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"The American President (1995)\",\n    \"Explanation\": \"A romantic drama with political wit, combining romance and sharp dialogue. Aligns with the user's enjoyment of As Good As It Gets and workplace-themed narratives.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 5\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Get Shorty (1995)\",\n    \"Explanation\": \"A witty blend of crime, comedy, and Hollywood satire with John Travolta as a charismatic mobster. Matches the user's taste for action and humor, similar to Austin Powers' clever tone.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Heat (1995)\",\n    \"Explanation\": \"A gripping crime thriller with intense action and dramatic depth, starring Al Pacino and Robert De Niro. Appeals to the user's managerial mindset with its strategic cat-and-mouse plot.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"The American President (1995)\",\n    \"Explanation\": \"A romantic drama with political wit, combining romance and sharp dialogue. Aligns with the user's enjoyment of As Good As It Gets and workplace-themed narratives.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "27",
+      "gender": "男",
+      "age_group": "25-34",
+      "occupation": "lawyer",
+      "interests": [
+        "Drama",
+        "Comedy",
+        "Film-Noir",
+        "Thriller",
+        "Adventure"
+      ],
+      "stats": {
+        "total_ratings": 70,
+        "avg_rating": 4.17,
+        "high_rating_ratio": "77%"
+      },
+      "recent_movies": [
+        "Raiders of the Lost Ark (1981)",
+        "Treasure of the Sierra Madre, The (1948)",
+        "Great Escape, The (1963)"
+      ],
+      "description": "27号用户（男, 25-34, lawyer）是个电影爱好者（平均评分4.2分，77%的电影评分为4星及以上），最近观看的电影包括《Raiders of the Lost Ark (1981), Treasure of the Sierra Madre, The (1948), Great Escape, The (1963)》。偏好题材包括：Drama、Comedy、Film-Noir、Thriller、Adventure"
+    },
+    "rec": "Based on the user's preference for adventure, drama, and classic films like *Raiders of the Lost Ark* and *The Great Escape*, here are three recommendations from the candidate list:\n\n1. **Casino (1995)**  \n   - **Why?** A gripping drama with thriller elements, directed by Martin Scorsese. Its intense narrative and strong performances align with the user's high ratings for dramatic and noir films.  \n\n2. **The Usual Suspects (1995)**  \n   - **Why?** A masterful thriller with a noir vibe, featuring intricate storytelling and suspense. Matches the user's taste for clever, high-stakes narratives.  \n\n3. **Braveheart (1995)**  \n   - **Why?** An epic historical drama with adventure and emotional depth, similar to the user's enjoyment of grand, action-driven stories like *The Great Escape*.  \n\nEach film offers a blend of drama, tension, and adventure, fitting the user's profile.",
+    "recommendations": [
+      "Casino (1995)",
+      "Why?",
+      "The Usual Suspects (1995)",
+      "Why?",
+      "Braveheart (1995)",
+      "Why?"
+    ],
+    "subjective_result": "```json\n[\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A gripping drama with thriller elements, directed by Martin Scorsese. Its intense narrative and strong performances align with the user's high ratings for dramatic and noir films.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with a noir vibe, featuring intricate storytelling and suspense. Matches the user's taste for clever, high-stakes narratives.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Braveheart (1995)\",\n    \"Explanation\": \"An epic historical drama with adventure and emotional depth, similar to the user's enjoyment of grand, action-driven stories like *The Great Escape*.\",\n    \"Relevance\": 4,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  }\n]\n```",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A gripping drama with thriller elements, directed by Martin Scorsese. Its intense narrative and strong performances align with the user's high ratings for dramatic and noir films.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with a noir vibe, featuring intricate storytelling and suspense. Matches the user's taste for clever, high-stakes narratives.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Braveheart (1995)\",\n    \"Explanation\": \"An epic historical drama with adventure and emotional depth, similar to the user's enjoyment of grand, action-driven stories like *The Great Escape*.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A gripping drama with thriller elements, directed by Martin Scorsese. Its intense narrative and strong performances align with the user's high ratings for dramatic and noir films.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with a noir vibe, featuring intricate storytelling and suspense. Matches the user's taste for clever, high-stakes narratives.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Braveheart (1995)\",\n    \"Explanation\": \"An epic historical drama with adventure and emotional depth, similar to the user's enjoyment of grand, action-driven stories like *The Great Escape*.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "28",
+      "gender": "女",
+      "age_group": "25-34",
+      "occupation": "academic/educator",
+      "interests": [
+        "Drama",
+        "Comedy",
+        "Romance",
+        "Thriller",
+        "Action"
+      ],
+      "stats": {
+        "total_ratings": 107,
+        "avg_rating": 3.76,
+        "high_rating_ratio": "65%"
+      },
+      "recent_movies": [
+        "Who's Afraid of Virginia Woolf? (1966)",
+        "Toy Story (1995)",
+        "Casablanca (1942)"
+      ],
+      "description": "28号用户（女, 25-34, academic/educator）是个电影爱好者（平均评分3.8分，65%的电影评分为4星及以上），最近观看的电影包括《Who's Afraid of Virginia Woolf? (1966), Toy Story (1995), Casablanca (1942)》。偏好题材包括：Drama、Comedy、Romance、Thriller、Action"
+    },
+    "rec": "Based on the user's preferences for Drama, Comedy, Romance, Thriller, and Action, and her recent enjoyment of classic films like *Casablanca* and *Who's Afraid of Virginia Woolf?*, here are three tailored recommendations:\n\n1. **Sense and Sensibility (1995)**  \n   - **Why?** A perfect blend of romance and drama, this Jane Austen adaptation offers witty dialogue, emotional depth, and stellar performances. Its elegant storytelling aligns with the user's appreciation for classic narratives and strong character-driven plots.  \n\n2. **The Usual Suspects (1995)**  \n   - **Why?** A gripping thriller with clever twists and exceptional ensemble acting. Its intricate plot and dark humor will appeal to her taste for thrillers and dramas, while the sharp writing echoes the intensity of *Who’s Afraid of Virginia Woolf?*.  \n\n3. **Leaving Las Vegas (1995)**  \n   - **Why?** A raw, romantic drama with a tragic edge, featuring powerful performances. Its blend of romance and gritty realism matches her interest in emotionally charged films like *Casablanca*, while offering a modern, unconventional love story.  \n\nEach film balances her preferred genres while offering the depth and quality she rates highly.",
+    "recommendations": [
+      "Sense and Sensibility (1995)",
+      "Why?",
+      "The Usual Suspects (1995)",
+      "Why?",
+      "Leaving Las Vegas (1995)",
+      "Why?"
+    ],
+    "subjective_result": "```json\n[\n  {\n    \"Movie\": \"Sense and Sensibility (1995)\",\n    \"Explanation\": \"Matches her taste in romance, drama, and classic storytelling with strong characters.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"Appeals to her preference for thrillers with complex plots and sharp dialogue.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Leaving Las Vegas (1995)\",\n    \"Explanation\": \"Fits her interest in emotionally intense dramas with unconventional romance.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  }\n]\n```",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Sense and Sensibility (1995)\",\n    \"Explanation\": \"Matches her taste in romance, drama, and classic storytelling with strong characters.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"Appeals to her preference for thrillers with complex plots and sharp dialogue.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 4\n  },\n  {\n    \"Movie\": \"Leaving Las Vegas (1995)\",\n    \"Explanation\": \"Fits her interest in emotionally intense dramas with unconventional romance.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Sense and Sensibility (1995)\",\n    \"Explanation\": \"A perfect blend of romance and drama, this Jane Austen adaptation offers witty dialogue, emotional depth, and stellar performances.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A gripping thriller with clever twists and exceptional ensemble acting. Its intricate plot and dark humor will appeal to her taste for thrillers and dramas.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Leaving Las Vegas (1995)\",\n    \"Explanation\": \"A raw, romantic drama with a tragic edge, featuring powerful performances. Its blend of romance and gritty realism matches her interest in emotionally charged films.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "29",
+      "gender": "男",
+      "age_group": "35-44",
+      "occupation": "executive/managerial",
+      "interests": [
+        "Action",
+        "Thriller",
+        "Adventure",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "stats": {
+        "total_ratings": 108,
+        "avg_rating": 3.58,
+        "high_rating_ratio": "48%"
+      },
+      "recent_movies": [
+        "Haunting, The (1963)",
+        "On Her Majesty's Secret Service (1969)",
+        "Mummy, The (1999)"
+      ],
+      "description": "29号用户（男, 35-44, executive/managerial）是个电影爱好者（平均评分3.6分，48%的电影评分为4星及以上），最近观看的电影包括《Haunting, The (1963), On Her Majesty's Secret Service (1969), Mummy, The (1999)》。偏好题材包括：Action、Thriller、Adventure、Sci-Fi、Drama"
+    },
+    "rec": "Based on the user's preference for Action, Thriller, Adventure, Sci-Fi, and Drama, here are three tailored recommendations from the candidate list:\n\n1. **GoldenEye (1995)**  \n   - **Why?** A classic James Bond film with high-octane action, thrilling espionage, and exotic locales, aligning perfectly with the user's love for adventure and action.  \n\n2. **Heat (1995)**  \n   - **Why?** A gripping crime thriller with intense drama and standout performances, blending action and psychological depth, ideal for a fan of thrillers and drama.  \n\n3. **Twelve Monkeys (1995)**  \n   - **Why?** A mind-bending sci-fi thriller with a dystopian plot and dramatic twists, catering to the user's interest in sci-fi and thought-provoking narratives.  \n\nEach film offers a mix of excitement, suspense, and depth, matching the user's tastes.",
+    "recommendations": [
+      "GoldenEye (1995)",
+      "Why?",
+      "Heat (1995)",
+      "Why?",
+      "Twelve Monkeys (1995)",
+      "Why?"
+    ],
+    "subjective_result": "```json\n[\n    {\n        \"Movie\": \"GoldenEye (1995)\",\n        \"Explanation\": \"A classic James Bond film with high-octane action, thrilling espionage, and exotic locales, aligning perfectly with the user's love for adventure and action.\",\n        \"Relevance\": 5,\n        \"Clarity\": 5,\n        \"Persuasiveness\": 5\n    },\n    {\n        \"Movie\": \"Heat (1995)\",\n        \"Explanation\": \"A gripping crime thriller with intense drama and standout performances, blending action and psychological depth, ideal for a fan of thrillers and drama.\",\n        \"Relevance\": 5,\n        \"Clarity\": 4,\n        \"Persuasiveness\": 4\n    },\n    {\n        \"Movie\": \"Twelve Monkeys (1995)\",\n        \"Explanation\": \"A mind-bending sci-fi thriller with a dystopian plot and dramatic twists, catering to the user's interest in sci-fi and thought-provoking narratives.\",\n        \"Relevance\": 5,\n        \"Clarity\": 4,\n        \"Persuasiveness\": 4\n    }\n]\n```",
+    "logic_result": "```json\n[\n    {\n        \"Movie\": \"GoldenEye (1995)\",\n        \"Explanation\": \"A classic James Bond film with high-octane action, thrilling espionage, and exotic locales, aligning perfectly with the user's love for adventure and action.\",\n        \"Content-Matching\": 5,\n        \"Logic-Clarity\": 5\n    },\n    {\n        \"Movie\": \"Heat (1995)\",\n        \"Explanation\": \"A gripping crime thriller with intense drama and standout performances, blending action and psychological depth, ideal for a fan of thrillers and drama.\",\n        \"Content-Matching\": 4,\n        \"Logic-Clarity\": 4\n    },\n    {\n        \"Movie\": \"Twelve Monkeys (1995)\",\n        \"Explanation\": \"A mind-bending sci-fi thriller with a dystopian plot and dramatic twists, catering to the user's interest in sci-fi and thought-provoking narratives.\",\n        \"Content-Matching\": 4,\n        \"Logic-Clarity\": 4\n    }\n]\n```",
+    "hallucination_result": "```json\n[\n    {\n        \"Movie\": \"GoldenEye (1995)\",\n        \"Explanation\": \"A classic James Bond film with high-octane action, thrilling espionage, and exotic locales, aligning perfectly with the user's love for adventure and action.\",\n        \"Hallucination-Risk\": 0,\n        \"Explanatory Validity\": 5\n    },\n    {\n        \"Movie\": \"Heat (1995)\",\n        \"Explanation\": \"A gripping crime thriller with intense drama and standout performances, blending action and psychological depth, ideal for a fan of thrillers and drama.\",\n        \"Hallucination-Risk\": 0,\n        \"Explanatory Validity\": 5\n    },\n    {\n        \"Movie\": \"Twelve Monkeys (1995)\",\n        \"Explanation\": \"A mind-bending sci-fi thriller with a dystopian plot and dramatic twists, catering to the user's interest in sci-fi and thought-provoking narratives.\",\n        \"Hallucination-Risk\": 0,\n        \"Explanatory Validity\": 5\n    }\n]\n```"
+  },
+  {
+    "user": {
+      "uid": "30",
+      "gender": "女",
+      "age_group": "35-44",
+      "occupation": "executive/managerial",
+      "interests": [
+        "Drama",
+        "Thriller",
+        "Comedy",
+        "Romance",
+        "Crime"
+      ],
+      "stats": {
+        "total_ratings": 43,
+        "avg_rating": 3.49,
+        "high_rating_ratio": "51%"
+      },
+      "recent_movies": [
+        "Requiem for a Dream (2000)",
+        "Love and Basketball (2000)",
+        "Big Blue, The (Le Grand Bleu) (1988)"
+      ],
+      "description": "30号用户（女, 35-44, executive/managerial）是个电影爱好者（平均评分3.5分，51%的电影评分为4星及以上），最近观看的电影包括《Requiem for a Dream (2000), Love and Basketball (2000), Big Blue, The (Le Grand Bleu) (1988)》。偏好题材包括：Drama、Thriller、Comedy、Romance、Crime"
+    },
+    "rec": "Based on the user's preferences for Drama, Thriller, Comedy, Romance, and Crime, here are three tailored recommendations from the list:\n\n1. **Casino (1995)**  \n   - **Why?** A gripping crime drama with intense performances, blending romance and thriller elements. Perfect for fans of complex narratives and high-stakes drama.  \n\n2. **The Usual Suspects (1995)**  \n   - **Why?** A masterful thriller with crime and mystery, featuring twists and stellar ensemble acting. Appeals to lovers of psychological depth and suspense.  \n\n3. **Leaving Las Vegas (1995)**  \n   - **Why?** A raw, emotional drama-romance about redemption and love, with a poignant performance by Nicolas Cage. Fits the user's taste for heartfelt stories.  \n\nEach film aligns with the user’s favored genres and recent viewing trends.",
+    "recommendations": [
+      "Casino (1995)",
+      "Why?",
+      "The Usual Suspects (1995)",
+      "Why?",
+      "Leaving Las Vegas (1995)",
+      "Why?"
+    ],
+    "subjective_result": "[\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A gripping crime drama with intense performances, blending romance and thriller elements. Perfect for fans of complex narratives and high-stakes drama.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 4\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with crime and mystery, featuring twists and stellar ensemble acting. Appeals to lovers of psychological depth and suspense.\",\n    \"Relevance\": 5,\n    \"Clarity\": 5,\n    \"Persuasiveness\": 5\n  },\n  {\n    \"Movie\": \"Leaving Las Vegas (1995)\",\n    \"Explanation\": \"A raw, emotional drama-romance about redemption and love, with a poignant performance by Nicolas Cage. Fits the user's taste for heartfelt stories.\",\n    \"Relevance\": 5,\n    \"Clarity\": 4,\n    \"Persuasiveness\": 4\n  }\n]",
+    "logic_result": "```json\n[\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A gripping crime drama with intense performances, blending romance and thriller elements. Perfect for fans of complex narratives and high-stakes drama.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with crime and mystery, featuring twists and stellar ensemble acting. Appeals to lovers of psychological depth and suspense.\",\n    \"Content-Matching\": 5,\n    \"Logic-Clarity\": 5\n  },\n  {\n    \"Movie\": \"Leaving Las Vegas (1995)\",\n    \"Explanation\": \"A raw, emotional drama-romance about redemption and love, with a poignant performance by Nicolas Cage. Fits the user's taste for heartfelt stories.\",\n    \"Content-Matching\": 4,\n    \"Logic-Clarity\": 4\n  }\n]\n```",
+    "hallucination_result": "```json\n[\n  {\n    \"Movie\": \"Casino (1995)\",\n    \"Explanation\": \"A gripping crime drama with intense performances, blending romance and thriller elements. Perfect for fans of complex narratives and high-stakes drama.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"The Usual Suspects (1995)\",\n    \"Explanation\": \"A masterful thriller with crime and mystery, featuring twists and stellar ensemble acting. Appeals to lovers of psychological depth and suspense.\",\n    \"Hallucination-Risk\": 0,\n    \"Explanatory Validity\": 5\n  },\n  {\n    \"Movie\": \"Leaving Las Vegas (1995)\",\n    \"Explanation\": \"A raw, emotional drama-romance about redemption and love, with a poignant performance by Nicolas Cage. Fits the user's taste for heartfelt stories.\",\n    \"Hallucination-Risk\": 1,\n    \"Explanatory Validity\": 4\n  }\n]\n```"
+  }
+]

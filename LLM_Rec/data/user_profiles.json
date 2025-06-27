@@ -1,0 +1,4802 @@
+[
+  {
+    "uid": "1",
+    "gender": "女",
+    "age_group": "Under 18",
+    "occupation": "K-12 student",
+    "interests": [
+      "Drama",
+      "Children's",
+      "Animation",
+      "Musical",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 53,
+      "avg_rating": 4.19,
+      "high_rating_ratio": "85%"
+    },
+    "recent_movies": [
+      "Pocahontas (1995)",
+      "Hercules (1997)",
+      "Mulan (1998)"
+    ],
+    "description": "1号用户（女, Under 18, K-12 student）是个电影爱好者（平均评分4.2分，85%的电影评分为4星及以上），最近观看的电影包括《Pocahontas (1995), Hercules (1997), Mulan (1998)》。偏好题材包括：Drama、Children's、Animation、Musical、Comedy"
+  },
+  {
+    "uid": "2",
+    "gender": "男",
+    "age_group": "56+",
+    "occupation": "self-employed",
+    "interests": [
+      "Drama",
+      "Action",
+      "Thriller",
+      "Romance",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 129,
+      "avg_rating": 3.71,
+      "high_rating_ratio": "57%"
+    },
+    "recent_movies": [
+      "Lost World: Jurassic Park, The (1997)",
+      "Jackal, The (1997)",
+      "Armageddon (1998)"
+    ],
+    "description": "2号用户（男, 56+, self-employed）是个电影爱好者（平均评分3.7分，57%的电影评分为4星及以上），最近观看的电影包括《Lost World: Jurassic Park, The (1997), Jackal, The (1997), Armageddon (1998)》。偏好题材包括：Drama、Action、Thriller、Romance、Comedy"
+  },
+  {
+    "uid": "3",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "scientist",
+    "interests": [
+      "Comedy",
+      "Adventure",
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "stats": {
+      "total_ratings": 51,
+      "avg_rating": 3.9,
+      "high_rating_ratio": "73%"
+    },
+    "recent_movies": [
+      "Little Mermaid, The (1989)",
+      "Happy Gilmore (1996)",
+      "Naked Gun: From the Files of Police Squad!, The (1988)"
+    ],
+    "description": "3号用户（男, 25-34, scientist）是个电影爱好者（平均评分3.9分，73%的电影评分为4星及以上），最近观看的电影包括《Little Mermaid, The (1989), Happy Gilmore (1996), Naked Gun: From the Files of Police Squad!, The (1988)》。偏好题材包括：Comedy、Adventure、Action、Drama、Western"
+  },
+  {
+    "uid": "4",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Action",
+      "Sci-Fi",
+      "Drama",
+      "Adventure",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 21,
+      "avg_rating": 4.19,
+      "high_rating_ratio": "86%"
+    },
+    "recent_movies": [
+      "Rocky (1976)",
+      "Fistful of Dollars, A (1964)",
+      "Die Hard (1988)"
+    ],
+    "description": "4号用户（男, 45-49, executive/managerial）是个电影爱好者（平均评分4.2分，86%的电影评分为4星及以上），最近观看的电影包括《Rocky (1976), Fistful of Dollars, A (1964), Die Hard (1988)》。偏好题材包括：Action、Sci-Fi、Drama、Adventure、Thriller"
+  },
+  {
+    "uid": "5",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "writer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Romance",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 198,
+      "avg_rating": 3.15,
+      "high_rating_ratio": "41%"
+    },
+    "recent_movies": [
+      "Natural Born Killers (1994)",
+      "Liar Liar (1997)",
+      "Awakenings (1990)"
+    ],
+    "description": "5号用户（男, 25-34, writer）是个电影爱好者（平均评分3.1分，41%的电影评分为4星及以上），最近观看的电影包括《Natural Born Killers (1994), Liar Liar (1997), Awakenings (1990)》。偏好题材包括：Drama、Comedy、Thriller、Romance、Action"
+  },
+  {
+    "uid": "6",
+    "gender": "女",
+    "age_group": "50-55",
+    "occupation": "homemaker",
+    "interests": [
+      "Romance",
+      "Comedy",
+      "Drama",
+      "Musical",
+      "Children's"
+    ],
+    "stats": {
+      "total_ratings": 71,
+      "avg_rating": 3.9,
+      "high_rating_ratio": "70%"
+    },
+    "recent_movies": [
+      "Pretty Woman (1990)",
+      "My Best Friend's Wedding (1997)",
+      "Gone with the Wind (1939)"
+    ],
+    "description": "6号用户（女, 50-55, homemaker）是个电影爱好者（平均评分3.9分，70%的电影评分为4星及以上），最近观看的电影包括《Pretty Woman (1990), My Best Friend's Wedding (1997), Gone with the Wind (1939)》。偏好题材包括：Romance、Comedy、Drama、Musical、Children's"
+  },
+  {
+    "uid": "7",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "academic/educator",
+    "interests": [
+      "Action",
+      "Thriller",
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 31,
+      "avg_rating": 4.32,
+      "high_rating_ratio": "84%"
+    },
+    "recent_movies": [
+      "Backdraft (1991)",
+      "True Lies (1994)",
+      "Clear and Present Danger (1994)"
+    ],
+    "description": "7号用户（男, 35-44, academic/educator）是个电影爱好者（平均评分4.3分，84%的电影评分为4星及以上），最近观看的电影包括《Backdraft (1991), True Lies (1994), Clear and Present Danger (1994)》。偏好题材包括：Action、Thriller、Sci-Fi、Adventure、Drama"
+  },
+  {
+    "uid": "8",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "programmer",
+    "interests": [
+      "Drama",
+      "Action",
+      "Romance",
+      "Thriller",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 139,
+      "avg_rating": 3.88,
+      "high_rating_ratio": "61%"
+    },
+    "recent_movies": [
+      "Bodyguard, The (1992)",
+      "Ghost in the Shell (Kokaku kidotai) (1995)",
+      "Toy Story (1995)"
+    ],
+    "description": "8号用户（男, 25-34, programmer）是个电影爱好者（平均评分3.9分，61%的电影评分为4星及以上），最近观看的电影包括《Bodyguard, The (1992), Ghost in the Shell (Kokaku kidotai) (1995), Toy Story (1995)》。偏好题材包括：Drama、Action、Romance、Thriller、Comedy"
+  },
+  {
+    "uid": "9",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Action",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 106,
+      "avg_rating": 3.74,
+      "high_rating_ratio": "65%"
+    },
+    "recent_movies": [
+      "Antz (1998)",
+      "Mask, The (1994)",
+      "Ronin (1998)"
+    ],
+    "description": "9号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分3.7分，65%的电影评分为4星及以上），最近观看的电影包括《Antz (1998), Mask, The (1994), Ronin (1998)》。偏好题材包括：Drama、Comedy、Thriller、Action、Romance"
+  },
+  {
+    "uid": "10",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "academic/educator",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Action",
+      "Sci-Fi",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 401,
+      "avg_rating": 4.11,
+      "high_rating_ratio": "76%"
+    },
+    "recent_movies": [
+      "Hero (1992)",
+      "Trekkies (1997)",
+      "Godfather: Part II, The (1974)"
+    ],
+    "description": "10号用户（女, 35-44, academic/educator）是个电影爱好者（平均评分4.1分，76%的电影评分为4星及以上），最近观看的电影包括《Hero (1992), Trekkies (1997), Godfather: Part II, The (1974)》。偏好题材包括：Comedy、Drama、Action、Sci-Fi、Romance"
+  },
+  {
+    "uid": "11",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "academic/educator",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Thriller",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 137,
+      "avg_rating": 3.28,
+      "high_rating_ratio": "50%"
+    },
+    "recent_movies": [
+      "Mr. Death: The Rise and Fall of Fred A. Leuchter Jr. (1999)",
+      "Blue Velvet (1986)",
+      "Deuce Bigalow: Male Gigolo (1999)"
+    ],
+    "description": "11号用户（女, 25-34, academic/educator）是个电影爱好者（平均评分3.3分，50%的电影评分为4星及以上），最近观看的电影包括《Mr. Death: The Rise and Fall of Fred A. Leuchter Jr. (1999), Blue Velvet (1986), Deuce Bigalow: Male Gigolo (1999)》。偏好题材包括：Comedy、Drama、Romance、Thriller、Action"
+  },
+  {
+    "uid": "12",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "programmer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Action",
+      "Crime",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 23,
+      "avg_rating": 3.83,
+      "high_rating_ratio": "61%"
+    },
+    "recent_movies": [
+      "Dog Day Afternoon (1975)",
+      "Chinatown (1974)",
+      "Christmas Story, A (1983)"
+    ],
+    "description": "12号用户（男, 25-34, programmer）是个电影爱好者（平均评分3.8分，61%的电影评分为4星及以上），最近观看的电影包括《Dog Day Afternoon (1975), Chinatown (1974), Christmas Story, A (1983)》。偏好题材包括：Drama、Comedy、Action、Crime、Adventure"
+  },
+  {
+    "uid": "13",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "academic/educator",
+    "interests": [
+      "Adventure",
+      "Action",
+      "Sci-Fi",
+      "Drama",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 108,
+      "avg_rating": 3.39,
+      "high_rating_ratio": "37%"
+    },
+    "recent_movies": [
+      "Medicine Man (1992)",
+      "Superman II (1980)",
+      "Jumanji (1995)"
+    ],
+    "description": "13号用户（男, 45-49, academic/educator）是个电影爱好者（平均评分3.4分，37%的电影评分为4星及以上），最近观看的电影包括《Medicine Man (1992), Superman II (1980), Jumanji (1995)》。偏好题材包括：Adventure、Action、Sci-Fi、Drama、Thriller"
+  },
+  {
+    "uid": "14",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "other",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Action",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 25,
+      "avg_rating": 3.32,
+      "high_rating_ratio": "52%"
+    },
+    "recent_movies": [
+      "400 Blows, The (Les Quatre cents coups) (1959)",
+      "Amadeus (1984)",
+      "Deer Hunter, The (1978)"
+    ],
+    "description": "14号用户（男, 35-44, other）是个电影爱好者（平均评分3.3分，52%的电影评分为4星及以上），最近观看的电影包括《400 Blows, The (Les Quatre cents coups) (1959), Amadeus (1984), Deer Hunter, The (1978)》。偏好题材包括：Drama、Comedy、Romance、Action、Thriller"
+  },
+  {
+    "uid": "15",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Drama",
+      "Thriller",
+      "Comedy",
+      "Action",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 201,
+      "avg_rating": 3.32,
+      "high_rating_ratio": "49%"
+    },
+    "recent_movies": [
+      "Frequency (2000)",
+      "Perfect Storm, The (2000)",
+      "Indiana Jones and the Temple of Doom (1984)"
+    ],
+    "description": "15号用户（男, 25-34, executive/managerial）是个电影爱好者（平均评分3.3分，49%的电影评分为4星及以上），最近观看的电影包括《Frequency (2000), Perfect Storm, The (2000), Indiana Jones and the Temple of Doom (1984)》。偏好题材包括：Drama、Thriller、Comedy、Action、Crime"
+  },
+  {
+    "uid": "16",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "other",
+    "interests": [
+      "Comedy",
+      "Romance",
+      "Animation",
+      "Action",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 35,
+      "avg_rating": 3.03,
+      "high_rating_ratio": "37%"
+    },
+    "recent_movies": [
+      "Who Framed Roger Rabbit? (1988)",
+      "Wild Wild West (1999)",
+      "Runaway Bride (1999)"
+    ],
+    "description": "16号用户（女, 35-44, other）是个电影爱好者（平均评分3.0分，37%的电影评分为4星及以上），最近观看的电影包括《Who Framed Roger Rabbit? (1988), Wild Wild West (1999), Runaway Bride (1999)》。偏好题材包括：Comedy、Romance、Animation、Action、Sci-Fi"
+  },
+  {
+    "uid": "17",
+    "gender": "男",
+    "age_group": "50-55",
+    "occupation": "academic/educator",
+    "interests": [
+      "Sci-Fi",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 211,
+      "avg_rating": 4.08,
+      "high_rating_ratio": "79%"
+    },
+    "recent_movies": [
+      "L.A. Confidential (1997)",
+      "Hoodlum (1997)",
+      "Mulholland Falls (1996)"
+    ],
+    "description": "17号用户（男, 50-55, academic/educator）是个电影爱好者（平均评分4.1分，79%的电影评分为4星及以上），最近观看的电影包括《L.A. Confidential (1997), Hoodlum (1997), Mulholland Falls (1996)》。偏好题材包括：Sci-Fi、Drama、Action、Thriller、Adventure"
+  },
+  {
+    "uid": "18",
+    "gender": "女",
+    "age_group": "18-24",
+    "occupation": "clerical/admin",
+    "interests": [
+      "Drama",
+      "Action",
+      "Children's",
+      "Comedy",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 305,
+      "avg_rating": 3.65,
+      "high_rating_ratio": "64%"
+    },
+    "recent_movies": [
+      "Wings of the Dove, The (1997)",
+      "Legends of the Fall (1994)",
+      "Firm, The (1993)"
+    ],
+    "description": "18号用户（女, 18-24, clerical/admin）是个电影爱好者（平均评分3.6分，64%的电影评分为4星及以上），最近观看的电影包括《Wings of the Dove, The (1997), Legends of the Fall (1994), Firm, The (1993)》。偏好题材包括：Drama、Action、Children's、Comedy、Adventure"
+  },
+  {
+    "uid": "19",
+    "gender": "男",
+    "age_group": "Under 18",
+    "occupation": "K-12 student",
+    "interests": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 255,
+      "avg_rating": 3.57,
+      "high_rating_ratio": "56%"
+    },
+    "recent_movies": [
+      "Sting, The (1973)",
+      "Shawshank Redemption, The (1994)",
+      "Beverly Hills Ninja (1997)"
+    ],
+    "description": "19号用户（男, Under 18, K-12 student）是个电影爱好者（平均评分3.6分，56%的电影评分为4星及以上），最近观看的电影包括《Sting, The (1973), Shawshank Redemption, The (1994), Beverly Hills Ninja (1997)》。偏好题材包括：Action、Comedy、Horror、Thriller、Sci-Fi"
+  },
+  {
+    "uid": "20",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "sales/marketing",
+    "interests": [
+      "Action",
+      "Thriller",
+      "Sci-Fi",
+      "Drama",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 24,
+      "avg_rating": 4.08,
+      "high_rating_ratio": "79%"
+    },
+    "recent_movies": [
+      "Star Trek: The Motion Picture (1979)",
+      "Terminator, The (1984)",
+      "Fifth Element, The (1997)"
+    ],
+    "description": "20号用户（男, 25-34, sales/marketing）是个电影爱好者（平均评分4.1分，79%的电影评分为4星及以上），最近观看的电影包括《Star Trek: The Motion Picture (1979), Terminator, The (1984), Fifth Element, The (1997)》。偏好题材包括：Action、Thriller、Sci-Fi、Drama、Crime"
+  },
+  {
+    "uid": "21",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "self-employed",
+    "interests": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Children's",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 22,
+      "avg_rating": 2.91,
+      "high_rating_ratio": "27%"
+    },
+    "recent_movies": [
+      "Little Nemo: Adventures in Slumberland (1992)",
+      "Prince of Egypt, The (1998)",
+      "Pinocchio (1940)"
+    ],
+    "description": "21号用户（男, 18-24, self-employed）是个电影爱好者（平均评分2.9分，27%的电影评分为4星及以上），最近观看的电影包括《Little Nemo: Adventures in Slumberland (1992), Prince of Egypt, The (1998), Pinocchio (1940)》。偏好题材包括：Animation、Adventure、Comedy、Children's、Action"
+  },
+  {
+    "uid": "22",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "scientist",
+    "interests": [
+      "Comedy",
+      "Action",
+      "Thriller",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 297,
+      "avg_rating": 3.07,
+      "high_rating_ratio": "40%"
+    },
+    "recent_movies": [
+      "Some Like It Hot (1959)",
+      "North by Northwest (1959)",
+      "Way of the Gun, The (2000)"
+    ],
+    "description": "22号用户（男, 18-24, scientist）是个电影爱好者（平均评分3.1分，40%的电影评分为4星及以上），最近观看的电影包括《Some Like It Hot (1959), North by Northwest (1959), Way of the Gun, The (2000)》。偏好题材包括：Comedy、Action、Thriller、Drama、Sci-Fi"
+  },
+  {
+    "uid": "23",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "other",
+    "interests": [
+      "Sci-Fi",
+      "Action",
+      "Thriller",
+      "Comedy",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 304,
+      "avg_rating": 3.32,
+      "high_rating_ratio": "42%"
+    },
+    "recent_movies": [
+      "Superman IV: The Quest for Peace (1987)",
+      "Maximum Overdrive (1986)",
+      "House II: The Second Story (1987)"
+    ],
+    "description": "23号用户（男, 35-44, other）是个电影爱好者（平均评分3.3分，42%的电影评分为4星及以上），最近观看的电影包括《Superman IV: The Quest for Peace (1987), Maximum Overdrive (1986), House II: The Second Story (1987)》。偏好题材包括：Sci-Fi、Action、Thriller、Comedy、Drama"
+  },
+  {
+    "uid": "24",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Action",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 136,
+      "avg_rating": 3.95,
+      "high_rating_ratio": "81%"
+    },
+    "recent_movies": [
+      "Rocky Horror Picture Show, The (1975)",
+      "Out of Africa (1985)",
+      "Frances (1982)"
+    ],
+    "description": "24号用户（女, 25-34, executive/managerial）是个电影爱好者（平均评分3.9分，81%的电影评分为4星及以上），最近观看的电影包括《Rocky Horror Picture Show, The (1975), Out of Africa (1985), Frances (1982)》。偏好题材包括：Comedy、Drama、Romance、Action、Adventure"
+  },
+  {
+    "uid": "25",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Action",
+      "Sci-Fi",
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 85,
+      "avg_rating": 3.74,
+      "high_rating_ratio": "61%"
+    },
+    "recent_movies": [
+      "What Lies Beneath (2000)",
+      "Titan A.E. (2000)",
+      "Man on the Moon (1999)"
+    ],
+    "description": "25号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.7分，61%的电影评分为4星及以上），最近观看的电影包括《What Lies Beneath (2000), Titan A.E. (2000), Man on the Moon (1999)》。偏好题材包括：Action、Sci-Fi、Adventure、Comedy、Drama"
+  },
+  {
+    "uid": "26",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Action",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 400,
+      "avg_rating": 2.96,
+      "high_rating_ratio": "26%"
+    },
+    "recent_movies": [
+      "Austin Powers: The Spy Who Shagged Me (1999)",
+      "As Good As It Gets (1997)",
+      "About Last Night... (1986)"
+    ],
+    "description": "26号用户（男, 25-34, executive/managerial）是个电影爱好者（平均评分3.0分，26%的电影评分为4星及以上），最近观看的电影包括《Austin Powers: The Spy Who Shagged Me (1999), As Good As It Gets (1997), About Last Night... (1986)》。偏好题材包括：Comedy、Drama、Romance、Action、Thriller"
+  },
+  {
+    "uid": "27",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "lawyer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Film-Noir",
+      "Thriller",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 70,
+      "avg_rating": 4.17,
+      "high_rating_ratio": "77%"
+    },
+    "recent_movies": [
+      "Raiders of the Lost Ark (1981)",
+      "Treasure of the Sierra Madre, The (1948)",
+      "Great Escape, The (1963)"
+    ],
+    "description": "27号用户（男, 25-34, lawyer）是个电影爱好者（平均评分4.2分，77%的电影评分为4星及以上），最近观看的电影包括《Raiders of the Lost Ark (1981), Treasure of the Sierra Madre, The (1948), Great Escape, The (1963)》。偏好题材包括：Drama、Comedy、Film-Noir、Thriller、Adventure"
+  },
+  {
+    "uid": "28",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Thriller",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 107,
+      "avg_rating": 3.76,
+      "high_rating_ratio": "65%"
+    },
+    "recent_movies": [
+      "Who's Afraid of Virginia Woolf? (1966)",
+      "Toy Story (1995)",
+      "Casablanca (1942)"
+    ],
+    "description": "28号用户（女, 25-34, academic/educator）是个电影爱好者（平均评分3.8分，65%的电影评分为4星及以上），最近观看的电影包括《Who's Afraid of Virginia Woolf? (1966), Toy Story (1995), Casablanca (1942)》。偏好题材包括：Drama、Comedy、Romance、Thriller、Action"
+  },
+  {
+    "uid": "29",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Action",
+      "Thriller",
+      "Adventure",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 108,
+      "avg_rating": 3.58,
+      "high_rating_ratio": "48%"
+    },
+    "recent_movies": [
+      "Haunting, The (1963)",
+      "On Her Majesty's Secret Service (1969)",
+      "Mummy, The (1999)"
+    ],
+    "description": "29号用户（男, 35-44, executive/managerial）是个电影爱好者（平均评分3.6分，48%的电影评分为4星及以上），最近观看的电影包括《Haunting, The (1963), On Her Majesty's Secret Service (1969), Mummy, The (1999)》。偏好题材包括：Action、Thriller、Adventure、Sci-Fi、Drama"
+  },
+  {
+    "uid": "30",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Drama",
+      "Thriller",
+      "Comedy",
+      "Romance",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 43,
+      "avg_rating": 3.49,
+      "high_rating_ratio": "51%"
+    },
+    "recent_movies": [
+      "Requiem for a Dream (2000)",
+      "Love and Basketball (2000)",
+      "Big Blue, The (Le Grand Bleu) (1988)"
+    ],
+    "description": "30号用户（女, 35-44, executive/managerial）是个电影爱好者（平均评分3.5分，51%的电影评分为4星及以上），最近观看的电影包括《Requiem for a Dream (2000), Love and Basketball (2000), Big Blue, The (Le Grand Bleu) (1988)》。偏好题材包括：Drama、Thriller、Comedy、Romance、Crime"
+  },
+  {
+    "uid": "31",
+    "gender": "男",
+    "age_group": "56+",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Comedy",
+      "Romance",
+      "Drama",
+      "Action",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 119,
+      "avg_rating": 3.73,
+      "high_rating_ratio": "57%"
+    },
+    "recent_movies": [
+      "Grumpy Old Men (1993)",
+      "Terms of Endearment (1983)",
+      "Liar Liar (1997)"
+    ],
+    "description": "31号用户（男, 56+, executive/managerial）是个电影爱好者（平均评分3.7分，57%的电影评分为4星及以上），最近观看的电影包括《Grumpy Old Men (1993), Terms of Endearment (1983), Liar Liar (1997)》。偏好题材包括：Comedy、Romance、Drama、Action、Adventure"
+  },
+  {
+    "uid": "32",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "other",
+    "interests": [
+      "Drama",
+      "Thriller",
+      "Comedy",
+      "Romance",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 48,
+      "avg_rating": 3.62,
+      "high_rating_ratio": "58%"
+    },
+    "recent_movies": [
+      "Snow Day (2000)",
+      "Spanish Prisoner, The (1997)",
+      "Total Recall (1990)"
+    ],
+    "description": "32号用户（女, 25-34, other）是个电影爱好者（平均评分3.6分，58%的电影评分为4星及以上），最近观看的电影包括《Snow Day (2000), Spanish Prisoner, The (1997), Total Recall (1990)》。偏好题材包括：Drama、Thriller、Comedy、Romance、Action"
+  },
+  {
+    "uid": "33",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "clerical/admin",
+    "interests": [
+      "Drama",
+      "Thriller",
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "stats": {
+      "total_ratings": 391,
+      "avg_rating": 3.5,
+      "high_rating_ratio": "51%"
+    },
+    "recent_movies": [
+      "Little Shop of Horrors (1986)",
+      "Dolores Claiborne (1994)",
+      "Addams Family, The (1991)"
+    ],
+    "description": "33号用户（男, 45-49, clerical/admin）是个电影爱好者（平均评分3.5分，51%的电影评分为4星及以上），最近观看的电影包括《Little Shop of Horrors (1986), Dolores Claiborne (1994), Addams Family, The (1991)》。偏好题材包括：Drama、Thriller、Action、Comedy、Horror"
+  },
+  {
+    "uid": "34",
+    "gender": "女",
+    "age_group": "18-24",
+    "occupation": "other",
+    "interests": [
+      "Comedy",
+      "Romance",
+      "Drama",
+      "Action",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 164,
+      "avg_rating": 3.87,
+      "high_rating_ratio": "69%"
+    },
+    "recent_movies": [
+      "Bodyguard, The (1992)",
+      "She's All That (1999)",
+      "Hope Floats (1998)"
+    ],
+    "description": "34号用户（女, 18-24, other）是个电影爱好者（平均评分3.9分，69%的电影评分为4星及以上），最近观看的电影包括《Bodyguard, The (1992), She's All That (1999), Hope Floats (1998)》。偏好题材包括：Comedy、Romance、Drama、Action、Thriller"
+  },
+  {
+    "uid": "35",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Musical",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 198,
+      "avg_rating": 3.54,
+      "high_rating_ratio": "58%"
+    },
+    "recent_movies": [
+      "Ruling Class, The (1972)",
+      "Harvey (1950)",
+      "Some Like It Hot (1959)"
+    ],
+    "description": "35号用户（男, 45-49, academic/educator）是个电影爱好者（平均评分3.5分，58%的电影评分为4星及以上），最近观看的电影包括《Ruling Class, The (1972), Harvey (1950), Some Like It Hot (1959)》。偏好题材包括：Drama、Comedy、Romance、Musical、Thriller"
+  },
+  {
+    "uid": "36",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "clerical/admin",
+    "interests": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 351,
+      "avg_rating": 4.2,
+      "high_rating_ratio": "86%"
+    },
+    "recent_movies": [
+      "Man with the Golden Gun, The (1974)",
+      "Unforgiven (1992)",
+      "Unbearable Lightness of Being, The (1988)"
+    ],
+    "description": "36号用户（男, 25-34, clerical/admin）是个电影爱好者（平均评分4.2分，86%的电影评分为4星及以上），最近观看的电影包括《Man with the Golden Gun, The (1974), Unforgiven (1992), Unbearable Lightness of Being, The (1988)》。偏好题材包括：Comedy、Action、Drama、Thriller、Sci-Fi"
+  },
+  {
+    "uid": "37",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "homemaker",
+    "interests": [
+      "Romance",
+      "Comedy",
+      "Drama",
+      "Musical",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 53,
+      "avg_rating": 3.7,
+      "high_rating_ratio": "68%"
+    },
+    "recent_movies": [
+      "Dirty Dancing (1987)",
+      "Nutty Professor, The (1996)",
+      "Grease (1978)"
+    ],
+    "description": "37号用户（女, 25-34, homemaker）是个电影爱好者（平均评分3.7分，68%的电影评分为4星及以上），最近观看的电影包括《Dirty Dancing (1987), Nutty Professor, The (1996), Grease (1978)》。偏好题材包括：Romance、Comedy、Drama、Musical、Action"
+  },
+  {
+    "uid": "38",
+    "gender": "女",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Romance",
+      "Comedy",
+      "Drama",
+      "Children's",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 100,
+      "avg_rating": 3.58,
+      "high_rating_ratio": "56%"
+    },
+    "recent_movies": [
+      "Pulp Fiction (1994)",
+      "Meet the Parents (2000)",
+      "Grease (1978)"
+    ],
+    "description": "38号用户（女, 18-24, college/grad student）是个电影爱好者（平均评分3.6分，56%的电影评分为4星及以上），最近观看的电影包括《Pulp Fiction (1994), Meet the Parents (2000), Grease (1978)》。偏好题材包括：Romance、Comedy、Drama、Children's、Thriller"
+  },
+  {
+    "uid": "39",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 62,
+      "avg_rating": 3.56,
+      "high_rating_ratio": "55%"
+    },
+    "recent_movies": [
+      "White Squall (1996)",
+      "X-Men (2000)",
+      "Toy Story 2 (1999)"
+    ],
+    "description": "39号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.6分，55%的电影评分为4星及以上），最近观看的电影包括《White Squall (1996), X-Men (2000), Toy Story 2 (1999)》。偏好题材包括：Comedy、Drama、Action、Thriller、Crime"
+  },
+  {
+    "uid": "40",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "other",
+    "interests": [
+      "Adventure",
+      "Action",
+      "War",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 96,
+      "avg_rating": 3.45,
+      "high_rating_ratio": "52%"
+    },
+    "recent_movies": [
+      "Iron Eagle II (1988)",
+      "Aces: Iron Eagle III (1992)",
+      "Hot Shots! Part Deux (1993)"
+    ],
+    "description": "40号用户（男, 45-49, other）是个电影爱好者（平均评分3.4分，52%的电影评分为4星及以上），最近观看的电影包括《Iron Eagle II (1988), Aces: Iron Eagle III (1992), Hot Shots! Part Deux (1993)》。偏好题材包括：Adventure、Action、War、Drama、Sci-Fi"
+  },
+  {
+    "uid": "41",
+    "gender": "女",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Drama",
+      "Action",
+      "Sci-Fi",
+      "Romance",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 25,
+      "avg_rating": 3.48,
+      "high_rating_ratio": "56%"
+    },
+    "recent_movies": [
+      "Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",
+      "Sixth Sense, The (1999)",
+      "Haunting, The (1999)"
+    ],
+    "description": "41号用户（女, 18-24, college/grad student）是个电影爱好者（平均评分3.5分，56%的电影评分为4星及以上），最近观看的电影包括《Mrs. Brown (Her Majesty, Mrs. Brown) (1997), Sixth Sense, The (1999), Haunting, The (1999)》。偏好题材包括：Drama、Action、Sci-Fi、Romance、Adventure"
+  },
+  {
+    "uid": "42",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "farmer",
+    "interests": [
+      "Action",
+      "Sci-Fi",
+      "Adventure",
+      "Comedy",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 231,
+      "avg_rating": 3.74,
+      "high_rating_ratio": "62%"
+    },
+    "recent_movies": [
+      "Fletch (1985)",
+      "Man with Two Brains, The (1983)",
+      "Scrooged (1988)"
+    ],
+    "description": "42号用户（男, 25-34, farmer）是个电影爱好者（平均评分3.7分，62%的电影评分为4星及以上），最近观看的电影包括《Fletch (1985), Man with Two Brains, The (1983), Scrooged (1988)》。偏好题材包括：Action、Sci-Fi、Adventure、Comedy、Thriller"
+  },
+  {
+    "uid": "43",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "programmer",
+    "interests": [
+      "Comedy",
+      "Romance",
+      "Drama",
+      "Thriller",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 24,
+      "avg_rating": 4.12,
+      "high_rating_ratio": "83%"
+    },
+    "recent_movies": [
+      "American Beauty (1999)",
+      "X-Men (2000)",
+      "Toy Story 2 (1999)"
+    ],
+    "description": "43号用户（男, 25-34, programmer）是个电影爱好者（平均评分4.1分，83%的电影评分为4星及以上），最近观看的电影包括《American Beauty (1999), X-Men (2000), Toy Story 2 (1999)》。偏好题材包括：Comedy、Romance、Drama、Thriller、Action"
+  },
+  {
+    "uid": "44",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Comedy",
+      "Adventure",
+      "Action",
+      "Sci-Fi",
+      "Children's"
+    ],
+    "stats": {
+      "total_ratings": 193,
+      "avg_rating": 3.63,
+      "high_rating_ratio": "62%"
+    },
+    "recent_movies": [
+      "What Dreams May Come (1998)",
+      "Sleepless in Seattle (1993)",
+      "Rob Roy (1995)"
+    ],
+    "description": "44号用户（男, 45-49, technician/engineer）是个电影爱好者（平均评分3.6分，62%的电影评分为4星及以上），最近观看的电影包括《What Dreams May Come (1998), Sleepless in Seattle (1993), Rob Roy (1995)》。偏好题材包括：Comedy、Adventure、Action、Sci-Fi、Children's"
+  },
+  {
+    "uid": "45",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "self-employed",
+    "interests": [
+      "Comedy",
+      "Romance",
+      "Drama",
+      "Adventure",
+      "Children's"
+    ],
+    "stats": {
+      "total_ratings": 297,
+      "avg_rating": 2.95,
+      "high_rating_ratio": "31%"
+    },
+    "recent_movies": [
+      "Flintstones, The (1994)",
+      "Soul Man (1986)",
+      "Queens Logic (1991)"
+    ],
+    "description": "45号用户（女, 45-49, self-employed）是个电影爱好者（平均评分2.9分，31%的电影评分为4星及以上），最近观看的电影包括《Flintstones, The (1994), Soul Man (1986), Queens Logic (1991)》。偏好题材包括：Comedy、Romance、Drama、Adventure、Children's"
+  },
+  {
+    "uid": "46",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "unemployed",
+    "interests": [
+      "Horror",
+      "Thriller",
+      "Mystery",
+      "Comedy",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 41,
+      "avg_rating": 4.22,
+      "high_rating_ratio": "80%"
+    },
+    "recent_movies": [
+      "Baby, The (1973)",
+      "American Strays (1996)",
+      "Rollercoaster (1977)"
+    ],
+    "description": "46号用户（男, 18-24, unemployed）是个电影爱好者（平均评分4.2分，80%的电影评分为4星及以上），最近观看的电影包括《Baby, The (1973), American Strays (1996), Rollercoaster (1977)》。偏好题材包括：Horror、Thriller、Mystery、Comedy、Action"
+  },
+  {
+    "uid": "47",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Drama",
+      "Romance",
+      "Crime",
+      "Comedy",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 22,
+      "avg_rating": 3.91,
+      "high_rating_ratio": "77%"
+    },
+    "recent_movies": [
+      "Man for All Seasons, A (1966)",
+      "Sense and Sensibility (1995)",
+      "Babe (1995)"
+    ],
+    "description": "47号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.9分，77%的电影评分为4星及以上），最近观看的电影包括《Man for All Seasons, A (1966), Sense and Sensibility (1995), Babe (1995)》。偏好题材包括：Drama、Romance、Crime、Comedy、Action"
+  },
+  {
+    "uid": "48",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 598,
+      "avg_rating": 3.07,
+      "high_rating_ratio": "26%"
+    },
+    "recent_movies": [
+      "Anywhere But Here (1999)",
+      "Hype! (1996)",
+      "Voyage to the Bottom of the Sea (1961)"
+    ],
+    "description": "48号用户（男, 25-34, college/grad student）是个电影爱好者（平均评分3.1分，26%的电影评分为4星及以上），最近观看的电影包括《Anywhere But Here (1999), Hype! (1996), Voyage to the Bottom of the Sea (1961)》。偏好题材包括：Comedy、Action、Drama、Adventure、Sci-Fi"
+  },
+  {
+    "uid": "49",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "programmer",
+    "interests": [
+      "Action",
+      "Thriller",
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 108,
+      "avg_rating": 3.71,
+      "high_rating_ratio": "60%"
+    },
+    "recent_movies": [
+      "2010 (1984)",
+      "One Flew Over the Cuckoo's Nest (1975)",
+      "Pulp Fiction (1994)"
+    ],
+    "description": "49号用户（男, 18-24, programmer）是个电影爱好者（平均评分3.7分，60%的电影评分为4星及以上），最近观看的电影包括《2010 (1984), One Flew Over the Cuckoo's Nest (1975), Pulp Fiction (1994)》。偏好题材包括：Action、Thriller、Sci-Fi、Adventure、Drama"
+  },
+  {
+    "uid": "50",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "artist",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Action",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 43,
+      "avg_rating": 3.07,
+      "high_rating_ratio": "30%"
+    },
+    "recent_movies": [
+      "Class (1983)",
+      "Replacements, The (2000)",
+      "Lost World: Jurassic Park, The (1997)"
+    ],
+    "description": "50号用户（女, 25-34, artist）是个电影爱好者（平均评分3.1分，30%的电影评分为4星及以上），最近观看的电影包括《Class (1983), Replacements, The (2000), Lost World: Jurassic Park, The (1997)》。偏好题材包括：Drama、Comedy、Thriller、Action、Romance"
+  },
+  {
+    "uid": "51",
+    "gender": "女",
+    "age_group": "Under 18",
+    "occupation": "K-12 student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Children's",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 40,
+      "avg_rating": 3.82,
+      "high_rating_ratio": "65%"
+    },
+    "recent_movies": [
+      "Can't Hardly Wait (1998)",
+      "Liar Liar (1997)",
+      "Clueless (1995)"
+    ],
+    "description": "51号用户（女, Under 18, K-12 student）是个电影爱好者（平均评分3.8分，65%的电影评分为4星及以上），最近观看的电影包括《Can't Hardly Wait (1998), Liar Liar (1997), Clueless (1995)》。偏好题材包括：Comedy、Drama、Romance、Children's、Thriller"
+  },
+  {
+    "uid": "52",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Action",
+      "Thriller",
+      "Drama",
+      "Comedy",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 79,
+      "avg_rating": 3.56,
+      "high_rating_ratio": "58%"
+    },
+    "recent_movies": [
+      "American Pie (1999)",
+      "Nutty Professor II: The Klumps (2000)",
+      "Big Momma's House (2000)"
+    ],
+    "description": "52号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.6分，58%的电影评分为4星及以上），最近观看的电影包括《American Pie (1999), Nutty Professor II: The Klumps (2000), Big Momma's House (2000)》。偏好题材包括：Action、Thriller、Drama、Comedy、Adventure"
+  },
+  {
+    "uid": "53",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "other",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Action",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 684,
+      "avg_rating": 4.24,
+      "high_rating_ratio": "78%"
+    },
+    "recent_movies": [
+      "Celluloid Closet, The (1995)",
+      "Cool as Ice (1991)",
+      "187 (1997)"
+    ],
+    "description": "53号用户（男, 25-34, other）是个电影爱好者（平均评分4.2分，78%的电影评分为4星及以上），最近观看的电影包括《Celluloid Closet, The (1995), Cool as Ice (1991), 187 (1997)》。偏好题材包括：Drama、Comedy、Thriller、Action、Sci-Fi"
+  },
+  {
+    "uid": "54",
+    "gender": "男",
+    "age_group": "50-55",
+    "occupation": "academic/educator",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Western",
+      "Children's"
+    ],
+    "stats": {
+      "total_ratings": 40,
+      "avg_rating": 4.03,
+      "high_rating_ratio": "82%"
+    },
+    "recent_movies": [
+      "Odd Couple, The (1968)",
+      "She's Gotta Have It (1986)",
+      "Fish Called Wanda, A (1988)"
+    ],
+    "description": "54号用户（男, 50-55, academic/educator）是个电影爱好者（平均评分4.0分，82%的电影评分为4星及以上），最近观看的电影包括《Odd Couple, The (1968), She's Gotta Have It (1986), Fish Called Wanda, A (1988)》。偏好题材包括：Comedy、Drama、Romance、Western、Children's"
+  },
+  {
+    "uid": "55",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "programmer",
+    "interests": [
+      "Drama",
+      "Thriller",
+      "War",
+      "Children's",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 25,
+      "avg_rating": 4.12,
+      "high_rating_ratio": "72%"
+    },
+    "recent_movies": [
+      "Forrest Gump (1994)",
+      "Apollo 13 (1995)",
+      "As Good As It Gets (1997)"
+    ],
+    "description": "55号用户（女, 35-44, programmer）是个电影爱好者（平均评分4.1分，72%的电影评分为4星及以上），最近观看的电影包括《Forrest Gump (1994), Apollo 13 (1995), As Good As It Gets (1997)》。偏好题材包括：Drama、Thriller、War、Children's、Action"
+  },
+  {
+    "uid": "56",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "writer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Crime",
+      "War"
+    ],
+    "stats": {
+      "total_ratings": 67,
+      "avg_rating": 3.97,
+      "high_rating_ratio": "75%"
+    },
+    "recent_movies": [
+      "My Cousin Vinny (1992)",
+      "Ref, The (1994)",
+      "Pleasantville (1998)"
+    ],
+    "description": "56号用户（男, 35-44, writer）是个电影爱好者（平均评分4.0分，75%的电影评分为4星及以上），最近观看的电影包括《My Cousin Vinny (1992), Ref, The (1994), Pleasantville (1998)》。偏好题材包括：Drama、Comedy、Thriller、Crime、War"
+  },
+  {
+    "uid": "57",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "unemployed",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Action",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 64,
+      "avg_rating": 2.91,
+      "high_rating_ratio": "48%"
+    },
+    "recent_movies": [
+      "Christmas Story, A (1983)",
+      "Platoon (1986)",
+      "Glory (1989)"
+    ],
+    "description": "57号用户（男, 18-24, unemployed）是个电影爱好者（平均评分2.9分，48%的电影评分为4星及以上），最近观看的电影包括《Christmas Story, A (1983), Platoon (1986), Glory (1989)》。偏好题材包括：Drama、Comedy、Action、Thriller、Sci-Fi"
+  },
+  {
+    "uid": "58",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "artist",
+    "interests": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Comedy",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 437,
+      "avg_rating": 3.97,
+      "high_rating_ratio": "74%"
+    },
+    "recent_movies": [
+      "Universal Soldier: The Return (1999)",
+      "Lawnmower Man 2: Beyond Cyberspace (1996)",
+      "Battlefield Earth (2000)"
+    ],
+    "description": "58号用户（男, 25-34, artist）是个电影爱好者（平均评分4.0分，74%的电影评分为4星及以上），最近观看的电影包括《Universal Soldier: The Return (1999), Lawnmower Man 2: Beyond Cyberspace (1996), Battlefield Earth (2000)》。偏好题材包括：Action、Drama、Sci-Fi、Comedy、Thriller"
+  },
+  {
+    "uid": "59",
+    "gender": "女",
+    "age_group": "50-55",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Romance",
+      "Comedy",
+      "Musical",
+      "War"
+    ],
+    "stats": {
+      "total_ratings": 213,
+      "avg_rating": 3.47,
+      "high_rating_ratio": "51%"
+    },
+    "recent_movies": [
+      "Manhattan (1979)",
+      "City Lights (1931)",
+      "It's a Wonderful Life (1946)"
+    ],
+    "description": "59号用户（女, 50-55, academic/educator）是个电影爱好者（平均评分3.5分，51%的电影评分为4星及以上），最近观看的电影包括《Manhattan (1979), City Lights (1931), It's a Wonderful Life (1946)》。偏好题材包括：Drama、Romance、Comedy、Musical、War"
+  },
+  {
+    "uid": "60",
+    "gender": "男",
+    "age_group": "50-55",
+    "occupation": "academic/educator",
+    "interests": [
+      "Adventure",
+      "Comedy",
+      "Action",
+      "Thriller",
+      "Mystery"
+    ],
+    "stats": {
+      "total_ratings": 70,
+      "avg_rating": 3.41,
+      "high_rating_ratio": "49%"
+    },
+    "recent_movies": [
+      "Cop Land (1997)",
+      "Before and After (1996)",
+      "Cookie's Fortune (1999)"
+    ],
+    "description": "60号用户（男, 50-55, academic/educator）是个电影爱好者（平均评分3.4分，49%的电影评分为4星及以上），最近观看的电影包括《Cop Land (1997), Before and After (1996), Cookie's Fortune (1999)》。偏好题材包括：Adventure、Comedy、Action、Thriller、Mystery"
+  },
+  {
+    "uid": "61",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 36,
+      "avg_rating": 2.78,
+      "high_rating_ratio": "25%"
+    },
+    "recent_movies": [
+      "Supernova (2000)",
+      "Urban Legends: Final Cut (2000)",
+      "Boys and Girls (2000)"
+    ],
+    "description": "61号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分2.8分，25%的电影评分为4星及以上），最近观看的电影包括《Supernova (2000), Urban Legends: Final Cut (2000), Boys and Girls (2000)》。偏好题材包括：Action、Comedy、Thriller、Drama、Sci-Fi"
+  },
+  {
+    "uid": "62",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "clerical/admin",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Thriller",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 498,
+      "avg_rating": 3.57,
+      "high_rating_ratio": "53%"
+    },
+    "recent_movies": [
+      "Niagara (1953)",
+      "Love Is a Many-Splendored Thing (1955)",
+      "Bell, Book and Candle (1958)"
+    ],
+    "description": "62号用户（女, 35-44, clerical/admin）是个电影爱好者（平均评分3.6分，53%的电影评分为4星及以上），最近观看的电影包括《Niagara (1953), Love Is a Many-Splendored Thing (1955), Bell, Book and Candle (1958)》。偏好题材包括：Drama、Comedy、Romance、Thriller、Action"
+  },
+  {
+    "uid": "63",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Action",
+      "Horror"
+    ],
+    "stats": {
+      "total_ratings": 98,
+      "avg_rating": 3.43,
+      "high_rating_ratio": "51%"
+    },
+    "recent_movies": [
+      "Blade Runner (1982)",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)",
+      "Crying Game, The (1992)"
+    ],
+    "description": "63号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.4分，51%的电影评分为4星及以上），最近观看的电影包括《Blade Runner (1982), Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963), Crying Game, The (1992)》。偏好题材包括：Comedy、Drama、Thriller、Action、Horror"
+  },
+  {
+    "uid": "64",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "academic/educator",
+    "interests": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Drama",
+      "Horror"
+    ],
+    "stats": {
+      "total_ratings": 27,
+      "avg_rating": 4.15,
+      "high_rating_ratio": "85%"
+    },
+    "recent_movies": [
+      "Bone Collector, The (1999)",
+      "American Beauty (1999)",
+      "Perfect Storm, The (2000)"
+    ],
+    "description": "64号用户（男, 18-24, academic/educator）是个电影爱好者（平均评分4.1分，85%的电影评分为4星及以上），最近观看的电影包括《Bone Collector, The (1999), American Beauty (1999), Perfect Storm, The (2000)》。偏好题材包括：Action、Adventure、Thriller、Drama、Horror"
+  },
+  {
+    "uid": "65",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "programmer",
+    "interests": [
+      "Action",
+      "Drama",
+      "Adventure",
+      "Comedy",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 121,
+      "avg_rating": 4.35,
+      "high_rating_ratio": "89%"
+    },
+    "recent_movies": [
+      "It's a Wonderful Life (1946)",
+      "Untouchables, The (1987)",
+      "Nutty Professor II: The Klumps (2000)"
+    ],
+    "description": "65号用户（男, 35-44, programmer）是个电影爱好者（平均评分4.3分，89%的电影评分为4星及以上），最近观看的电影包括《It's a Wonderful Life (1946), Untouchables, The (1987), Nutty Professor II: The Klumps (2000)》。偏好题材包括：Action、Drama、Adventure、Comedy、Thriller"
+  },
+  {
+    "uid": "66",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "tradesman/craftsman",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "War",
+      "Action",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 26,
+      "avg_rating": 3.85,
+      "high_rating_ratio": "62%"
+    },
+    "recent_movies": [
+      "Rain Man (1988)",
+      "Madeline (1998)",
+      "Stand by Me (1986)"
+    ],
+    "description": "66号用户（男, 25-34, tradesman/craftsman）是个电影爱好者（平均评分3.8分，62%的电影评分为4星及以上），最近观看的电影包括《Rain Man (1988), Madeline (1998), Stand by Me (1986)》。偏好题材包括：Drama、Comedy、War、Action、Adventure"
+  },
+  {
+    "uid": "67",
+    "gender": "女",
+    "age_group": "50-55",
+    "occupation": "customer service",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "War",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 64,
+      "avg_rating": 4.3,
+      "high_rating_ratio": "88%"
+    },
+    "recent_movies": [
+      "Breakfast at Tiffany's (1961)",
+      "Driving Miss Daisy (1989)",
+      "Big Night (1996)"
+    ],
+    "description": "67号用户（女, 50-55, customer service）是个电影爱好者（平均评分4.3分，88%的电影评分为4星及以上），最近观看的电影包括《Breakfast at Tiffany's (1961), Driving Miss Daisy (1989), Big Night (1996)》。偏好题材包括：Drama、Comedy、Romance、War、Crime"
+  },
+  {
+    "uid": "68",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Children's",
+      "Musical"
+    ],
+    "stats": {
+      "total_ratings": 72,
+      "avg_rating": 3.75,
+      "high_rating_ratio": "69%"
+    },
+    "recent_movies": [
+      "Big (1988)",
+      "Wag the Dog (1997)",
+      "Austin Powers: International Man of Mystery (1997)"
+    ],
+    "description": "68号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.8分，69%的电影评分为4星及以上），最近观看的电影包括《Big (1988), Wag the Dog (1997), Austin Powers: International Man of Mystery (1997)》。偏好题材包括：Comedy、Drama、Romance、Children's、Musical"
+  },
+  {
+    "uid": "69",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Romance",
+      "Comedy",
+      "War",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 65,
+      "avg_rating": 4.15,
+      "high_rating_ratio": "83%"
+    },
+    "recent_movies": [
+      "Inkwell, The (1994)",
+      "People vs. Larry Flynt, The (1996)",
+      "Dances with Wolves (1990)"
+    ],
+    "description": "69号用户（女, 25-34, academic/educator）是个电影爱好者（平均评分4.2分，83%的电影评分为4星及以上），最近观看的电影包括《Inkwell, The (1994), People vs. Larry Flynt, The (1996), Dances with Wolves (1990)》。偏好题材包括：Drama、Romance、Comedy、War、Thriller"
+  },
+  {
+    "uid": "70",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Action",
+      "Animation"
+    ],
+    "stats": {
+      "total_ratings": 54,
+      "avg_rating": 3.7,
+      "high_rating_ratio": "63%"
+    },
+    "recent_movies": [
+      "X-Men (2000)",
+      "Who Framed Roger Rabbit? (1988)",
+      "Toy Story 2 (1999)"
+    ],
+    "description": "70号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.7分，63%的电影评分为4星及以上），最近观看的电影包括《X-Men (2000), Who Framed Roger Rabbit? (1988), Toy Story 2 (1999)》。偏好题材包括：Comedy、Drama、Thriller、Action、Animation"
+  },
+  {
+    "uid": "71",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "sales/marketing",
+    "interests": [
+      "Action",
+      "Drama",
+      "Comedy",
+      "Adventure",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 29,
+      "avg_rating": 3.76,
+      "high_rating_ratio": "66%"
+    },
+    "recent_movies": [
+      "Eyes Wide Shut (1999)",
+      "Fight Club (1999)",
+      "Erin Brockovich (2000)"
+    ],
+    "description": "71号用户（男, 25-34, sales/marketing）是个电影爱好者（平均评分3.8分，66%的电影评分为4星及以上），最近观看的电影包括《Eyes Wide Shut (1999), Fight Club (1999), Erin Brockovich (2000)》。偏好题材包括：Action、Drama、Comedy、Adventure、Thriller"
+  },
+  {
+    "uid": "72",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "other",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Action",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 43,
+      "avg_rating": 3.7,
+      "high_rating_ratio": "70%"
+    },
+    "recent_movies": [
+      "Awakenings (1990)",
+      "Thelma & Louise (1991)",
+      "Apollo 13 (1995)"
+    ],
+    "description": "72号用户（女, 45-49, other）是个电影爱好者（平均评分3.7分，70%的电影评分为4星及以上），最近观看的电影包括《Awakenings (1990), Thelma & Louise (1991), Apollo 13 (1995)》。偏好题材包括：Comedy、Drama、Romance、Action、Thriller"
+  },
+  {
+    "uid": "73",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Adventure",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 255,
+      "avg_rating": 3.36,
+      "high_rating_ratio": "46%"
+    },
+    "recent_movies": [
+      "Screwed (2000)",
+      "Highlander: Endgame (2000)",
+      "Dogma (1999)"
+    ],
+    "description": "73号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.4分，46%的电影评分为4星及以上），最近观看的电影包括《Screwed (2000), Highlander: Endgame (2000), Dogma (1999)》。偏好题材包括：Action、Comedy、Sci-Fi、Adventure、Thriller"
+  },
+  {
+    "uid": "74",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "sales/marketing",
+    "interests": [
+      "Drama",
+      "Crime",
+      "Thriller",
+      "Comedy",
+      "Mystery"
+    ],
+    "stats": {
+      "total_ratings": 43,
+      "avg_rating": 4.05,
+      "high_rating_ratio": "70%"
+    },
+    "recent_movies": [
+      "Dead Again (1991)",
+      "Chungking Express (1994)",
+      "Cookie's Fortune (1999)"
+    ],
+    "description": "74号用户（男, 35-44, sales/marketing）是个电影爱好者（平均评分4.0分，70%的电影评分为4星及以上），最近观看的电影包括《Dead Again (1991), Chungking Express (1994), Cookie's Fortune (1999)》。偏好题材包括：Drama、Crime、Thriller、Comedy、Mystery"
+  },
+  {
+    "uid": "75",
+    "gender": "女",
+    "age_group": "Under 18",
+    "occupation": "K-12 student",
+    "interests": [
+      "Children's",
+      "Comedy",
+      "Animation",
+      "Adventure",
+      "Musical"
+    ],
+    "stats": {
+      "total_ratings": 175,
+      "avg_rating": 4.01,
+      "high_rating_ratio": "77%"
+    },
+    "recent_movies": [
+      "Jack Frost (1998)",
+      "Iron Giant, The (1999)",
+      "Erin Brockovich (2000)"
+    ],
+    "description": "75号用户（女, Under 18, K-12 student）是个电影爱好者（平均评分4.0分，77%的电影评分为4星及以上），最近观看的电影包括《Jack Frost (1998), Iron Giant, The (1999), Erin Brockovich (2000)》。偏好题材包括：Children's、Comedy、Animation、Adventure、Musical"
+  },
+  {
+    "uid": "76",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 87,
+      "avg_rating": 4.17,
+      "high_rating_ratio": "84%"
+    },
+    "recent_movies": [
+      "Chuck & Buck (2000)",
+      "Rules of Engagement (2000)",
+      "Frequency (2000)"
+    ],
+    "description": "76号用户（男, 35-44, executive/managerial）是个电影爱好者（平均评分4.2分，84%的电影评分为4星及以上），最近观看的电影包括《Chuck & Buck (2000), Rules of Engagement (2000), Frequency (2000)》。偏好题材包括：Drama、Comedy、Thriller、Action、Crime"
+  },
+  {
+    "uid": "77",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Romance",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 39,
+      "avg_rating": 2.95,
+      "high_rating_ratio": "31%"
+    },
+    "recent_movies": [
+      "Superstar (1999)",
+      "Summer of Sam (1999)",
+      "Sleepy Hollow (1999)"
+    ],
+    "description": "77号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分2.9分，31%的电影评分为4星及以上），最近观看的电影包括《Superstar (1999), Summer of Sam (1999), Sleepy Hollow (1999)》。偏好题材包括：Comedy、Drama、Thriller、Romance、Action"
+  },
+  {
+    "uid": "78",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "academic/educator",
+    "interests": [
+      "Comedy",
+      "Musical",
+      "Drama",
+      "Romance",
+      "Children's"
+    ],
+    "stats": {
+      "total_ratings": 140,
+      "avg_rating": 3.66,
+      "high_rating_ratio": "59%"
+    },
+    "recent_movies": [
+      "Analyze This (1999)",
+      "Brothers McMullen, The (1995)",
+      "Barcelona (1994)"
+    ],
+    "description": "78号用户（女, 45-49, academic/educator）是个电影爱好者（平均评分3.7分，59%的电影评分为4星及以上），最近观看的电影包括《Analyze This (1999), Brothers McMullen, The (1995), Barcelona (1994)》。偏好题材包括：Comedy、Musical、Drama、Romance、Children's"
+  },
+  {
+    "uid": "79",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "other",
+    "interests": [
+      "Mystery",
+      "Drama",
+      "Thriller",
+      "Action",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 31,
+      "avg_rating": 3.65,
+      "high_rating_ratio": "52%"
+    },
+    "recent_movies": [
+      "Snake Eyes (1998)",
+      "X-Files: Fight the Future, The (1998)",
+      "Conspiracy Theory (1997)"
+    ],
+    "description": "79号用户（女, 45-49, other）是个电影爱好者（平均评分3.6分，52%的电影评分为4星及以上），最近观看的电影包括《Snake Eyes (1998), X-Files: Fight the Future, The (1998), Conspiracy Theory (1997)》。偏好题材包括：Mystery、Drama、Thriller、Action、Comedy"
+  },
+  {
+    "uid": "80",
+    "gender": "男",
+    "age_group": "56+",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Romance",
+      "Children's"
+    ],
+    "stats": {
+      "total_ratings": 48,
+      "avg_rating": 3.9,
+      "high_rating_ratio": "69%"
+    },
+    "recent_movies": [
+      "Dances with Wolves (1990)",
+      "Hand That Rocks the Cradle, The (1992)",
+      "George of the Jungle (1997)"
+    ],
+    "description": "80号用户（男, 56+, academic/educator）是个电影爱好者（平均评分3.9分，69%的电影评分为4星及以上），最近观看的电影包括《Dances with Wolves (1990), Hand That Rocks the Cradle, The (1992), George of the Jungle (1997)》。偏好题材包括：Drama、Action、Comedy、Romance、Children's"
+  },
+  {
+    "uid": "81",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "other",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Action",
+      "Thriller",
+      "War"
+    ],
+    "stats": {
+      "total_ratings": 86,
+      "avg_rating": 4.42,
+      "high_rating_ratio": "86%"
+    },
+    "recent_movies": [
+      "Star Wars: Episode IV - A New Hope (1977)",
+      "Animal House (1978)",
+      "Shining, The (1980)"
+    ],
+    "description": "81号用户（女, 25-34, other）是个电影爱好者（平均评分4.4分，86%的电影评分为4星及以上），最近观看的电影包括《Star Wars: Episode IV - A New Hope (1977), Animal House (1978), Shining, The (1980)》。偏好题材包括：Drama、Comedy、Action、Thriller、War"
+  },
+  {
+    "uid": "82",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Thriller",
+      "Drama",
+      "Action",
+      "Sci-Fi",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 118,
+      "avg_rating": 4.02,
+      "high_rating_ratio": "75%"
+    },
+    "recent_movies": [
+      "In the Line of Fire (1993)",
+      "Seven (Se7en) (1995)",
+      "Puppet Master III: Toulon's Revenge (1991)"
+    ],
+    "description": "82号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分4.0分，75%的电影评分为4星及以上），最近观看的电影包括《In the Line of Fire (1993), Seven (Se7en) (1995), Puppet Master III: Toulon's Revenge (1991)》。偏好题材包括：Thriller、Drama、Action、Sci-Fi、Comedy"
+  },
+  {
+    "uid": "83",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "artist",
+    "interests": [
+      "Fantasy",
+      "Comedy",
+      "Adventure",
+      "Drama",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 99,
+      "avg_rating": 3.58,
+      "high_rating_ratio": "57%"
+    },
+    "recent_movies": [
+      "NeverEnding Story II: The Next Chapter, The (1990)",
+      "Supergirl (1984)",
+      "Flubber (1997)"
+    ],
+    "description": "83号用户（女, 25-34, artist）是个电影爱好者（平均评分3.6分，57%的电影评分为4星及以上），最近观看的电影包括《NeverEnding Story II: The Next Chapter, The (1990), Supergirl (1984), Flubber (1997)》。偏好题材包括：Fantasy、Comedy、Adventure、Drama、Action"
+  },
+  {
+    "uid": "84",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Action",
+      "Sci-Fi",
+      "Adventure",
+      "War",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 31,
+      "avg_rating": 3.84,
+      "high_rating_ratio": "71%"
+    },
+    "recent_movies": [
+      "Raising Arizona (1987)",
+      "American Beauty (1999)",
+      "Full Metal Jacket (1987)"
+    ],
+    "description": "84号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.8分，71%的电影评分为4星及以上），最近观看的电影包括《Raising Arizona (1987), American Beauty (1999), Full Metal Jacket (1987)》。偏好题材包括：Action、Sci-Fi、Adventure、War、Drama"
+  },
+  {
+    "uid": "85",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Action",
+      "Horror"
+    ],
+    "stats": {
+      "total_ratings": 39,
+      "avg_rating": 3.1,
+      "high_rating_ratio": "38%"
+    },
+    "recent_movies": [
+      "Requiem for a Dream (2000)",
+      "Wonder Boys (2000)",
+      "Bone Collector, The (1999)"
+    ],
+    "description": "85号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.1分，38%的电影评分为4星及以上），最近观看的电影包括《Requiem for a Dream (2000), Wonder Boys (2000), Bone Collector, The (1999)》。偏好题材包括：Drama、Comedy、Thriller、Action、Horror"
+  },
+  {
+    "uid": "86",
+    "gender": "女",
+    "age_group": "Under 18",
+    "occupation": "K-12 student",
+    "interests": [
+      "Adventure",
+      "Action",
+      "Children's",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 48,
+      "avg_rating": 4.31,
+      "high_rating_ratio": "88%"
+    },
+    "recent_movies": [
+      "Big Green, The (1995)",
+      "Green Mile, The (1999)",
+      "Bone Collector, The (1999)"
+    ],
+    "description": "86号用户（女, Under 18, K-12 student）是个电影爱好者（平均评分4.3分，88%的电影评分为4星及以上），最近观看的电影包括《Big Green, The (1995), Green Mile, The (1999), Bone Collector, The (1999)》。偏好题材包括：Adventure、Action、Children's、Thriller、Sci-Fi"
+  },
+  {
+    "uid": "87",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "sales/marketing",
+    "interests": [
+      "Action",
+      "Drama",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 59,
+      "avg_rating": 2.81,
+      "high_rating_ratio": "46%"
+    },
+    "recent_movies": [
+      "Army of Darkness (1993)",
+      "Hunt for Red October, The (1990)",
+      "X-Men (2000)"
+    ],
+    "description": "87号用户（男, 25-34, sales/marketing）是个电影爱好者（平均评分2.8分，46%的电影评分为4星及以上），最近观看的电影包括《Army of Darkness (1993), Hunt for Red October, The (1990), X-Men (2000)》。偏好题材包括：Action、Drama、Adventure、Sci-Fi、Thriller"
+  },
+  {
+    "uid": "88",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "War",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 68,
+      "avg_rating": 4.15,
+      "high_rating_ratio": "81%"
+    },
+    "recent_movies": [
+      "Rain Man (1988)",
+      "Risky Business (1983)",
+      "Fast Times at Ridgemont High (1982)"
+    ],
+    "description": "88号用户（女, 45-49, academic/educator）是个电影爱好者（平均评分4.1分，81%的电影评分为4星及以上），最近观看的电影包括《Rain Man (1988), Risky Business (1983), Fast Times at Ridgemont High (1982)》。偏好题材包括：Drama、Comedy、Romance、War、Crime"
+  },
+  {
+    "uid": "89",
+    "gender": "女",
+    "age_group": "56+",
+    "occupation": "homemaker",
+    "interests": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "War",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 21,
+      "avg_rating": 3.24,
+      "high_rating_ratio": "62%"
+    },
+    "recent_movies": [
+      "Big Trouble in Little China (1986)",
+      "Naked Gun: From the Files of Police Squad!, The (1988)",
+      "Naked Gun 2 1/2: The Smell of Fear, The (1991)"
+    ],
+    "description": "89号用户（女, 56+, homemaker）是个电影爱好者（平均评分3.2分，62%的电影评分为4星及以上），最近观看的电影包括《Big Trouble in Little China (1986), Naked Gun: From the Files of Police Squad!, The (1988), Naked Gun 2 1/2: The Smell of Fear, The (1991)》。偏好题材包括：Drama、Action、Comedy、War、Thriller"
+  },
+  {
+    "uid": "90",
+    "gender": "男",
+    "age_group": "56+",
+    "occupation": "retired",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 225,
+      "avg_rating": 3.51,
+      "high_rating_ratio": "46%"
+    },
+    "recent_movies": [
+      "Jackie Chan's First Strike (1996)",
+      "Nutty Professor II: The Klumps (2000)",
+      "Hollow Man (2000)"
+    ],
+    "description": "90号用户（男, 56+, retired）是个电影爱好者（平均评分3.5分，46%的电影评分为4星及以上），最近观看的电影包括《Jackie Chan's First Strike (1996), Nutty Professor II: The Klumps (2000), Hollow Man (2000)》。偏好题材包括：Comedy、Drama、Thriller、Action、Crime"
+  },
+  {
+    "uid": "91",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "War",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 44,
+      "avg_rating": 4.7,
+      "high_rating_ratio": "95%"
+    },
+    "recent_movies": [
+      "Groundhog Day (1993)",
+      "Gone with the Wind (1939)",
+      "Casablanca (1942)"
+    ],
+    "description": "91号用户（男, 35-44, executive/managerial）是个电影爱好者（平均评分4.7分，95%的电影评分为4星及以上），最近观看的电影包括《Groundhog Day (1993), Gone with the Wind (1939), Casablanca (1942)》。偏好题材包括：Comedy、Drama、Romance、War、Action"
+  },
+  {
+    "uid": "92",
+    "gender": "女",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Children's",
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 430,
+      "avg_rating": 2.76,
+      "high_rating_ratio": "33%"
+    },
+    "recent_movies": [
+      "Speed 2: Cruise Control (1997)",
+      "Godzilla (1998)",
+      "Saint, The (1997)"
+    ],
+    "description": "92号用户（女, 18-24, college/grad student）是个电影爱好者（平均评分2.8分，33%的电影评分为4星及以上），最近观看的电影包括《Speed 2: Cruise Control (1997), Godzilla (1998), Saint, The (1997)》。偏好题材包括：Comedy、Children's、Action、Drama、Adventure"
+  },
+  {
+    "uid": "93",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 220,
+      "avg_rating": 2.97,
+      "high_rating_ratio": "38%"
+    },
+    "recent_movies": [
+      "Best in Show (2000)",
+      "Crow: City of Angels, The (1996)",
+      "Universal Soldier: The Return (1999)"
+    ],
+    "description": "93号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分3.0分，38%的电影评分为4星及以上），最近观看的电影包括《Best in Show (2000), Crow: City of Angels, The (1996), Universal Soldier: The Return (1999)》。偏好题材包括：Action、Adventure、Sci-Fi、Thriller、Comedy"
+  },
+  {
+    "uid": "94",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Horror",
+      "Sci-Fi",
+      "Comedy",
+      "Thriller",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 21,
+      "avg_rating": 3.86,
+      "high_rating_ratio": "67%"
+    },
+    "recent_movies": [
+      "Evil Dead II (Dead By Dawn) (1987)",
+      "Re-Animator (1985)",
+      "Nosferatu a Venezia (1986)"
+    ],
+    "description": "94号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分3.9分，67%的电影评分为4星及以上），最近观看的电影包括《Evil Dead II (Dead By Dawn) (1987), Re-Animator (1985), Nosferatu a Venezia (1986)》。偏好题材包括：Horror、Sci-Fi、Comedy、Thriller、Action"
+  },
+  {
+    "uid": "95",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "other",
+    "interests": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 99,
+      "avg_rating": 3.6,
+      "high_rating_ratio": "55%"
+    },
+    "recent_movies": [
+      "Pi (1998)",
+      "Green Mile, The (1999)",
+      "Nikita (La Femme Nikita) (1990)"
+    ],
+    "description": "95号用户（男, 45-49, other）是个电影爱好者（平均评分3.6分，55%的电影评分为4星及以上），最近观看的电影包括《Pi (1998), Green Mile, The (1999), Nikita (La Femme Nikita) (1990)》。偏好题材包括：Drama、Action、Comedy、Thriller、Crime"
+  },
+  {
+    "uid": "96",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "self-employed",
+    "interests": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 81,
+      "avg_rating": 3.6,
+      "high_rating_ratio": "60%"
+    },
+    "recent_movies": [
+      "Willy Wonka and the Chocolate Factory (1971)",
+      "Rules of Engagement (2000)",
+      "Mission: Impossible 2 (2000)"
+    ],
+    "description": "96号用户（女, 25-34, self-employed）是个电影爱好者（平均评分3.6分，60%的电影评分为4星及以上），最近观看的电影包括《Willy Wonka and the Chocolate Factory (1971), Rules of Engagement (2000), Mission: Impossible 2 (2000)》。偏好题材包括：Drama、Action、Comedy、Thriller、Romance"
+  },
+  {
+    "uid": "97",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "clerical/admin",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Romance",
+      "War"
+    ],
+    "stats": {
+      "total_ratings": 154,
+      "avg_rating": 4.47,
+      "high_rating_ratio": "94%"
+    },
+    "recent_movies": [
+      "Key Largo (1948)",
+      "Philadelphia Story, The (1940)",
+      "Shane (1953)"
+    ],
+    "description": "97号用户（女, 35-44, clerical/admin）是个电影爱好者（平均评分4.5分，94%的电影评分为4星及以上），最近观看的电影包括《Key Largo (1948), Philadelphia Story, The (1940), Shane (1953)》。偏好题材包括：Drama、Comedy、Thriller、Romance、War"
+  },
+  {
+    "uid": "98",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Drama",
+      "Action",
+      "War",
+      "Comedy",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 20,
+      "avg_rating": 3.8,
+      "high_rating_ratio": "60%"
+    },
+    "recent_movies": [
+      "Shawshank Redemption, The (1994)",
+      "Pulp Fiction (1994)",
+      "Silence of the Lambs, The (1991)"
+    ],
+    "description": "98号用户（女, 35-44, executive/managerial）是个电影爱好者（平均评分3.8分，60%的电影评分为4星及以上），最近观看的电影包括《Shawshank Redemption, The (1994), Pulp Fiction (1994), Silence of the Lambs, The (1991)》。偏好题材包括：Drama、Action、War、Comedy、Adventure"
+  },
+  {
+    "uid": "99",
+    "gender": "女",
+    "age_group": "Under 18",
+    "occupation": "K-12 student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Action",
+      "Children's",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 107,
+      "avg_rating": 3.21,
+      "high_rating_ratio": "48%"
+    },
+    "recent_movies": [
+      "Sixteen Candles (1984)",
+      "Sixth Sense, The (1999)",
+      "Breakfast Club, The (1985)"
+    ],
+    "description": "99号用户（女, Under 18, K-12 student）是个电影爱好者（平均评分3.2分，48%的电影评分为4星及以上），最近观看的电影包括《Sixteen Candles (1984), Sixth Sense, The (1999), Breakfast Club, The (1985)》。偏好题材包括：Comedy、Drama、Action、Children's、Crime"
+  },
+  {
+    "uid": "100",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi",
+      "War"
+    ],
+    "stats": {
+      "total_ratings": 76,
+      "avg_rating": 3.03,
+      "high_rating_ratio": "26%"
+    },
+    "recent_movies": [
+      "Like Water for Chocolate (Como agua para chocolate) (1992)",
+      "Apocalypse Now (1979)",
+      "Wizard of Oz, The (1939)"
+    ],
+    "description": "100号用户（男, 35-44, technician/engineer）是个电影爱好者（平均评分3.0分，26%的电影评分为4星及以上），最近观看的电影包括《Like Water for Chocolate (Como agua para chocolate) (1992), Apocalypse Now (1979), Wizard of Oz, The (1939)》。偏好题材包括：Action、Adventure、Drama、Sci-Fi、War"
+  },
+  {
+    "uid": "101",
+    "gender": "女",
+    "age_group": "18-24",
+    "occupation": "clerical/admin",
+    "interests": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 106,
+      "avg_rating": 4.68,
+      "high_rating_ratio": "92%"
+    },
+    "recent_movies": [
+      "Air America (1990)",
+      "Waterworld (1995)",
+      "Rocky V (1990)"
+    ],
+    "description": "101号用户（女, 18-24, clerical/admin）是个电影爱好者（平均评分4.7分，92%的电影评分为4星及以上），最近观看的电影包括《Air America (1990), Waterworld (1995), Rocky V (1990)》。偏好题材包括：Action、Adventure、Sci-Fi、Thriller、Comedy"
+  },
+  {
+    "uid": "102",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "unemployed",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Romance",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 132,
+      "avg_rating": 3.13,
+      "high_rating_ratio": "45%"
+    },
+    "recent_movies": [
+      "Tommy (1975)",
+      "Computer Wore Tennis Shoes, The (1970)",
+      "Back to the Future Part III (1990)"
+    ],
+    "description": "102号用户（男, 35-44, unemployed）是个电影爱好者（平均评分3.1分，45%的电影评分为4星及以上），最近观看的电影包括《Tommy (1975), Computer Wore Tennis Shoes, The (1970), Back to the Future Part III (1990)》。偏好题材包括：Drama、Comedy、Thriller、Romance、Action"
+  },
+  {
+    "uid": "103",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Action",
+      "Thriller",
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 115,
+      "avg_rating": 4.05,
+      "high_rating_ratio": "75%"
+    },
+    "recent_movies": [
+      "Speed 2: Cruise Control (1997)",
+      "Super Mario Bros. (1993)",
+      "Avengers, The (1998)"
+    ],
+    "description": "103号用户（男, 45-49, executive/managerial）是个电影爱好者（平均评分4.1分，75%的电影评分为4星及以上），最近观看的电影包括《Speed 2: Cruise Control (1997), Super Mario Bros. (1993), Avengers, The (1998)》。偏好题材包括：Action、Thriller、Sci-Fi、Adventure、Drama"
+  },
+  {
+    "uid": "104",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "programmer",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Action",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 46,
+      "avg_rating": 3.35,
+      "high_rating_ratio": "46%"
+    },
+    "recent_movies": [
+      "Payback (1999)",
+      "eXistenZ (1999)",
+      "Set It Off (1996)"
+    ],
+    "description": "104号用户（男, 25-34, programmer）是个电影爱好者（平均评分3.3分，46%的电影评分为4星及以上），最近观看的电影包括《Payback (1999), eXistenZ (1999), Set It Off (1996)》。偏好题材包括：Comedy、Drama、Thriller、Action、Sci-Fi"
+  },
+  {
+    "uid": "105",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "programmer",
+    "interests": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 61,
+      "avg_rating": 4.3,
+      "high_rating_ratio": "82%"
+    },
+    "recent_movies": [
+      "Indiana Jones and the Temple of Doom (1984)",
+      "7th Voyage of Sinbad, The (1958)",
+      "Supercop (1992)"
+    ],
+    "description": "105号用户（男, 45-49, programmer）是个电影爱好者（平均评分4.3分，82%的电影评分为4星及以上），最近观看的电影包括《Indiana Jones and the Temple of Doom (1984), 7th Voyage of Sinbad, The (1958), Supercop (1992)》。偏好题材包括：Action、Drama、Sci-Fi、Thriller、Adventure"
+  },
+  {
+    "uid": "106",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "lawyer",
+    "interests": [
+      "Romance",
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Musical"
+    ],
+    "stats": {
+      "total_ratings": 47,
+      "avg_rating": 4.02,
+      "high_rating_ratio": "77%"
+    },
+    "recent_movies": [
+      "Starman (1984)",
+      "Purple Rose of Cairo, The (1985)",
+      "Speed (1994)"
+    ],
+    "description": "106号用户（女, 35-44, lawyer）是个电影爱好者（平均评分4.0分，77%的电影评分为4星及以上），最近观看的电影包括《Starman (1984), Purple Rose of Cairo, The (1985), Speed (1994)》。偏好题材包括：Romance、Comedy、Drama、Thriller、Musical"
+  },
+  {
+    "uid": "107",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "tradesman/craftsman",
+    "interests": [
+      "Drama",
+      "Thriller",
+      "Comedy",
+      "War",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 121,
+      "avg_rating": 3.74,
+      "high_rating_ratio": "62%"
+    },
+    "recent_movies": [
+      "Soldier's Story, A (1984)",
+      "Hard Day's Night, A (1964)",
+      "Wings (1927)"
+    ],
+    "description": "107号用户（男, 45-49, tradesman/craftsman）是个电影爱好者（平均评分3.7分，62%的电影评分为4星及以上），最近观看的电影包括《Soldier's Story, A (1984), Hard Day's Night, A (1964), Wings (1927)》。偏好题材包括：Drama、Thriller、Comedy、War、Romance"
+  },
+  {
+    "uid": "108",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "programmer",
+    "interests": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Adventure",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 37,
+      "avg_rating": 3.14,
+      "high_rating_ratio": "46%"
+    },
+    "recent_movies": [
+      "Fantastic Voyage (1966)",
+      "Stranger Than Paradise (1984)",
+      "Slumber Party Massacre, The (1982)"
+    ],
+    "description": "108号用户（男, 25-34, programmer）是个电影爱好者（平均评分3.1分，46%的电影评分为4星及以上），最近观看的电影包括《Fantastic Voyage (1966), Stranger Than Paradise (1984), Slumber Party Massacre, The (1982)》。偏好题材包括：Comedy、Action、Drama、Adventure、Thriller"
+  },
+  {
+    "uid": "109",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "scientist",
+    "interests": [
+      "Comedy",
+      "Adventure",
+      "Action",
+      "Children's",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 81,
+      "avg_rating": 4.0,
+      "high_rating_ratio": "88%"
+    },
+    "recent_movies": [
+      "Mary Poppins (1964)",
+      "White Christmas (1954)",
+      "Sound of Music, The (1965)"
+    ],
+    "description": "109号用户（男, 45-49, scientist）是个电影爱好者（平均评分4.0分，88%的电影评分为4星及以上），最近观看的电影包括《Mary Poppins (1964), White Christmas (1954), Sound of Music, The (1965)》。偏好题材包括：Comedy、Adventure、Action、Children's、Sci-Fi"
+  },
+  {
+    "uid": "110",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "artist",
+    "interests": [
+      "Crime",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 80,
+      "avg_rating": 3.25,
+      "high_rating_ratio": "42%"
+    },
+    "recent_movies": [
+      "Reindeer Games (2000)",
+      "Romeo Must Die (2000)",
+      "Mission: Impossible 2 (2000)"
+    ],
+    "description": "110号用户（男, 25-34, artist）是个电影爱好者（平均评分3.2分，42%的电影评分为4星及以上），最近观看的电影包括《Reindeer Games (2000), Romeo Must Die (2000), Mission: Impossible 2 (2000)》。偏好题材包括：Crime、Drama、Action、Thriller、Comedy"
+  },
+  {
+    "uid": "111",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "scientist",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Thriller",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 92,
+      "avg_rating": 3.73,
+      "high_rating_ratio": "64%"
+    },
+    "recent_movies": [
+      "Mask, The (1994)",
+      "Mrs. Doubtfire (1993)",
+      "That Thing You Do! (1996)"
+    ],
+    "description": "111号用户（男, 35-44, scientist）是个电影爱好者（平均评分3.7分，64%的电影评分为4星及以上），最近观看的电影包括《Mask, The (1994), Mrs. Doubtfire (1993), That Thing You Do! (1996)》。偏好题材包括：Drama、Comedy、Romance、Thriller、Action"
+  },
+  {
+    "uid": "112",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "self-employed",
+    "interests": [
+      "Animation",
+      "Children's",
+      "Film-Noir",
+      "Thriller",
+      "Musical"
+    ],
+    "stats": {
+      "total_ratings": 60,
+      "avg_rating": 4.18,
+      "high_rating_ratio": "75%"
+    },
+    "recent_movies": [
+      "Angel Heart (1987)",
+      "Wrong Man, The (1956)",
+      "Gilda (1946)"
+    ],
+    "description": "112号用户（男, 25-34, self-employed）是个电影爱好者（平均评分4.2分，75%的电影评分为4星及以上），最近观看的电影包括《Angel Heart (1987), Wrong Man, The (1956), Gilda (1946)》。偏好题材包括：Animation、Children's、Film-Noir、Thriller、Musical"
+  },
+  {
+    "uid": "113",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "programmer",
+    "interests": [
+      "Action",
+      "Sci-Fi",
+      "Thriller",
+      "Drama",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 68,
+      "avg_rating": 3.5,
+      "high_rating_ratio": "57%"
+    },
+    "recent_movies": [
+      "Watcher, The (2000)",
+      "Catfish in Black Bean Sauce (2000)",
+      "Eye of the Beholder (1999)"
+    ],
+    "description": "113号用户（男, 18-24, programmer）是个电影爱好者（平均评分3.5分，57%的电影评分为4星及以上），最近观看的电影包括《Watcher, The (2000), Catfish in Black Bean Sauce (2000), Eye of the Beholder (1999)》。偏好题材包括：Action、Sci-Fi、Thriller、Drama、Adventure"
+  },
+  {
+    "uid": "114",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "artist",
+    "interests": [
+      "Children's",
+      "Animation",
+      "Musical",
+      "Comedy",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 98,
+      "avg_rating": 3.69,
+      "high_rating_ratio": "67%"
+    },
+    "recent_movies": [
+      "Grapes of Wrath, The (1940)",
+      "Singin' in the Rain (1952)",
+      "West Side Story (1961)"
+    ],
+    "description": "114号用户（女, 25-34, artist）是个电影爱好者（平均评分3.7分，67%的电影评分为4星及以上），最近观看的电影包括《Grapes of Wrath, The (1940), Singin' in the Rain (1952), West Side Story (1961)》。偏好题材包括：Children's、Animation、Musical、Comedy、Drama"
+  },
+  {
+    "uid": "115",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Action",
+      "Sci-Fi",
+      "Thriller",
+      "Comedy",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 38,
+      "avg_rating": 3.84,
+      "high_rating_ratio": "58%"
+    },
+    "recent_movies": [
+      "Hellraiser: Bloodline (1996)",
+      "Friday the 13th: The Final Chapter (1984)",
+      "Hideaway (1995)"
+    ],
+    "description": "115号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分3.8分，58%的电影评分为4星及以上），最近观看的电影包括《Hellraiser: Bloodline (1996), Friday the 13th: The Final Chapter (1984), Hideaway (1995)》。偏好题材包括：Action、Sci-Fi、Thriller、Comedy、Adventure"
+  },
+  {
+    "uid": "116",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 86,
+      "avg_rating": 3.8,
+      "high_rating_ratio": "65%"
+    },
+    "recent_movies": [
+      "Karate Kid, Part II, The (1986)",
+      "Karate Kid III, The (1989)",
+      "Jaws 2 (1978)"
+    ],
+    "description": "116号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分3.8分，65%的电影评分为4星及以上），最近观看的电影包括《Karate Kid, Part II, The (1986), Karate Kid III, The (1989), Jaws 2 (1978)》。偏好题材包括：Comedy、Action、Drama、Fantasy、Sci-Fi"
+  },
+  {
+    "uid": "117",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Action",
+      "Sci-Fi",
+      "Adventure",
+      "Horror",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 505,
+      "avg_rating": 3.3,
+      "high_rating_ratio": "42%"
+    },
+    "recent_movies": [
+      "Scary Movie (2000)",
+      "Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954)",
+      "Willow (1988)"
+    ],
+    "description": "117号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分3.3分，42%的电影评分为4星及以上），最近观看的电影包括《Scary Movie (2000), Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954), Willow (1988)》。偏好题材包括：Action、Sci-Fi、Adventure、Horror、Comedy"
+  },
+  {
+    "uid": "118",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Action",
+      "Comedy",
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 224,
+      "avg_rating": 3.77,
+      "high_rating_ratio": "60%"
+    },
+    "recent_movies": [
+      "Chariots of Fire (1981)",
+      "Dead Poets Society (1989)",
+      "Body Heat (1981)"
+    ],
+    "description": "118号用户（男, 35-44, technician/engineer）是个电影爱好者（平均评分3.8分，60%的电影评分为4星及以上），最近观看的电影包括《Chariots of Fire (1981), Dead Poets Society (1989), Body Heat (1981)》。偏好题材包括：Action、Comedy、Adventure、Drama、Romance"
+  },
+  {
+    "uid": "119",
+    "gender": "女",
+    "age_group": "Under 18",
+    "occupation": "K-12 student",
+    "interests": [
+      "Comedy",
+      "Children's",
+      "Animation",
+      "Adventure",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 105,
+      "avg_rating": 3.54,
+      "high_rating_ratio": "49%"
+    },
+    "recent_movies": [
+      "Haunting, The (1999)",
+      "Young Frankenstein (1974)",
+      "House on Haunted Hill, The (1999)"
+    ],
+    "description": "119号用户（女, Under 18, K-12 student）是个电影爱好者（平均评分3.5分，49%的电影评分为4星及以上），最近观看的电影包括《Haunting, The (1999), Young Frankenstein (1974), House on Haunted Hill, The (1999)》。偏好题材包括：Comedy、Children's、Animation、Adventure、Romance"
+  },
+  {
+    "uid": "120",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "lawyer",
+    "interests": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Comedy",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 63,
+      "avg_rating": 3.62,
+      "high_rating_ratio": "54%"
+    },
+    "recent_movies": [
+      "Insider, The (1999)",
+      "Apocalypse Now (1979)",
+      "Invasion of the Body Snatchers (1956)"
+    ],
+    "description": "120号用户（男, 25-34, lawyer）是个电影爱好者（平均评分3.6分，54%的电影评分为4星及以上），最近观看的电影包括《Insider, The (1999), Apocalypse Now (1979), Invasion of the Body Snatchers (1956)》。偏好题材包括：Drama、Action、Crime、Comedy、Thriller"
+  },
+  {
+    "uid": "121",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Sci-Fi",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Horror"
+    ],
+    "stats": {
+      "total_ratings": 72,
+      "avg_rating": 4.42,
+      "high_rating_ratio": "88%"
+    },
+    "recent_movies": [
+      "Snow White and the Seven Dwarfs (1937)",
+      "Toy Story (1995)",
+      "Chicken Run (2000)"
+    ],
+    "description": "121号用户（男, 35-44, executive/managerial）是个电影爱好者（平均评分4.4分，88%的电影评分为4星及以上），最近观看的电影包括《Snow White and the Seven Dwarfs (1937), Toy Story (1995), Chicken Run (2000)》。偏好题材包括：Sci-Fi、Action、Adventure、Comedy、Horror"
+  },
+  {
+    "uid": "122",
+    "gender": "女",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Action",
+      "Thriller",
+      "Adventure",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 57,
+      "avg_rating": 2.96,
+      "high_rating_ratio": "44%"
+    },
+    "recent_movies": [
+      "Terminator, The (1984)",
+      "Speed (1994)",
+      "South Park: Bigger, Longer and Uncut (1999)"
+    ],
+    "description": "122号用户（女, 18-24, college/grad student）是个电影爱好者（平均评分3.0分，44%的电影评分为4星及以上），最近观看的电影包括《Terminator, The (1984), Speed (1994), South Park: Bigger, Longer and Uncut (1999)》。偏好题材包括：Action、Thriller、Adventure、Sci-Fi、Drama"
+  },
+  {
+    "uid": "123",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "homemaker",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Action",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 608,
+      "avg_rating": 3.4,
+      "high_rating_ratio": "47%"
+    },
+    "recent_movies": [
+      "Albino Alligator (1996)",
+      "Anywhere But Here (1999)",
+      "eXistenZ (1999)"
+    ],
+    "description": "123号用户（男, 35-44, homemaker）是个电影爱好者（平均评分3.4分，47%的电影评分为4星及以上），最近观看的电影包括《Albino Alligator (1996), Anywhere But Here (1999), eXistenZ (1999)》。偏好题材包括：Drama、Comedy、Thriller、Action、Romance"
+  },
+  {
+    "uid": "124",
+    "gender": "男",
+    "age_group": "56+",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Drama",
+      "Thriller",
+      "Action",
+      "Crime",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 23,
+      "avg_rating": 4.17,
+      "high_rating_ratio": "87%"
+    },
+    "recent_movies": [
+      "Boiler Room (2000)",
+      "End of the Affair, The (1999)",
+      "Grifters, The (1990)"
+    ],
+    "description": "124号用户（男, 56+, executive/managerial）是个电影爱好者（平均评分4.2分，87%的电影评分为4星及以上），最近观看的电影包括《Boiler Room (2000), End of the Affair, The (1999), Grifters, The (1990)》。偏好题材包括：Drama、Thriller、Action、Crime、Comedy"
+  },
+  {
+    "uid": "125",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "sales/marketing",
+    "interests": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 71,
+      "avg_rating": 4.1,
+      "high_rating_ratio": "79%"
+    },
+    "recent_movies": [
+      "Meet the Parents (2000)",
+      "F/X (1986)",
+      "Thin Red Line, The (1998)"
+    ],
+    "description": "125号用户（男, 45-49, sales/marketing）是个电影爱好者（平均评分4.1分，79%的电影评分为4星及以上），最近观看的电影包括《Meet the Parents (2000), F/X (1986), Thin Red Line, The (1998)》。偏好题材包括：Action、Drama、Thriller、Adventure、Sci-Fi"
+  },
+  {
+    "uid": "126",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "homemaker",
+    "interests": [
+      "Romance",
+      "Drama",
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 51,
+      "avg_rating": 4.0,
+      "high_rating_ratio": "75%"
+    },
+    "recent_movies": [
+      "Indochine (1992)",
+      "Muriel's Wedding (1994)",
+      "Sabrina (1954)"
+    ],
+    "description": "126号用户（男, 18-24, homemaker）是个电影爱好者（平均评分4.0分，75%的电影评分为4星及以上），最近观看的电影包括《Indochine (1992), Muriel's Wedding (1994), Sabrina (1954)》。偏好题材包括：Romance、Drama、Action、Comedy、Crime"
+  },
+  {
+    "uid": "127",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "clerical/admin",
+    "interests": [
+      "Action",
+      "Thriller",
+      "Drama",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 174,
+      "avg_rating": 3.84,
+      "high_rating_ratio": "64%"
+    },
+    "recent_movies": [
+      "Deliverance (1972)",
+      "Alien (1979)",
+      "Witness (1985)"
+    ],
+    "description": "127号用户（女, 45-49, clerical/admin）是个电影爱好者（平均评分3.8分，64%的电影评分为4星及以上），最近观看的电影包括《Deliverance (1972), Alien (1979), Witness (1985)》。偏好题材包括：Action、Thriller、Drama、Sci-Fi、Adventure"
+  },
+  {
+    "uid": "128",
+    "gender": "男",
+    "age_group": "56+",
+    "occupation": "doctor/health care",
+    "interests": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Musical",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 22,
+      "avg_rating": 4.36,
+      "high_rating_ratio": "82%"
+    },
+    "recent_movies": [
+      "Rocky Horror Picture Show, The (1975)",
+      "Jurassic Park (1993)",
+      "Fantasia 2000 (1999)"
+    ],
+    "description": "128号用户（男, 56+, doctor/health care）是个电影爱好者（平均评分4.4分，82%的电影评分为4星及以上），最近观看的电影包括《Rocky Horror Picture Show, The (1975), Jurassic Park (1993), Fantasia 2000 (1999)》。偏好题材包括：Comedy、Action、Drama、Musical、Sci-Fi"
+  },
+  {
+    "uid": "129",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "lawyer",
+    "interests": [
+      "Action",
+      "Crime",
+      "Thriller",
+      "Drama",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 158,
+      "avg_rating": 4.03,
+      "high_rating_ratio": "78%"
+    },
+    "recent_movies": [
+      "Barbarella (1968)",
+      "Twister (1996)",
+      "Poseidon Adventure, The (1972)"
+    ],
+    "description": "129号用户（男, 25-34, lawyer）是个电影爱好者（平均评分4.0分，78%的电影评分为4星及以上），最近观看的电影包括《Barbarella (1968), Twister (1996), Poseidon Adventure, The (1972)》。偏好题材包括：Action、Crime、Thriller、Drama、Adventure"
+  },
+  {
+    "uid": "130",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 135,
+      "avg_rating": 4.31,
+      "high_rating_ratio": "84%"
+    },
+    "recent_movies": [
+      "World Is Not Enough, The (1999)",
+      "Top Gun (1986)",
+      "Running Scared (1986)"
+    ],
+    "description": "130号用户（男, 35-44, technician/engineer）是个电影爱好者（平均评分4.3分，84%的电影评分为4星及以上），最近观看的电影包括《World Is Not Enough, The (1999), Top Gun (1986), Running Scared (1986)》。偏好题材包括：Action、Adventure、Sci-Fi、Thriller、Drama"
+  },
+  {
+    "uid": "131",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Romance",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 295,
+      "avg_rating": 3.4,
+      "high_rating_ratio": "57%"
+    },
+    "recent_movies": [
+      "Singin' in the Rain (1952)",
+      "Notorious (1946)",
+      "Pather Panchali (1955)"
+    ],
+    "description": "131号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.4分，57%的电影评分为4星及以上），最近观看的电影包括《Singin' in the Rain (1952), Notorious (1946), Pather Panchali (1955)》。偏好题材包括：Drama、Comedy、Thriller、Romance、Action"
+  },
+  {
+    "uid": "132",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Children's",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 89,
+      "avg_rating": 3.97,
+      "high_rating_ratio": "71%"
+    },
+    "recent_movies": [
+      "Big Lebowski, The (1998)",
+      "Mallrats (1995)",
+      "Defending Your Life (1991)"
+    ],
+    "description": "132号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分4.0分，71%的电影评分为4星及以上），最近观看的电影包括《Big Lebowski, The (1998), Mallrats (1995), Defending Your Life (1991)》。偏好题材包括：Comedy、Drama、Romance、Children's、Adventure"
+  },
+  {
+    "uid": "133",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "other",
+    "interests": [
+      "Drama",
+      "Thriller",
+      "Comedy",
+      "Romance",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 170,
+      "avg_rating": 3.77,
+      "high_rating_ratio": "74%"
+    },
+    "recent_movies": [
+      "Sunshine (1999)",
+      "Best in Show (2000)",
+      "What Lies Beneath (2000)"
+    ],
+    "description": "133号用户（女, 25-34, other）是个电影爱好者（平均评分3.8分，74%的电影评分为4星及以上），最近观看的电影包括《Sunshine (1999), Best in Show (2000), What Lies Beneath (2000)》。偏好题材包括：Drama、Thriller、Comedy、Romance、Action"
+  },
+  {
+    "uid": "134",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "other",
+    "interests": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Thriller",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 183,
+      "avg_rating": 2.72,
+      "high_rating_ratio": "30%"
+    },
+    "recent_movies": [
+      "Croupier (1998)",
+      "Saving Private Ryan (1998)",
+      "Crew, The (2000)"
+    ],
+    "description": "134号用户（男, 25-34, other）是个电影爱好者（平均评分2.7分，30%的电影评分为4星及以上），最近观看的电影包括《Croupier (1998), Saving Private Ryan (1998), Crew, The (2000)》。偏好题材包括：Action、Comedy、Sci-Fi、Thriller、Drama"
+  },
+  {
+    "uid": "135",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Action",
+      "Animation"
+    ],
+    "stats": {
+      "total_ratings": 70,
+      "avg_rating": 3.66,
+      "high_rating_ratio": "57%"
+    },
+    "recent_movies": [
+      "Airplane! (1980)",
+      "Princess Bride, The (1987)",
+      "Ferris Bueller's Day Off (1986)"
+    ],
+    "description": "135号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.7分，57%的电影评分为4星及以上），最近观看的电影包括《Airplane! (1980), Princess Bride, The (1987), Ferris Bueller's Day Off (1986)》。偏好题材包括：Comedy、Drama、Thriller、Action、Animation"
+  },
+  {
+    "uid": "136",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "artist",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Children's"
+    ],
+    "stats": {
+      "total_ratings": 378,
+      "avg_rating": 3.07,
+      "high_rating_ratio": "45%"
+    },
+    "recent_movies": [
+      "Coneheads (1993)",
+      "Naked Gun 2 1/2: The Smell of Fear, The (1991)",
+      "French Kiss (1995)"
+    ],
+    "description": "136号用户（男, 18-24, artist）是个电影爱好者（平均评分3.1分，45%的电影评分为4星及以上），最近观看的电影包括《Coneheads (1993), Naked Gun 2 1/2: The Smell of Fear, The (1991), French Kiss (1995)》。偏好题材包括：Comedy、Drama、Romance、Sci-Fi、Children's"
+  },
+  {
+    "uid": "137",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "doctor/health care",
+    "interests": [
+      "Drama",
+      "Action",
+      "Romance",
+      "Comedy",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 201,
+      "avg_rating": 3.61,
+      "high_rating_ratio": "58%"
+    },
+    "recent_movies": [
+      "Mars Attacks! (1996)",
+      "Messenger: The Story of Joan of Arc, The (1999)",
+      "G.I. Jane (1997)"
+    ],
+    "description": "137号用户（女, 45-49, doctor/health care）是个电影爱好者（平均评分3.6分，58%的电影评分为4星及以上），最近观看的电影包括《Mars Attacks! (1996), Messenger: The Story of Joan of Arc, The (1999), G.I. Jane (1997)》。偏好题材包括：Drama、Action、Romance、Comedy、Thriller"
+  },
+  {
+    "uid": "138",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "writer",
+    "interests": [
+      "Crime",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 65,
+      "avg_rating": 4.49,
+      "high_rating_ratio": "91%"
+    },
+    "recent_movies": [
+      "Henry: Portrait of a Serial Killer (1990)",
+      "Simple Plan, A (1998)",
+      "Lock, Stock & Two Smoking Barrels (1998)"
+    ],
+    "description": "138号用户（男, 18-24, writer）是个电影爱好者（平均评分4.5分，91%的电影评分为4星及以上），最近观看的电影包括《Henry: Portrait of a Serial Killer (1990), Simple Plan, A (1998), Lock, Stock & Two Smoking Barrels (1998)》。偏好题材包括：Crime、Drama、Action、Thriller、Comedy"
+  },
+  {
+    "uid": "139",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "writer",
+    "interests": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 245,
+      "avg_rating": 3.88,
+      "high_rating_ratio": "64%"
+    },
+    "recent_movies": [
+      "Missing in Action (1984)",
+      "Red Dawn (1984)",
+      "Mars Attacks! (1996)"
+    ],
+    "description": "139号用户（女, 25-34, writer）是个电影爱好者（平均评分3.9分，64%的电影评分为4星及以上），最近观看的电影包括《Missing in Action (1984), Red Dawn (1984), Mars Attacks! (1996)》。偏好题材包括：Comedy、Action、Drama、Adventure、Sci-Fi"
+  },
+  {
+    "uid": "140",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Action",
+      "Thriller",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 55,
+      "avg_rating": 3.82,
+      "high_rating_ratio": "65%"
+    },
+    "recent_movies": [
+      "African Queen, The (1951)",
+      "Raiders of the Lost Ark (1981)",
+      "Star Wars: Episode V - The Empire Strikes Back (1980)"
+    ],
+    "description": "140号用户（女, 35-44, academic/educator）是个电影爱好者（平均评分3.8分，65%的电影评分为4星及以上），最近观看的电影包括《African Queen, The (1951), Raiders of the Lost Ark (1981), Star Wars: Episode V - The Empire Strikes Back (1980)》。偏好题材包括：Drama、Comedy、Action、Thriller、Romance"
+  },
+  {
+    "uid": "141",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "retired",
+    "interests": [
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "Action",
+      "Film-Noir"
+    ],
+    "stats": {
+      "total_ratings": 23,
+      "avg_rating": 3.7,
+      "high_rating_ratio": "65%"
+    },
+    "recent_movies": [
+      "Shadow of a Doubt (1943)",
+      "Inherit the Wind (1960)",
+      "Anatomy of a Murder (1959)"
+    ],
+    "description": "141号用户（男, 35-44, retired）是个电影爱好者（平均评分3.7分，65%的电影评分为4星及以上），最近观看的电影包括《Shadow of a Doubt (1943), Inherit the Wind (1960), Anatomy of a Murder (1959)》。偏好题材包括：Drama、Mystery、Thriller、Action、Film-Noir"
+  },
+  {
+    "uid": "142",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Children's",
+      "Action",
+      "Animation"
+    ],
+    "stats": {
+      "total_ratings": 47,
+      "avg_rating": 3.34,
+      "high_rating_ratio": "49%"
+    },
+    "recent_movies": [
+      "Iron Giant, The (1999)",
+      "Magnolia (1999)",
+      "Titan A.E. (2000)"
+    ],
+    "description": "142号用户（男, 25-34, executive/managerial）是个电影爱好者（平均评分3.3分，49%的电影评分为4星及以上），最近观看的电影包括《Iron Giant, The (1999), Magnolia (1999), Titan A.E. (2000)》。偏好题材包括：Drama、Comedy、Children's、Action、Animation"
+  },
+  {
+    "uid": "143",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "clerical/admin",
+    "interests": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 68,
+      "avg_rating": 3.54,
+      "high_rating_ratio": "53%"
+    },
+    "recent_movies": [
+      "Titanic (1997)",
+      "Misérables, Les (1998)",
+      "Jurassic Park (1993)"
+    ],
+    "description": "143号用户（男, 18-24, clerical/admin）是个电影爱好者（平均评分3.5分，53%的电影评分为4星及以上），最近观看的电影包括《Titanic (1997), Misérables, Les (1998), Jurassic Park (1993)》。偏好题材包括：Action、Comedy、Drama、Romance、Thriller"
+  },
+  {
+    "uid": "144",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Drama",
+      "Action",
+      "Thriller",
+      "Sci-Fi",
+      "Mystery"
+    ],
+    "stats": {
+      "total_ratings": 32,
+      "avg_rating": 3.47,
+      "high_rating_ratio": "53%"
+    },
+    "recent_movies": [
+      "Game, The (1997)",
+      "2010 (1984)",
+      "2001: A Space Odyssey (1968)"
+    ],
+    "description": "144号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分3.5分，53%的电影评分为4星及以上），最近观看的电影包括《Game, The (1997), 2010 (1984), 2001: A Space Odyssey (1968)》。偏好题材包括：Drama、Action、Thriller、Sci-Fi、Mystery"
+  },
+  {
+    "uid": "145",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 39,
+      "avg_rating": 3.0,
+      "high_rating_ratio": "38%"
+    },
+    "recent_movies": [
+      "Velvet Goldmine (1998)",
+      "Thirteenth Floor, The (1999)",
+      "South Park: Bigger, Longer and Uncut (1999)"
+    ],
+    "description": "145号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.0分，38%的电影评分为4星及以上），最近观看的电影包括《Velvet Goldmine (1998), Thirteenth Floor, The (1999), South Park: Bigger, Longer and Uncut (1999)》。偏好题材包括：Drama、Comedy、Action、Crime、Sci-Fi"
+  },
+  {
+    "uid": "146",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "writer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Thriller",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 426,
+      "avg_rating": 3.77,
+      "high_rating_ratio": "66%"
+    },
+    "recent_movies": [
+      "Big Combo, The (1955)",
+      "Touch of Evil (1958)",
+      "Grifters, The (1990)"
+    ],
+    "description": "146号用户（女, 35-44, writer）是个电影爱好者（平均评分3.8分，66%的电影评分为4星及以上），最近观看的电影包括《Big Combo, The (1955), Touch of Evil (1958), Grifters, The (1990)》。偏好题材包括：Drama、Comedy、Romance、Thriller、Action"
+  },
+  {
+    "uid": "147",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "Adventure",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 187,
+      "avg_rating": 3.5,
+      "high_rating_ratio": "54%"
+    },
+    "recent_movies": [
+      "Lost World: Jurassic Park, The (1997)",
+      "Rocky Horror Picture Show, The (1975)",
+      "Rules of Engagement (2000)"
+    ],
+    "description": "147号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.5分，54%的电影评分为4星及以上），最近观看的电影包括《Lost World: Jurassic Park, The (1997), Rocky Horror Picture Show, The (1975), Rules of Engagement (2000)》。偏好题材包括：Action、Drama、Thriller、Adventure、Comedy"
+  },
+  {
+    "uid": "148",
+    "gender": "男",
+    "age_group": "50-55",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Action",
+      "Drama",
+      "Comedy",
+      "Adventure",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 624,
+      "avg_rating": 3.73,
+      "high_rating_ratio": "63%"
+    },
+    "recent_movies": [
+      "Cutting Edge, The (1992)",
+      "Doctor Dolittle (1967)",
+      "Odd Couple, The (1968)"
+    ],
+    "description": "148号用户（男, 50-55, technician/engineer）是个电影爱好者（平均评分3.7分，63%的电影评分为4星及以上），最近观看的电影包括《Cutting Edge, The (1992), Doctor Dolittle (1967), Odd Couple, The (1968)》。偏好题材包括：Action、Drama、Comedy、Adventure、Thriller"
+  },
+  {
+    "uid": "149",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 592,
+      "avg_rating": 3.94,
+      "high_rating_ratio": "72%"
+    },
+    "recent_movies": [
+      "Say Anything... (1989)",
+      "Red Sorghum (Hong Gao Liang) (1987)",
+      "Psycho (1960)"
+    ],
+    "description": "149号用户（男, 25-34, academic/educator）是个电影爱好者（平均评分3.9分，72%的电影评分为4星及以上），最近观看的电影包括《Say Anything... (1989), Red Sorghum (Hong Gao Liang) (1987), Psycho (1960)》。偏好题材包括：Drama、Action、Comedy、Thriller、Crime"
+  },
+  {
+    "uid": "150",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Thriller",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 232,
+      "avg_rating": 4.02,
+      "high_rating_ratio": "81%"
+    },
+    "recent_movies": [
+      "Being There (1979)",
+      "Elephant Man, The (1980)",
+      "Strawberry and Chocolate (Fresa y chocolate) (1993)"
+    ],
+    "description": "150号用户（男, 35-44, executive/managerial）是个电影爱好者（平均评分4.0分，81%的电影评分为4星及以上），最近观看的电影包括《Being There (1979), Elephant Man, The (1980), Strawberry and Chocolate (Fresa y chocolate) (1993)》。偏好题材包括：Drama、Comedy、Romance、Thriller、Action"
+  },
+  {
+    "uid": "151",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "writer",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Action",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 471,
+      "avg_rating": 3.65,
+      "high_rating_ratio": "60%"
+    },
+    "recent_movies": [
+      "Small Time Crooks (2000)",
+      "Duets (2000)",
+      "Tigerland (2000)"
+    ],
+    "description": "151号用户（女, 25-34, writer）是个电影爱好者（平均评分3.7分，60%的电影评分为4星及以上），最近观看的电影包括《Small Time Crooks (2000), Duets (2000), Tigerland (2000)》。偏好题材包括：Comedy、Drama、Romance、Action、Sci-Fi"
+  },
+  {
+    "uid": "152",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Adventure",
+      "Action",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 24,
+      "avg_rating": 4.12,
+      "high_rating_ratio": "83%"
+    },
+    "recent_movies": [
+      "Kids in the Hall: Brain Candy (1996)",
+      "Grosse Pointe Blank (1997)",
+      "Young Frankenstein (1974)"
+    ],
+    "description": "152号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分4.1分，83%的电影评分为4星及以上），最近观看的电影包括《Kids in the Hall: Brain Candy (1996), Grosse Pointe Blank (1997), Young Frankenstein (1974)》。偏好题材包括：Comedy、Drama、Adventure、Action、Romance"
+  },
+  {
+    "uid": "153",
+    "gender": "男",
+    "age_group": "Under 18",
+    "occupation": "K-12 student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Romance",
+      "Horror"
+    ],
+    "stats": {
+      "total_ratings": 26,
+      "avg_rating": 4.08,
+      "high_rating_ratio": "73%"
+    },
+    "recent_movies": [
+      "Man of the House (1995)",
+      "Scary Movie (2000)",
+      "Beach, The (2000)"
+    ],
+    "description": "153号用户（男, Under 18, K-12 student）是个电影爱好者（平均评分4.1分，73%的电影评分为4星及以上），最近观看的电影包括《Man of the House (1995), Scary Movie (2000), Beach, The (2000)》。偏好题材包括：Comedy、Drama、Thriller、Romance、Horror"
+  },
+  {
+    "uid": "154",
+    "gender": "男",
+    "age_group": "50-55",
+    "occupation": "writer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 44,
+      "avg_rating": 3.09,
+      "high_rating_ratio": "34%"
+    },
+    "recent_movies": [
+      "Touch of Evil (1958)",
+      "His Girl Friday (1940)",
+      "Bridge on the River Kwai, The (1957)"
+    ],
+    "description": "154号用户（男, 50-55, writer）是个电影爱好者（平均评分3.1分，34%的电影评分为4星及以上），最近观看的电影包括《Touch of Evil (1958), His Girl Friday (1940), Bridge on the River Kwai, The (1957)》。偏好题材包括：Drama、Comedy、Thriller、Action、Crime"
+  },
+  {
+    "uid": "155",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "programmer",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Action",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 96,
+      "avg_rating": 2.97,
+      "high_rating_ratio": "41%"
+    },
+    "recent_movies": [
+      "Battleship Potemkin, The (Bronenosets Potyomkin) (1925)",
+      "2001: A Space Odyssey (1968)",
+      "Graduate, The (1967)"
+    ],
+    "description": "155号用户（男, 35-44, programmer）是个电影爱好者（平均评分3.0分，41%的电影评分为4星及以上），最近观看的电影包括《Battleship Potemkin, The (Bronenosets Potyomkin) (1925), 2001: A Space Odyssey (1968), Graduate, The (1967)》。偏好题材包括：Comedy、Drama、Romance、Action、Sci-Fi"
+  },
+  {
+    "uid": "156",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Romance",
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ],
+    "stats": {
+      "total_ratings": 148,
+      "avg_rating": 4.24,
+      "high_rating_ratio": "88%"
+    },
+    "recent_movies": [
+      "Notorious (1946)",
+      "Princess Bride, The (1987)",
+      "Goodbye Girl, The (1977)"
+    ],
+    "description": "156号用户（女, 45-49, executive/managerial）是个电影爱好者（平均评分4.2分，88%的电影评分为4星及以上），最近观看的电影包括《Notorious (1946), Princess Bride, The (1987), Goodbye Girl, The (1977)》。偏好题材包括：Romance、Comedy、Drama、Thriller、Mystery"
+  },
+  {
+    "uid": "157",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "self-employed",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 427,
+      "avg_rating": 3.72,
+      "high_rating_ratio": "61%"
+    },
+    "recent_movies": [
+      "Untouchables, The (1987)",
+      "Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954)",
+      "Godfather: Part II, The (1974)"
+    ],
+    "description": "157号用户（男, 35-44, self-employed）是个电影爱好者（平均评分3.7分，61%的电影评分为4星及以上），最近观看的电影包括《Untouchables, The (1987), Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954), Godfather: Part II, The (1974)》。偏好题材包括：Comedy、Drama、Action、Sci-Fi、Adventure"
+  },
+  {
+    "uid": "158",
+    "gender": "男",
+    "age_group": "56+",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Drama",
+      "Film-Noir",
+      "Thriller",
+      "Comedy",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 22,
+      "avg_rating": 4.0,
+      "high_rating_ratio": "77%"
+    },
+    "recent_movies": [
+      "Chinatown (1974)",
+      "All About Eve (1950)",
+      "Lawrence of Arabia (1962)"
+    ],
+    "description": "158号用户（男, 56+, executive/managerial）是个电影爱好者（平均评分4.0分，77%的电影评分为4星及以上），最近观看的电影包括《Chinatown (1974), All About Eve (1950), Lawrence of Arabia (1962)》。偏好题材包括：Drama、Film-Noir、Thriller、Comedy、Action"
+  },
+  {
+    "uid": "159",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "other",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Action",
+      "Romance",
+      "Animation"
+    ],
+    "stats": {
+      "total_ratings": 36,
+      "avg_rating": 3.78,
+      "high_rating_ratio": "64%"
+    },
+    "recent_movies": [
+      "X-Men (2000)",
+      "Tender Mercies (1983)",
+      "Toy Story 2 (1999)"
+    ],
+    "description": "159号用户（女, 45-49, other）是个电影爱好者（平均评分3.8分，64%的电影评分为4星及以上），最近观看的电影包括《X-Men (2000), Tender Mercies (1983), Toy Story 2 (1999)》。偏好题材包括：Comedy、Drama、Action、Romance、Animation"
+  },
+  {
+    "uid": "160",
+    "gender": "男",
+    "age_group": "35-44",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Drama",
+      "Sci-Fi",
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 20,
+      "avg_rating": 3.5,
+      "high_rating_ratio": "45%"
+    },
+    "recent_movies": [
+      "What Lies Beneath (2000)",
+      "Snow Falling on Cedars (1999)",
+      "Hamlet (2000)"
+    ],
+    "description": "160号用户（男, 35-44, executive/managerial）是个电影爱好者（平均评分3.5分，45%的电影评分为4星及以上），最近观看的电影包括《What Lies Beneath (2000), Snow Falling on Cedars (1999), Hamlet (2000)》。偏好题材包括：Drama、Sci-Fi、Action、Adventure、Thriller"
+  },
+  {
+    "uid": "161",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "self-employed",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "War",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 297,
+      "avg_rating": 4.47,
+      "high_rating_ratio": "92%"
+    },
+    "recent_movies": [
+      "Trading Places (1983)",
+      "Last Temptation of Christ, The (1988)",
+      "Last of the Mohicans, The (1992)"
+    ],
+    "description": "161号用户（男, 45-49, self-employed）是个电影爱好者（平均评分4.5分，92%的电影评分为4星及以上），最近观看的电影包括《Trading Places (1983), Last Temptation of Christ, The (1988), Last of the Mohicans, The (1992)》。偏好题材包括：Drama、Comedy、Romance、War、Thriller"
+  },
+  {
+    "uid": "162",
+    "gender": "女",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Drama",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 107,
+      "avg_rating": 4.12,
+      "high_rating_ratio": "76%"
+    },
+    "recent_movies": [
+      "Three Musketeers, The (1993)",
+      "Batman Forever (1995)",
+      "Batman & Robin (1997)"
+    ],
+    "description": "162号用户（女, 18-24, college/grad student）是个电影爱好者（平均评分4.1分，76%的电影评分为4星及以上），最近观看的电影包括《Three Musketeers, The (1993), Batman Forever (1995), Batman & Robin (1997)》。偏好题材包括：Action、Comedy、Thriller、Drama、Romance"
+  },
+  {
+    "uid": "163",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 514,
+      "avg_rating": 2.18,
+      "high_rating_ratio": "11%"
+    },
+    "recent_movies": [
+      "Drop Dead Fred (1991)",
+      "Small Soldiers (1998)",
+      "Borrowers, The (1997)"
+    ],
+    "description": "163号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分2.2分，11%的电影评分为4星及以上），最近观看的电影包括《Drop Dead Fred (1991), Small Soldiers (1998), Borrowers, The (1997)》。偏好题材包括：Action、Comedy、Drama、Thriller、Romance"
+  },
+  {
+    "uid": "164",
+    "gender": "女",
+    "age_group": "56+",
+    "occupation": "retired",
+    "interests": [
+      "Drama",
+      "Romance",
+      "Comedy",
+      "War",
+      "Fantasy"
+    ],
+    "stats": {
+      "total_ratings": 26,
+      "avg_rating": 4.38,
+      "high_rating_ratio": "92%"
+    },
+    "recent_movies": [
+      "Remember the Titans (2000)",
+      "Erin Brockovich (2000)",
+      "Chicken Run (2000)"
+    ],
+    "description": "164号用户（女, 56+, retired）是个电影爱好者（平均评分4.4分，92%的电影评分为4星及以上），最近观看的电影包括《Remember the Titans (2000), Erin Brockovich (2000), Chicken Run (2000)》。偏好题材包括：Drama、Romance、Comedy、War、Fantasy"
+  },
+  {
+    "uid": "165",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "self-employed",
+    "interests": [
+      "Sci-Fi",
+      "Comedy",
+      "Action",
+      "Thriller",
+      "Horror"
+    ],
+    "stats": {
+      "total_ratings": 110,
+      "avg_rating": 3.98,
+      "high_rating_ratio": "75%"
+    },
+    "recent_movies": [
+      "Spaceballs (1987)",
+      "Mad Max Beyond Thunderdome (1985)",
+      "Predator (1987)"
+    ],
+    "description": "165号用户（男, 18-24, self-employed）是个电影爱好者（平均评分4.0分，75%的电影评分为4星及以上），最近观看的电影包括《Spaceballs (1987), Mad Max Beyond Thunderdome (1985), Predator (1987)》。偏好题材包括：Sci-Fi、Comedy、Action、Thriller、Horror"
+  },
+  {
+    "uid": "166",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Action",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 410,
+      "avg_rating": 3.69,
+      "high_rating_ratio": "55%"
+    },
+    "recent_movies": [
+      "Strangers on a Train (1951)",
+      "Vertigo (1958)",
+      "Run Lola Run (Lola rennt) (1998)"
+    ],
+    "description": "166号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.7分，55%的电影评分为4星及以上），最近观看的电影包括《Strangers on a Train (1951), Vertigo (1958), Run Lola Run (Lola rennt) (1998)》。偏好题材包括：Drama、Comedy、Thriller、Action、Sci-Fi"
+  },
+  {
+    "uid": "167",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "lawyer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Action",
+      "Romance",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 58,
+      "avg_rating": 2.93,
+      "high_rating_ratio": "31%"
+    },
+    "recent_movies": [
+      "You've Got Mail (1998)",
+      "Three Amigos! (1986)",
+      "Peggy Sue Got Married (1986)"
+    ],
+    "description": "167号用户（女, 25-34, lawyer）是个电影爱好者（平均评分2.9分，31%的电影评分为4星及以上），最近观看的电影包括《You've Got Mail (1998), Three Amigos! (1986), Peggy Sue Got Married (1986)》。偏好题材包括：Drama、Comedy、Action、Romance、Adventure"
+  },
+  {
+    "uid": "168",
+    "gender": "女",
+    "age_group": "50-55",
+    "occupation": "other",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Action",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 26,
+      "avg_rating": 3.85,
+      "high_rating_ratio": "69%"
+    },
+    "recent_movies": [
+      "Perfect Storm, The (2000)",
+      "Fatal Attraction (1987)",
+      "Lion King, The (1994)"
+    ],
+    "description": "168号用户（女, 50-55, other）是个电影爱好者（平均评分3.8分，69%的电影评分为4星及以上），最近观看的电影包括《Perfect Storm, The (2000), Fatal Attraction (1987), Lion King, The (1994)》。偏好题材包括：Comedy、Drama、Action、Sci-Fi、Adventure"
+  },
+  {
+    "uid": "169",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "executive/managerial",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 552,
+      "avg_rating": 3.57,
+      "high_rating_ratio": "61%"
+    },
+    "recent_movies": [
+      "Victor/Victoria (1982)",
+      "Palm Beach Story, The (1942)",
+      "Men in Black (1997)"
+    ],
+    "description": "169号用户（男, 25-34, executive/managerial）是个电影爱好者（平均评分3.6分，61%的电影评分为4星及以上），最近观看的电影包括《Victor/Victoria (1982), Palm Beach Story, The (1942), Men in Black (1997)》。偏好题材包括：Comedy、Drama、Action、Thriller、Adventure"
+  },
+  {
+    "uid": "170",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "lawyer",
+    "interests": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller",
+      "War"
+    ],
+    "stats": {
+      "total_ratings": 87,
+      "avg_rating": 3.99,
+      "high_rating_ratio": "71%"
+    },
+    "recent_movies": [
+      "Wizard of Oz, The (1939)",
+      "Lawrence of Arabia (1962)",
+      "Bowfinger (1999)"
+    ],
+    "description": "170号用户（男, 25-34, lawyer）是个电影爱好者（平均评分4.0分，71%的电影评分为4星及以上），最近观看的电影包括《Wizard of Oz, The (1939), Lawrence of Arabia (1962), Bowfinger (1999)》。偏好题材包括：Action、Drama、Sci-Fi、Thriller、War"
+  },
+  {
+    "uid": "171",
+    "gender": "女",
+    "age_group": "50-55",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Documentary",
+      "Drama",
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 24,
+      "avg_rating": 4.0,
+      "high_rating_ratio": "79%"
+    },
+    "recent_movies": [
+      "Grifters, The (1990)",
+      "Devil in a Blue Dress (1995)",
+      "L.A. Confidential (1997)"
+    ],
+    "description": "171号用户（女, 50-55, technician/engineer）是个电影爱好者（平均评分4.0分，79%的电影评分为4星及以上），最近观看的电影包括《Grifters, The (1990), Devil in a Blue Dress (1995), L.A. Confidential (1997)》。偏好题材包括：Documentary、Drama、Comedy、Crime、Thriller"
+  },
+  {
+    "uid": "172",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "clerical/admin",
+    "interests": [
+      "Film-Noir",
+      "Drama",
+      "Thriller",
+      "Comedy",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 23,
+      "avg_rating": 3.61,
+      "high_rating_ratio": "52%"
+    },
+    "recent_movies": [
+      "Angel Heart (1987)",
+      "Who Framed Roger Rabbit? (1988)",
+      "Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)"
+    ],
+    "description": "172号用户（男, 25-34, clerical/admin）是个电影爱好者（平均评分3.6分，52%的电影评分为4星及以上），最近观看的电影包括《Angel Heart (1987), Who Framed Roger Rabbit? (1988), Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)》。偏好题材包括：Film-Noir、Drama、Thriller、Comedy、Crime"
+  },
+  {
+    "uid": "173",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "other",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 561,
+      "avg_rating": 3.97,
+      "high_rating_ratio": "70%"
+    },
+    "recent_movies": [
+      "Terrorist, The (Malli) (1998)",
+      "Prick Up Your Ears (1987)",
+      "Blue Collar (1978)"
+    ],
+    "description": "173号用户（男, 25-34, other）是个电影爱好者（平均评分4.0分，70%的电影评分为4星及以上），最近观看的电影包括《Terrorist, The (Malli) (1998), Prick Up Your Ears (1987), Blue Collar (1978)》。偏好题材包括：Drama、Comedy、Thriller、Action、Crime"
+  },
+  {
+    "uid": "174",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "self-employed",
+    "interests": [
+      "Action",
+      "Thriller",
+      "Sci-Fi",
+      "Adventure",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 97,
+      "avg_rating": 3.65,
+      "high_rating_ratio": "58%"
+    },
+    "recent_movies": [
+      "Licence to Kill (1989)",
+      "Lethal Weapon 2 (1989)",
+      "Moonraker (1979)"
+    ],
+    "description": "174号用户（男, 25-34, self-employed）是个电影爱好者（平均评分3.6分，58%的电影评分为4星及以上），最近观看的电影包括《Licence to Kill (1989), Lethal Weapon 2 (1989), Moonraker (1979)》。偏好题材包括：Action、Thriller、Sci-Fi、Adventure、Drama"
+  },
+  {
+    "uid": "175",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "artist",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Children's",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 317,
+      "avg_rating": 3.98,
+      "high_rating_ratio": "73%"
+    },
+    "recent_movies": [
+      "Pink Flamingos (1972)",
+      "Twin Falls Idaho (1999)",
+      "Fantasia (1940)"
+    ],
+    "description": "175号用户（女, 25-34, artist）是个电影爱好者（平均评分4.0分，73%的电影评分为4星及以上），最近观看的电影包括《Pink Flamingos (1972), Twin Falls Idaho (1999), Fantasia (1940)》。偏好题材包括：Drama、Comedy、Romance、Children's、Thriller"
+  },
+  {
+    "uid": "176",
+    "gender": "女",
+    "age_group": "18-24",
+    "occupation": "clerical/admin",
+    "interests": [
+      "Comedy",
+      "Romance",
+      "Adventure",
+      "Action",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 78,
+      "avg_rating": 3.62,
+      "high_rating_ratio": "58%"
+    },
+    "recent_movies": [
+      "Who's That Girl? (1987)",
+      "Grease 2 (1982)",
+      "Meatballs Part II (1984)"
+    ],
+    "description": "176号用户（女, 18-24, clerical/admin）是个电影爱好者（平均评分3.6分，58%的电影评分为4星及以上），最近观看的电影包括《Who's That Girl? (1987), Grease 2 (1982), Meatballs Part II (1984)》。偏好题材包括：Comedy、Romance、Adventure、Action、Drama"
+  },
+  {
+    "uid": "177",
+    "gender": "男",
+    "age_group": "50-55",
+    "occupation": "academic/educator",
+    "interests": [
+      "Sci-Fi",
+      "Adventure",
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 44,
+      "avg_rating": 4.11,
+      "high_rating_ratio": "75%"
+    },
+    "recent_movies": [
+      "E.T. the Extra-Terrestrial (1982)",
+      "Beetlejuice (1988)",
+      "American Beauty (1999)"
+    ],
+    "description": "177号用户（男, 50-55, academic/educator）是个电影爱好者（平均评分4.1分，75%的电影评分为4星及以上），最近观看的电影包括《E.T. the Extra-Terrestrial (1982), Beetlejuice (1988), American Beauty (1999)》。偏好题材包括：Sci-Fi、Adventure、Action、Drama、Thriller"
+  },
+  {
+    "uid": "178",
+    "gender": "男",
+    "age_group": "56+",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Comedy",
+      "Musical",
+      "Romance",
+      "Children's",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 115,
+      "avg_rating": 3.84,
+      "high_rating_ratio": "69%"
+    },
+    "recent_movies": [
+      "For a Few Dollars More (1965)",
+      "Absent Minded Professor, The (1961)",
+      "Beach Party (1963)"
+    ],
+    "description": "178号用户（男, 56+, technician/engineer）是个电影爱好者（平均评分3.8分，69%的电影评分为4星及以上），最近观看的电影包括《For a Few Dollars More (1965), Absent Minded Professor, The (1961), Beach Party (1963)》。偏好题材包括：Comedy、Musical、Romance、Children's、Adventure"
+  },
+  {
+    "uid": "179",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "other",
+    "interests": [
+      "Sci-Fi",
+      "Drama",
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 110,
+      "avg_rating": 2.65,
+      "high_rating_ratio": "25%"
+    },
+    "recent_movies": [
+      "Solo (1996)",
+      "Robocop 3 (1993)",
+      "Highlander III: The Sorcerer (1994)"
+    ],
+    "description": "179号用户（男, 25-34, other）是个电影爱好者（平均评分2.7分，25%的电影评分为4星及以上），最近观看的电影包括《Solo (1996), Robocop 3 (1993), Highlander III: The Sorcerer (1994)》。偏好题材包括：Sci-Fi、Drama、Action、Adventure、Comedy"
+  },
+  {
+    "uid": "180",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "programmer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Crime",
+      "Film-Noir"
+    ],
+    "stats": {
+      "total_ratings": 59,
+      "avg_rating": 3.69,
+      "high_rating_ratio": "59%"
+    },
+    "recent_movies": [
+      "Joe Gould's Secret (2000)",
+      "Patriot, The (2000)",
+      "Wonder Boys (2000)"
+    ],
+    "description": "180号用户（男, 45-49, programmer）是个电影爱好者（平均评分3.7分，59%的电影评分为4星及以上），最近观看的电影包括《Joe Gould's Secret (2000), Patriot, The (2000), Wonder Boys (2000)》。偏好题材包括：Drama、Comedy、Thriller、Crime、Film-Noir"
+  },
+  {
+    "uid": "181",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Thriller",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 301,
+      "avg_rating": 3.6,
+      "high_rating_ratio": "60%"
+    },
+    "recent_movies": [
+      "American History X (1998)",
+      "Malcolm X (1992)",
+      "Searching for Bobby Fischer (1993)"
+    ],
+    "description": "181号用户（男, 18-24, technician/engineer）是个电影爱好者（平均评分3.6分，60%的电影评分为4星及以上），最近观看的电影包括《American History X (1998), Malcolm X (1992), Searching for Bobby Fischer (1993)》。偏好题材包括：Comedy、Action、Drama、Thriller、Adventure"
+  },
+  {
+    "uid": "182",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Action",
+      "Romance",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 83,
+      "avg_rating": 3.83,
+      "high_rating_ratio": "66%"
+    },
+    "recent_movies": [
+      "Misery (1990)",
+      "Seven (Se7en) (1995)",
+      "Sixth Sense, The (1999)"
+    ],
+    "description": "182号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.8分，66%的电影评分为4星及以上），最近观看的电影包括《Misery (1990), Seven (Se7en) (1995), Sixth Sense, The (1999)》。偏好题材包括：Comedy、Drama、Action、Romance、Thriller"
+  },
+  {
+    "uid": "183",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Thriller",
+      "Mystery",
+      "Film-Noir"
+    ],
+    "stats": {
+      "total_ratings": 101,
+      "avg_rating": 4.1,
+      "high_rating_ratio": "76%"
+    },
+    "recent_movies": [
+      "Jerry Maguire (1996)",
+      "Victor/Victoria (1982)",
+      "Blue Velvet (1986)"
+    ],
+    "description": "183号用户（女, 45-49, academic/educator）是个电影爱好者（平均评分4.1分，76%的电影评分为4星及以上），最近观看的电影包括《Jerry Maguire (1996), Victor/Victoria (1982), Blue Velvet (1986)》。偏好题材包括：Drama、Comedy、Thriller、Mystery、Film-Noir"
+  },
+  {
+    "uid": "184",
+    "gender": "女",
+    "age_group": "25-34",
+    "occupation": "other",
+    "interests": [
+      "Children's",
+      "Animation",
+      "Drama",
+      "Comedy",
+      "Musical"
+    ],
+    "stats": {
+      "total_ratings": 84,
+      "avg_rating": 4.08,
+      "high_rating_ratio": "71%"
+    },
+    "recent_movies": [
+      "Fly Away Home (1996)",
+      "Willy Wonka and the Chocolate Factory (1971)",
+      "Hercules (1997)"
+    ],
+    "description": "184号用户（女, 25-34, other）是个电影爱好者（平均评分4.1分，71%的电影评分为4星及以上），最近观看的电影包括《Fly Away Home (1996), Willy Wonka and the Chocolate Factory (1971), Hercules (1997)》。偏好题材包括：Children's、Animation、Drama、Comedy、Musical"
+  },
+  {
+    "uid": "185",
+    "gender": "男",
+    "age_group": "45-49",
+    "occupation": "other",
+    "interests": [
+      "Action",
+      "Thriller",
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 51,
+      "avg_rating": 3.59,
+      "high_rating_ratio": "53%"
+    },
+    "recent_movies": [
+      "Waterworld (1995)",
+      "Lethal Weapon 4 (1998)",
+      "Sudden Death (1995)"
+    ],
+    "description": "185号用户（男, 45-49, other）是个电影爱好者（平均评分3.6分，53%的电影评分为4星及以上），最近观看的电影包括《Waterworld (1995), Lethal Weapon 4 (1998), Sudden Death (1995)》。偏好题材包括：Action、Thriller、Adventure、Drama、Sci-Fi"
+  },
+  {
+    "uid": "186",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "customer service",
+    "interests": [
+      "Comedy",
+      "Animation",
+      "Children's",
+      "Action",
+      "Drama"
+    ],
+    "stats": {
+      "total_ratings": 122,
+      "avg_rating": 4.25,
+      "high_rating_ratio": "84%"
+    },
+    "recent_movies": [
+      "Wild Wild West (1999)",
+      "Talented Mr. Ripley, The (1999)",
+      "Sleepy Hollow (1999)"
+    ],
+    "description": "186号用户（男, 18-24, customer service）是个电影爱好者（平均评分4.3分，84%的电影评分为4星及以上），最近观看的电影包括《Wild Wild West (1999), Talented Mr. Ripley, The (1999), Sleepy Hollow (1999)》。偏好题材包括：Comedy、Animation、Children's、Action、Drama"
+  },
+  {
+    "uid": "187",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Thriller",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 417,
+      "avg_rating": 4.08,
+      "high_rating_ratio": "84%"
+    },
+    "recent_movies": [
+      "Mulan (1998)",
+      "Xiu Xiu: The Sent-Down Girl (Tian yu) (1998)",
+      "Deep End of the Ocean, The (1999)"
+    ],
+    "description": "187号用户（女, 45-49, academic/educator）是个电影爱好者（平均评分4.1分，84%的电影评分为4星及以上），最近观看的电影包括《Mulan (1998), Xiu Xiu: The Sent-Down Girl (Tian yu) (1998), Deep End of the Ocean, The (1999)》。偏好题材包括：Drama、Comedy、Romance、Thriller、Crime"
+  },
+  {
+    "uid": "188",
+    "gender": "男",
+    "age_group": "56+",
+    "occupation": "self-employed",
+    "interests": [
+      "Action",
+      "Drama",
+      "Thriller",
+      "Sci-Fi",
+      "Comedy"
+    ],
+    "stats": {
+      "total_ratings": 71,
+      "avg_rating": 3.17,
+      "high_rating_ratio": "39%"
+    },
+    "recent_movies": [
+      "Who Framed Roger Rabbit? (1988)",
+      "Wild Wild West (1999)",
+      "eXistenZ (1999)"
+    ],
+    "description": "188号用户（男, 56+, self-employed）是个电影爱好者（平均评分3.2分，39%的电影评分为4星及以上），最近观看的电影包括《Who Framed Roger Rabbit? (1988), Wild Wild West (1999), eXistenZ (1999)》。偏好题材包括：Action、Drama、Thriller、Sci-Fi、Comedy"
+  },
+  {
+    "uid": "189",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "other",
+    "interests": [
+      "Drama",
+      "Action",
+      "Thriller",
+      "Comedy",
+      "War"
+    ],
+    "stats": {
+      "total_ratings": 31,
+      "avg_rating": 4.0,
+      "high_rating_ratio": "71%"
+    },
+    "recent_movies": [
+      "Romeo Must Die (2000)",
+      "Glory (1989)",
+      "Platoon (1986)"
+    ],
+    "description": "189号用户（男, 18-24, other）是个电影爱好者（平均评分4.0分，71%的电影评分为4星及以上），最近观看的电影包括《Romeo Must Die (2000), Glory (1989), Platoon (1986)》。偏好题材包括：Drama、Action、Thriller、Comedy、War"
+  },
+  {
+    "uid": "190",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "technician/engineer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "stats": {
+      "total_ratings": 153,
+      "avg_rating": 3.7,
+      "high_rating_ratio": "56%"
+    },
+    "recent_movies": [
+      "Halloween: The Curse of Michael Myers (1995)",
+      "Hellraiser: Bloodline (1996)",
+      "Friday the 13th Part 3: 3D (1982)"
+    ],
+    "description": "190号用户（男, 25-34, technician/engineer）是个电影爱好者（平均评分3.7分，56%的电影评分为4星及以上），最近观看的电影包括《Halloween: The Curse of Michael Myers (1995), Hellraiser: Bloodline (1996), Friday the 13th Part 3: 3D (1982)》。偏好题材包括：Drama、Comedy、Action、Thriller、Crime"
+  },
+  {
+    "uid": "191",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Drama",
+      "Thriller",
+      "Action",
+      "Fantasy"
+    ],
+    "stats": {
+      "total_ratings": 30,
+      "avg_rating": 3.33,
+      "high_rating_ratio": "47%"
+    },
+    "recent_movies": [
+      "Blue Chips (1994)",
+      "Bio-Dome (1996)",
+      "Billy Madison (1995)"
+    ],
+    "description": "191号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.3分，47%的电影评分为4星及以上），最近观看的电影包括《Blue Chips (1994), Bio-Dome (1996), Billy Madison (1995)》。偏好题材包括：Comedy、Drama、Thriller、Action、Fantasy"
+  },
+  {
+    "uid": "192",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "academic/educator",
+    "interests": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 525,
+      "avg_rating": 3.09,
+      "high_rating_ratio": "40%"
+    },
+    "recent_movies": [
+      "Requiem for a Dream (2000)",
+      "Bliss (1997)",
+      "American Psycho (2000)"
+    ],
+    "description": "192号用户（男, 18-24, academic/educator）是个电影爱好者（平均评分3.1分，40%的电影评分为4星及以上），最近观看的电影包括《Requiem for a Dream (2000), Bliss (1997), American Psycho (2000)》。偏好题材包括：Drama、Action、Comedy、Thriller、Sci-Fi"
+  },
+  {
+    "uid": "193",
+    "gender": "女",
+    "age_group": "45-49",
+    "occupation": "scientist",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Romance",
+      "Thriller",
+      "Adventure"
+    ],
+    "stats": {
+      "total_ratings": 242,
+      "avg_rating": 3.68,
+      "high_rating_ratio": "62%"
+    },
+    "recent_movies": [
+      "Lady Vanishes, The (1938)",
+      "Ruling Class, The (1972)",
+      "Opposite of Sex, The (1998)"
+    ],
+    "description": "193号用户（女, 45-49, scientist）是个电影爱好者（平均评分3.7分，62%的电影评分为4星及以上），最近观看的电影包括《Lady Vanishes, The (1938), Ruling Class, The (1972), Opposite of Sex, The (1998)》。偏好题材包括：Drama、Comedy、Romance、Thriller、Adventure"
+  },
+  {
+    "uid": "194",
+    "gender": "女",
+    "age_group": "Under 18",
+    "occupation": "K-12 student",
+    "interests": [
+      "Comedy",
+      "Romance",
+      "Drama",
+      "Children's",
+      "Action"
+    ],
+    "stats": {
+      "total_ratings": 59,
+      "avg_rating": 3.98,
+      "high_rating_ratio": "81%"
+    },
+    "recent_movies": [
+      "Back to the Future Part III (1990)",
+      "Friday (1995)",
+      "What About Bob? (1991)"
+    ],
+    "description": "194号用户（女, Under 18, K-12 student）是个电影爱好者（平均评分4.0分，81%的电影评分为4星及以上），最近观看的电影包括《Back to the Future Part III (1990), Friday (1995), What About Bob? (1991)》。偏好题材包括：Comedy、Romance、Drama、Children's、Action"
+  },
+  {
+    "uid": "195",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "programmer",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "stats": {
+      "total_ratings": 822,
+      "avg_rating": 3.89,
+      "high_rating_ratio": "69%"
+    },
+    "recent_movies": [
+      "Star Trek III: The Search for Spock (1984)",
+      "Star Trek: The Wrath of Khan (1982)",
+      "Star Trek: First Contact (1996)"
+    ],
+    "description": "195号用户（男, 25-34, programmer）是个电影爱好者（平均评分3.9分，69%的电影评分为4星及以上），最近观看的电影包括《Star Trek III: The Search for Spock (1984), Star Trek: The Wrath of Khan (1982), Star Trek: First Contact (1996)》。偏好题材包括：Drama、Comedy、Action、Sci-Fi、Thriller"
+  },
+  {
+    "uid": "196",
+    "gender": "女",
+    "age_group": "35-44",
+    "occupation": "homemaker",
+    "interests": [
+      "Thriller",
+      "Drama",
+      "Crime",
+      "Comedy",
+      "Mystery"
+    ],
+    "stats": {
+      "total_ratings": 32,
+      "avg_rating": 4.06,
+      "high_rating_ratio": "72%"
+    },
+    "recent_movies": [
+      "What Ever Happened to Baby Jane? (1962)",
+      "Spanish Prisoner, The (1997)",
+      "Hard 8 (a.k.a. Sydney, a.k.a. Hard Eight) (1996)"
+    ],
+    "description": "196号用户（女, 35-44, homemaker）是个电影爱好者（平均评分4.1分，72%的电影评分为4星及以上），最近观看的电影包括《What Ever Happened to Baby Jane? (1962), Spanish Prisoner, The (1997), Hard 8 (a.k.a. Sydney, a.k.a. Hard Eight) (1996)》。偏好题材包括：Thriller、Drama、Crime、Comedy、Mystery"
+  },
+  {
+    "uid": "197",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "sales/marketing",
+    "interests": [
+      "Drama",
+      "Comedy",
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "stats": {
+      "total_ratings": 22,
+      "avg_rating": 3.91,
+      "high_rating_ratio": "68%"
+    },
+    "recent_movies": [
+      "American Beauty (1999)",
+      "East is East (1999)",
+      "High Fidelity (2000)"
+    ],
+    "description": "197号用户（男, 18-24, sales/marketing）是个电影爱好者（平均评分3.9分，68%的电影评分为4星及以上），最近观看的电影包括《American Beauty (1999), East is East (1999), High Fidelity (2000)》。偏好题材包括：Drama、Comedy、Action、Adventure、Romance"
+  },
+  {
+    "uid": "198",
+    "gender": "男",
+    "age_group": "25-34",
+    "occupation": "programmer",
+    "interests": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 379,
+      "avg_rating": 3.75,
+      "high_rating_ratio": "65%"
+    },
+    "recent_movies": [
+      "Road to El Dorado, The (2000)",
+      "Scary Movie (2000)",
+      "Me, Myself and Irene (2000)"
+    ],
+    "description": "198号用户（男, 25-34, programmer）是个电影爱好者（平均评分3.7分，65%的电影评分为4星及以上），最近观看的电影包括《Road to El Dorado, The (2000), Scary Movie (2000), Me, Myself and Irene (2000)》。偏好题材包括：Comedy、Action、Drama、Adventure、Sci-Fi"
+  },
+  {
+    "uid": "199",
+    "gender": "男",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Drama",
+      "Action",
+      "Comedy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "stats": {
+      "total_ratings": 402,
+      "avg_rating": 3.28,
+      "high_rating_ratio": "45%"
+    },
+    "recent_movies": [
+      "Lost & Found (1999)",
+      "Loaded Weapon 1 (1993)",
+      "Jumpin' Jack Flash (1986)"
+    ],
+    "description": "199号用户（男, 18-24, college/grad student）是个电影爱好者（平均评分3.3分，45%的电影评分为4星及以上），最近观看的电影包括《Lost & Found (1999), Loaded Weapon 1 (1993), Jumpin' Jack Flash (1986)》。偏好题材包括：Drama、Action、Comedy、Romance、Sci-Fi"
+  },
+  {
+    "uid": "200",
+    "gender": "女",
+    "age_group": "18-24",
+    "occupation": "college/grad student",
+    "interests": [
+      "Comedy",
+      "Action",
+      "Thriller",
+      "Adventure",
+      "Children's"
+    ],
+    "stats": {
+      "total_ratings": 26,
+      "avg_rating": 3.42,
+      "high_rating_ratio": "50%"
+    },
+    "recent_movies": [
+      "Entrapment (1999)",
+      "Erin Brockovich (2000)",
+      "Election (1999)"
+    ],
+    "description": "200号用户（女, 18-24, college/grad student）是个电影爱好者（平均评分3.4分，50%的电影评分为4星及以上），最近观看的电影包括《Entrapment (1999), Erin Brockovich (2000), Election (1999)》。偏好题材包括：Comedy、Action、Thriller、Adventure、Children's"
+  }
+]

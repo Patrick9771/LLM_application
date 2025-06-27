@@ -1,0 +1,47 @@
+[
+  {
+    "user": {
+      "uid": "5",
+      "gender": "男",
+      "age_group": "25-34",
+      "occupation": "writer",
+      "interests": [
+        "Drama",
+        "Comedy",
+        "Thriller",
+        "Romance",
+        "Action"
+      ],
+      "stats": {
+        "total_ratings": 198,
+        "avg_rating": 3.15,
+        "high_rating_ratio": "41%"
+      },
+      "recent_movies": [
+        "Natural Born Killers (1994)",
+        "Liar Liar (1997)",
+        "Awakenings (1990)"
+      ],
+      "description": "5号用户（男, 25-34, writer）是个电影爱好者（平均评分3.1分，41%的电影评分为4星及以上），最近观看的电影包括《Natural Born Killers (1994), Liar Liar (1997), Awakenings (1990)》。偏好题材包括：Drama、Comedy、Thriller、Romance、Action"
+    },
+    "rec": "Based on the user profile (male, 25-34, writer, enjoys Drama, Comedy, Thriller, Romance, and Action, with recent watches like *Natural Born Killers*, *Liar Liar*, and *Awakenings*), here are three tailored recommendations from the 1995 film list, along with reasons:\n\n### 1. **Seven (Se7en) (1995)**  \n   - **Why?** This psychological thriller aligns with the user’s preference for dark, gripping narratives (*Natural Born Killers*) and drama. Its intense plot and literary undertones (the killer’s obsession with symbolism) would appeal to a writer. The film’s critical acclaim (likely matching the user’s 4-star+ ratings) and genre blend (Thriller/Drama) make it a strong fit.\n\n### 2. **Get Shorty (1995)**  \n   - **Why?** A sharp blend of comedy and crime thriller, this film’s witty dialogue and satirical take on Hollywood (*Liar Liar*’s comedic tone but with a darker edge) would resonate with a writer. The user’s enjoyment of both comedy and action is met here, and its clever storytelling could appeal to their creative side.\n\n### 3. **Leaving Las Vegas (1995)**  \n   - **Why?** A raw, dramatic character study (*Awakenings*’ emotional depth) with a tragic romance at its core. The protagonist’s self-destructive journey and poetic dialogue might captivate a writer, while the film’s unflinching drama matches the user’s appreciation for complex narratives.\n\n**Bonus Note:** If the user leans more toward action, *Heat (1995)* could substitute for its heist thrills and dramatic weight, but the above selections better balance their eclectic tastes.",
+    "logic_result": null,
+    "hallucination_result": "```json\n{\n  \"Hallucination-Risk\": 0,\n  \"Explanation-Groundedness\": 5,\n  \"Explanation\": \"All facts and explanations are accurate and grounded in the user's profile and film details.\"\n}\n```",
+    "subjective_result": {
+      "Relevance": 5,
+      "Clarity": 5,
+      "Persuasiveness": 5,
+      "User context": "5号用户（男, 25-34, writer）是个电影爱好者（平均评分3.1分，41%的电影评分为4星及以上），最近观看的电影包括《Natural Born Killers (1994), Liar Liar (1997), Awakenings (1990)》。偏好题材包括：Drama、Comedy、Thriller、Romance、Action",
+      "Movie": "Seven (Se7en) (1995)",
+      "Explanation": "This psychological thriller aligns with the user’s preference for dark, gripping narratives (*Natural Born Killers*) and drama. Its intense plot and literary undertones (the killer’s obsession with symbolism) would appeal to a writer. The film’s critical acclaim (likely matching the user’s 4-star+ ratings) and genre blend (Thriller/Drama) make it a strong fit."
+    },
+    "reward": 5.6,
+    "user_ratings": [
+      [
+        "Seven (Se7en (1995",
+        "Seven (Se7en) (1995)",
+        3
+      ]
+    ]
+  }
+]

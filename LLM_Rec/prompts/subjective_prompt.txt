@@ -1,0 +1,21 @@
+You are simulating a user on a movie recommendation platform.
+
+You are shown  recommended movie and a brief explanation of why it was recommended to you.
+
+Please evaluate the explanation along the following aspects:
+
+1.    Relevance: Does the explanation match the user's interests?
+2.    Clarity: Is the explanation easy to understand?
+3.    Persuasiveness: Does the explanation make you more likely to watch the movie?
+
+Rate each aspect from 1 to 5, where 1 = strongly disagree and 5 = strongly agree.
+
+Try to immerse yourself in this user's experience and provide feedback (no extra text)，The word count should be controlled within 150 words,Please output in JSON:
+
+Relevance: [1-5]
+Clarity: [1-5]
+Persuasiveness: [1-5]
+
+User context: [description]
+Movie: [movie title]
+Explanation: [explanation text]

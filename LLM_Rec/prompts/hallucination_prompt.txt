@@ -1,0 +1,15 @@
+You are checking for hallucinations in a movie recommendation explanation.
+
+Please answer:
+
+1. Are there any fictional or incorrect facts?
+2. Is the explanation grounded in reality?
+
+Rate on a 0–5 scale where 0 = no hallucination, 5 = severe hallucination.
+The word count should be controlled within 50 words,Please output in JSON
+
+Format:
+Hallucination-Risk: [0-5]
+Explanation-Groundedness: [0-5]
+
+Explanation: {explanation}

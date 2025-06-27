@@ -1,0 +1,20 @@
+import os
+
+# API Keys
+DEEPSEEK_CHAT_API_KEY = os.getenv("DEEPSEEK_CHAT_API_KEY") or "sk-a32ee46a23494a8eb29140d9888675b7"
+DEEPSEEK_REASONER_API_KEY = os.getenv("DEEPSEEK_CHAT_API_KEY") or "sk-a32ee46a23494a8eb29140d9888675b7"
+QWEN_PLUS_API_KEY = "sk-f8c157427a204f498f146f2ad401a804"
+# ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY") or "your-anthropic-key"
+
+# API Models
+DEEPSEEK_CHAT_MODEL = "deepseek-chat"
+DEEPSEEK_REASONER_MODEL = "deepseek-reasoner"
+QWEN_PLUS_MODEL = "qwen-plus"
+
+# SparkDesk
+SPARKAI_APP_ID = "20bb298e"
+SPARKAI_API_SECRET = "NTJkZDU3NDYxZDdiMDNkNTQ4NTg2MDY4"
+SPARKAI_API_KEY = "c4e551fa91d5b15a8bda8dd3704cda61"
+SPARKAI_URL = 'wss://spark-api.xf-yun.com/v3.5/chat'
+SPARKAI_DOMAIN = 'generalv3.5'
+

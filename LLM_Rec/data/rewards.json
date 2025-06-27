@@ -1,0 +1,93 @@
+[
+  {
+    "user_id": "13",
+    "movie_id": 10,
+    "movie_name": "GoldenEye (1995)",
+    "reward": 4.816666666666667,
+    "user_rating": 3
+  },
+  {
+    "user_id": "15",
+    "movie_id": 6,
+    "movie_name": "Heat (1995)",
+    "reward": 4.8999999999999995,
+    "user_rating": 4
+  },
+  {
+    "user_id": "18",
+    "movie_id": 17,
+    "movie_name": "Sense and Sensibility (1995)",
+    "reward": 4.85,
+    "user_rating": 4
+  },
+  {
+    "user_id": "18",
+    "movie_id": 10,
+    "movie_name": "GoldenEye (1995)",
+    "reward": 4.1499999999999995,
+    "user_rating": 5
+  },
+  {
+    "user_id": "18",
+    "movie_id": 34,
+    "movie_name": "Babe (1995)",
+    "reward": 4.016666666666667,
+    "user_rating": 5
+  },
+  {
+    "user_id": "19",
+    "movie_id": 10,
+    "movie_name": "GoldenEye (1995)",
+    "reward": 4.8999999999999995,
+    "user_rating": 5
+  },
+  {
+    "user_id": "19",
+    "movie_id": 32,
+    "movie_name": "Twelve Monkeys (1995)",
+    "reward": 4.333333333333333,
+    "user_rating": 4
+  },
+  {
+    "user_id": "21",
+    "movie_id": 1,
+    "movie_name": "Toy Story (1995)",
+    "reward": 4.75,
+    "user_rating": 3
+  },
+  {
+    "user_id": "22",
+    "movie_id": 32,
+    "movie_name": "Twelve Monkeys (1995)",
+    "reward": 4.333333333333333,
+    "user_rating": 4
+  },
+  {
+    "user_id": "22",
+    "movie_id": 10,
+    "movie_name": "GoldenEye (1995)",
+    "reward": 4.8999999999999995,
+    "user_rating": 3
+  },
+  {
+    "user_id": "23",
+    "movie_id": 6,
+    "movie_name": "Heat (1995)",
+    "reward": 4.95,
+    "user_rating": 3
+  },
+  {
+    "user_id": "23",
+    "movie_id": 32,
+    "movie_name": "Twelve Monkeys (1995)",
+    "reward": 4.666666666666667,
+    "user_rating": 4
+  },
+  {
+    "user_id": "28",
+    "movie_id": 25,
+    "movie_name": "Leaving Las Vegas (1995)",
+    "reward": 4.533333333333333,
+    "user_rating": 3
+  }
+]
